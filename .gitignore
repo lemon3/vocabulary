@@ -1,0 +1,9 @@
+_notes
+*.sublime-*
+.vscode
+.DS_Store
+.phpintel
+node_modules
+yarn-error.log
+yarn.lock
+*.tgz

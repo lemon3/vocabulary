@@ -1,0 +1,375 @@
+{
+  "groups": [
+    {
+      "id": "c3c87cf5d31d7393fe9cf3f6",
+      "name": "More! 1 - UNIT 3",
+      "date": "2023-11-06T14:12:25.517Z",
+      "words": [
+        {
+          "id": "2360d36e3d101084bceaadc1",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "auch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "also",
+            "language": "en"
+          },
+          "hint": "Tamara is also a pirate.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "d604aa2ac0fdc82b1479222a",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "berühmt",
+            "language": "de"
+          },
+          "translation": {
+            "word": "famous",
+            "language": "en"
+          },
+          "hint": "Greybeard is a famous pirate.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "5be45a8a478d1e2e1a112663",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "ihm/ihn",
+            "language": "de"
+          },
+          "translation": {
+            "word": "him",
+            "language": "en"
+          },
+          "hint": "Peter is nice. We like him.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "b1b53ec5037bfe6b4f94b7bb",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "sein/e",
+            "language": "de"
+          },
+          "translation": {
+            "word": "his",
+            "language": "en"
+          },
+          "hint": "His pirate name is Blackbeard.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "ffffb7da916b8d73dc6bd8f1",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Schiff",
+            "language": "de"
+          },
+          "translation": {
+            "word": "ship",
+            "language": "en"
+          },
+          "hint": "Greybeard has got a big ship.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "da6eb747b049cb605a2871f5",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Angst haben (vor)",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to be scared (of)",
+            "language": "en"
+          },
+          "hint": "The kids are scared of the ship.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "7a7ffcb6916bea57e048363a",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "sehr",
+            "language": "de"
+          },
+          "translation": {
+            "word": "very",
+            "language": "en"
+          },
+          "hint": "They are very scared.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "7b2920d8a724e2f73e5a000b",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "stark, kräftig",
+            "language": "de"
+          },
+          "translation": {
+            "word": "strong",
+            "language": "en"
+          },
+          "hint": "Greybeard hasn't got a strong left leg.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "79b669de48d9ff7dcb05ba90",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Kapitän",
+            "language": "de"
+          },
+          "translation": {
+            "word": "captain",
+            "language": "en"
+          },
+          "hint": "The captain has got a blue ship.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "7af93fc78fce7afd96ba75ff",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "haben",
+            "language": "de"
+          },
+          "translation": {
+            "word": "have got / has got",
+            "language": "en"
+          },
+          "hint": "I have got brown hair.\nTamara has got red hair.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "3375197ef8dc5ec2c7648fe3",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "hübsch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "pretty",
+            "language": "en"
+          },
+          "hint": "Polly is a pretty pirate.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "a2309b950a7048d30356610f",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "violett, lila",
+            "language": "de"
+          },
+          "translation": {
+            "word": "purple",
+            "language": "en"
+          },
+          "hint": "She has got purple hair.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "75f9211285e1555d3e7a170c",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "viel/e",
+            "language": "de"
+          },
+          "translation": {
+            "word": "a lot of / lots of",
+            "language": "en"
+          },
+          "hint": "She has got a lot of books about pirates.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "d77f8e8a1358d1c6f536efa3",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Bett",
+            "language": "de"
+          },
+          "translation": {
+            "word": "bed",
+            "language": "en"
+          },
+          "hint": "Dana is in bed now.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "f700655c5ec5ed1651e47af0",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Traum",
+            "language": "de"
+          },
+          "translation": {
+            "word": "dream",
+            "language": "en"
+          },
+          "hint": "It's a dream!",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "8c510b2366794e6bfe92f012",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "müde",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tired",
+            "language": "en"
+          },
+          "hint": "Dana is in bed. She is tired.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "ff9c146e5f0aa0020e0fcbf5",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "raten",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to guess",
+            "language": "en"
+          },
+          "hint": "Listen and guess the pirate.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "8f92880041293e380eb1448b",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Du bist an der Reihe.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "It's your turn.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "7455ca1d3d0862d552787a8c",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Bruder",
+            "language": "de"
+          },
+          "translation": {
+            "word": "brother",
+            "language": "en"
+          },
+          "hint": "Fred is Frank's brother.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "77b631952cb06788e701d8fb",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "blond",
+            "language": "de"
+          },
+          "translation": {
+            "word": "blonde",
+            "language": "en"
+          },
+          "hint": "He has got blonde hair.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "5dbd8e911c9b70aafdbf16fd",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "echt; wirklich",
+            "language": "de"
+          },
+          "translation": {
+            "word": "real",
+            "language": "en"
+          },
+          "hint": "His left leg isn't real. It's wooden.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "5fe72886ae5ea2f2f89082d3",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "klein",
+            "language": "de"
+          },
+          "translation": {
+            "word": "short",
+            "language": "en"
+          },
+          "hint": "Greybeard is short.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "f0ee31fbc4a0541245ebaa6e",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "groß",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tall",
+            "language": "en"
+          },
+          "hint": "Tamara is tall.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "57619ddfdc386adc5fb87f4a",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "falsch, nicht in Ordnung",
+            "language": "de"
+          },
+          "translation": {
+            "word": "wrong",
+            "language": "en"
+          },
+          "hint": "Say what's wrong.",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "361bd3494914328128eb0b1b",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "Gute Idee.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Good idea.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        },
+        {
+          "id": "3657aabefcd57e0341dbfd33",
+          "date": "2023-11-06T14:12:25.517Z",
+          "word": {
+            "word": "wahr",
+            "language": "de"
+          },
+          "translation": {
+            "word": "true",
+            "language": "en"
+          },
+          "hint": "Is it true?",
+          "groupId": "dc56beb52eb6a38932eec67b"
+        }
+      ]
+    }
+  ]
+}

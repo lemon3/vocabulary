@@ -1,0 +1,585 @@
+{
+  "groups": [
+    {
+      "id": "e60bfea4d1154ee9d6016894",
+      "name": "More! 1 - UNIT 2",
+      "date": "2023-11-06T14:12:25.516Z",
+      "words": [
+        {
+          "id": "2ca03537365cfe4db9572c25",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Zoo",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Zoo",
+            "language": "en"
+          },
+          "hint": "There are many animals in the zoo.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "d793247c305249e240343773",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "schön, hübsch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "beautiful",
+            "language": "en"
+          },
+          "hint": "The parrot is blue and yellow. It's beautiful.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "7330c0d66682492a5348d380",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "hinter",
+            "language": "de"
+          },
+          "translation": {
+            "word": "behind",
+            "language": "en"
+          },
+          "hint": "The chair is behind the desk.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "d983e235ee195359cc60774f",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "groß",
+            "language": "de"
+          },
+          "translation": {
+            "word": "big",
+            "language": "en"
+          },
+          "hint": "There's a big giraffe.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "070cd93e9f9aa609f0c34c19",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "vor",
+            "language": "de"
+          },
+          "translation": {
+            "word": "in front of",
+            "language": "en"
+          },
+          "hint": "The tree is in front of you.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "058b98eab75d18b6560bdb75",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "neben",
+            "language": "de"
+          },
+          "translation": {
+            "word": "next to",
+            "language": "en"
+          },
+          "hint": "The parrot is next to the monkeys.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "4c2a477af9009ba328d334ad",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "jetzt",
+            "language": "de"
+          },
+          "translation": {
+            "word": "now",
+            "language": "en"
+          },
+          "hint": "Where is it now?",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "a112c4adfe34a03a24fb2890",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "auf",
+            "language": "de"
+          },
+          "translation": {
+            "word": "on",
+            "language": "en"
+          },
+          "hint": "Look! The parrot is on Buddy now.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "34378c1e976409502ac54978",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "es gibt, da ist",
+            "language": "de"
+          },
+          "translation": {
+            "word": "there is (there's)",
+            "language": "en"
+          },
+          "hint": "There's a book on my desk.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "c26a9a40009cfe939d190c35",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "es gibt, da sind",
+            "language": "de"
+          },
+          "translation": {
+            "word": "there are",
+            "language": "en"
+          },
+          "hint": "There are three books on my desk.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "3d4958bc8ff7ce76cc4e8e65",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Baum",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tree",
+            "language": "en"
+          },
+          "hint": "The monkeys are behind the tree.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "db175f0a3f69fd1c8a5b31dc",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "unter",
+            "language": "de"
+          },
+          "translation": {
+            "word": "under",
+            "language": "en"
+          },
+          "hint": "There's a book under my desk.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "87a68a0b541149e78ac2a808",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Was ist los?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "What is it?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "e9acd08897e28452c9e380b1",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "wo",
+            "language": "de"
+          },
+          "translation": {
+            "word": "where",
+            "language": "en"
+          },
+          "hint": "Where is it?",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "a27c14cf953015966e9f8320",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "klein",
+            "language": "de"
+          },
+          "translation": {
+            "word": "small",
+            "language": "en"
+          },
+          "hint": "The monkey isn't big. It's small.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "caa16f2c9c934ca77de13bec",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Erwachsene/r",
+            "language": "de"
+          },
+          "translation": {
+            "word": "adult",
+            "language": "en"
+          },
+          "hint": "Adults are £14.40.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "427978ee26030cb25935c634",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "bei; an; hier: in",
+            "language": "de"
+          },
+          "translation": {
+            "word": "at",
+            "language": "en"
+          },
+          "hint": "The children are at the zoo.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "431ff45b20153111c21f7337",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "(mit-)bringen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to bring",
+            "language": "en"
+          },
+          "hint": "Can I bring my dog, Buddy?",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "967add0a228df093c2d3f836",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "aber",
+            "language": "de"
+          },
+          "translation": {
+            "word": "but",
+            "language": "en"
+          },
+          "hint": "Dogs are welcome. But they can't run around.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "dd0cf66253ce2e96cb64a1a3",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "füttern",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to feed",
+            "language": "en"
+          },
+          "hint": "Let's go and feed the penguins.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "0193afe749e09b1ee869570e",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "(Reise-)Führer/in",
+            "language": "de"
+          },
+          "translation": {
+            "word": "guide",
+            "language": "en"
+          },
+          "hint": "Listen to the guide.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "5c65814f4d4cb6f1e40019c8",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "herumlaufen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to run around",
+            "language": "en"
+          },
+          "hint": "Dogs are welcome, but they can't run around.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "a68c5968cf4b6532ab4eb25b",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Zug",
+            "language": "de"
+          },
+          "translation": {
+            "word": "train",
+            "language": "en"
+          },
+          "hint": "Let's go on a train",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "6b3434b54d3c2d7a6a206585",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "zu; bis; vor; hier: in",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to",
+            "language": "en"
+          },
+          "hint": "Welcome to the wildlife park!",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "327844aa4921b6a688dd0ef2",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "willkommen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "welcome",
+            "language": "en"
+          },
+          "hint": "Welcome to London.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "80a8504915fa9d6f4d1bfd99",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "aus",
+            "language": "de"
+          },
+          "translation": {
+            "word": "from",
+            "language": "en"
+          },
+          "hint": "They are from California.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "536114c8bb1ebf41b089280c",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Jahr; Jahrgangsstufe",
+            "language": "de"
+          },
+          "translation": {
+            "word": "year",
+            "language": "en"
+          },
+          "hint": "I'm in Year 7.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "c8803d0d7d4c4d407e9b6ae7",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "er",
+            "language": "de"
+          },
+          "translation": {
+            "word": "he",
+            "language": "en"
+          },
+          "hint": "He likes animals.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "f291e4cfeef9bab5599b01df",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "sie",
+            "language": "de"
+          },
+          "translation": {
+            "word": "she",
+            "language": "en"
+          },
+          "hint": "She is from England.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "3975b74c39d994f5d0e7e338",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "sprechen, sich unterhalten",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to talk",
+            "language": "en"
+          },
+          "hint": "Talk about the boys and girls.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "0d7e85cc7b62fa5421deda7a",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "sie",
+            "language": "de"
+          },
+          "translation": {
+            "word": "they",
+            "language": "en"
+          },
+          "hint": "Rahim and Sue are 11. They are from Manchester.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "0be794325c719018d83ff6a5",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "wir",
+            "language": "de"
+          },
+          "translation": {
+            "word": "we",
+            "language": "en"
+          },
+          "hint": "We're Sophie and John.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "58ece41e0b19e01691031036",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "für",
+            "language": "de"
+          },
+          "translation": {
+            "word": "for",
+            "language": "en"
+          },
+          "hint": "Here's a chant for you.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "5accd65c7504bde0557cfbbc",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "glücklich, fröhlich; zufrieden",
+            "language": "de"
+          },
+          "translation": {
+            "word": "happy",
+            "language": "en"
+          },
+          "hint": "Buddy is happy.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "a4faaf4047a67b37d45d97d6",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "jemanden herauslassen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to let somebody out",
+            "language": "en"
+          },
+          "hint": "Let us out!",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "c757413e26f8eef4ada8c2ac",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "uns",
+            "language": "de"
+          },
+          "translation": {
+            "word": "us",
+            "language": "en"
+          },
+          "hint": "Can you see us?",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "cab70efaf511f482d38ae0da",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Auto",
+            "language": "de"
+          },
+          "translation": {
+            "word": "car",
+            "language": "en"
+          },
+          "hint": "The parrot is in the car.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "da06425fb72d9b7f114226af",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Endlich.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "At last.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "ee78246f306ab86efc23834b",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Wie komisch!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "How strange!",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "71dfca07e21e91e346cf1b8b",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Lass mich mal schauen.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Let me see.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        },
+        {
+          "id": "d31fc861c20ce17f292c5765",
+          "date": "2023-11-06T14:12:25.516Z",
+          "word": {
+            "word": "Stein",
+            "language": "de"
+          },
+          "translation": {
+            "word": "stone",
+            "language": "en"
+          },
+          "hint": "Colour your stone.",
+          "groupId": "5727cb19c5fe88c0560f3158"
+        }
+      ]
+    }
+  ]
+}

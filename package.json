@@ -1,0 +1,23 @@
+{
+  "name": "vocabulary",
+  "version": "0.1.0",
+  "description": " vocabulary",
+  "author": "wolfgang jungmayer",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config config/webpack.prod.js",
+    "prettify": "prettier --write 'src/**/*.json'"
+  },
+  "private": false,
+  "keywords": [
+    "vocabulary"
+  ],
+  "homepage": "https://lemon3.github.io",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "prettier": "^3.0.3",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {}
+}
