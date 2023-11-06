@@ -11,16 +11,17 @@
   MORE! 1</h3>
 </div>
 
-**Titel:**	MORE! STUDENT’S BOOK 1
-**ISBN:**	978-3-7114-0002-4
-**Verlag:**	Helbling Verlagsgesellschaft mbH
+Book info:
+* **Titel:** MORE! STUDENT’S BOOK 1
+* **ISBN:**	978-3-7114-0002-4<br>
+* **Verlag:**	Helbling Verlagsgesellschaft mbH<br>
 
 ## About The Project
 
 English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For import into various iOs apps.
 
 ## Usage
-#app – wordIm
+###app – wordIm
 tdb
 
 ## License
