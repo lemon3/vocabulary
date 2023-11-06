@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lemon3/orfdl">
-    <img src="https://raw.githubusercontent.com/lemon3/orfdl/main/_assets/dl.svg" alt="Logo" width="140" height="auto">
+    <img src="https://raw.githubusercontent.com/lemon3/vocabulary/main/_assets/more!-1.jpg" alt="Logo" width="640" height="auto">
   </a>
   <h3 align="center">Vocabulary Trainer<br>
   MORE! 1</h3>
