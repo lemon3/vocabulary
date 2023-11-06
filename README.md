@@ -21,8 +21,16 @@ Book info:
 English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For import into various iOs apps.
 
 ## Usage
-###app – wordIm
-tdb
+### app – wordim
+1) download [Wordim - Personal vocabulary](https://apps.apple.com/us/app/wordim-personal-vocabulary/id1662281843) from the app-store (apple).
+2) download e.g. [unit1 vocabulary](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit01.wordim).
+3) import this file into the app
+
+all other units [can be found her]([https://](https://github.com/lemon3/vocabulary/tree/main/dist/wordim)).
+
+### app – wordim
+tbd
+
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
