@@ -26,7 +26,7 @@ English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For 
 2) download e.g. [unit1 vocabulary](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit01.wordim).
 3) import this file into the app
 
-all other units [can be found her]([https://](https://github.com/lemon3/vocabulary/tree/main/dist/wordim)).
+all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/wordim).
 
 ### app – wordim
 tbd
