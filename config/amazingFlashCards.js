@@ -1,7 +1,7 @@
 /* global module */
 
 module.exports = {
-  flashcards: (buffer) => {
+  amazingFlashCards: (buffer) => {
     // copy-webpack-plugin passes a buffer
     const data = JSON.parse(buffer.toString());
     let csv = '';
