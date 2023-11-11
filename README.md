@@ -38,7 +38,6 @@ all other units [can be found her](https://github.com/lemon3/vocabulary/tree/mai
 all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/amazing-flash-cards).
 
 
-
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
