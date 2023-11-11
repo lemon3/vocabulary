@@ -5,15 +5,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/lemon3/orfdl">
-    <img src="https://raw.githubusercontent.com/lemon3/vocabulary/main/_assets/more!-1.jpg" alt="Logo" width="640" height="auto">
+    <img src="https://raw.githubusercontent.com/lemon3/vocabulary/main/_assets/more.jpg" alt="Logo" width="640" height="auto">
   </a>
   <h3 align="center">Vocabulary Trainer<br>
   MORE! 1</h3>
 </div>
 
 Book info:
-* **Titel:** MORE! STUDENT’S BOOK 1
-* **ISBN:**	978-3-7114-0002-4<br>
+* **Titel:** MORE! Workbook 1
+* **ISBN:**	978-3-7114-0001-7<br>
 * **Verlag:**	Helbling Verlagsgesellschaft mbH<br>
 
 ## About The Project
