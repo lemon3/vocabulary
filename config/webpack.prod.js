@@ -3,7 +3,12 @@ const CopyPlugin = require('copy-webpack-plugin');
 const { wordim } = require('./wordim');
 const { amazingFlashCards } = require('./amazingFlashCards');
 
-const units = ['more1-unit01', 'more1-unit02', 'more1-unit03'];
+const units = [
+  'more1-unit01',
+  'more1-unit02',
+  'more1-unit03',
+  'more1-unit04',
+];
 
 const versions = [
   {
