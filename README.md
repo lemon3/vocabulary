@@ -36,14 +36,14 @@ Help your child or yourself learn the vocabulary from this book quickly!
 ## Usage
 ### iOS "wordim" app
 1) download [Wordim - Personal vocabulary](https://apps.apple.com/us/app/wordim-personal-vocabulary/id1662281843) from the app-store (apple).
-2) download e.g. [unit1 vocabulary](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit01.wordim).
+2) download e.g. [unit1 vocabulary](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim).
 3) import this file into the app
 
 all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/wordim).
 
 ### iOS "amazing flash cards" app
 1) download [amazing-flash-cards](https://apps.apple.com/at/app/amazing-flash-cards/id1511674871) from the app-store (apple).
-2) download e.g. [unit1 vocabulary](https://github.com/lemon3/vocabulary/blob/main/dist/amazing-flash-cards/more1-unit01.csv).
+2) download e.g. [unit1 vocabulary](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit01.csv).
 3) Locate the csv file and use the "share menu" to open the file in Flash Cards. ("Copy to Flash Cards" should appear as an option, it might be hidden under "More").
 
 all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/amazing-flash-cards).
