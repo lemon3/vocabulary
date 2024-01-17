@@ -1,0 +1,375 @@
+{
+  "groups": [
+    {
+      "id": "29d69809931f7fa1165a2eb7",
+      "name": "More! 1 - UNIT 7",
+      "date": "2024-01-17T11:01:16.139Z",
+      "words": [
+        {
+          "id": "eed976612279d21003382ae1",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Fleisch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "meat",
+            "language": "en"
+          },
+          "hint": "I am vegetarian: I never eat meat.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "a30546fbf8967f943ca27e6a",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Schinken",
+            "language": "de"
+          },
+          "translation": {
+            "word": "ham",
+            "language": "en"
+          },
+          "hint": "On the weekend, I sometimes have ham and eggs for breakfast.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "b64089801c3074c0d3da0dfc",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "gesund",
+            "language": "de"
+          },
+          "translation": {
+            "word": "healthy",
+            "language": "en"
+          },
+          "hint": "A lot of junk food isn't healthy.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "ce7fed9ec40f06ec34a85e24",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "mögen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to like",
+            "language": "en"
+          },
+          "hint": "I like orange juice.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "2bd429c44357c66b0a611e3f",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Das ist nett.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "That's nice.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "20fd75bfcee87bfc145ac288",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "immer",
+            "language": "de"
+          },
+          "translation": {
+            "word": "always",
+            "language": "en"
+          },
+          "hint": "They always have pizza for dinner.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "3f68820f5847c1fc134bf9a7",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Frühstück",
+            "language": "de"
+          },
+          "translation": {
+            "word": "breakfast",
+            "language": "en"
+          },
+          "hint": "We have eggs for breakfast.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "536ab2d2344664c7a2eafadb",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Land",
+            "language": "de"
+          },
+          "translation": {
+            "word": "country",
+            "language": "en"
+          },
+          "hint": "My grandparents live in the country, but I live in the city.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "8e2ee1574d8e850a1e46f234",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Nachtisch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "dessert",
+            "language": "en"
+          },
+          "hint": "For dessert, I like rice pudding.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "87db98db2cbb1701070acc97",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Familie",
+            "language": "de"
+          },
+          "translation": {
+            "word": "family",
+            "language": "en"
+          },
+          "hint": "My family and I live in Austria.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "708397ca729ce5aadbed2dc9",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Obst; Frucht",
+            "language": "de"
+          },
+          "translation": {
+            "word": "fruit",
+            "language": "en"
+          },
+          "hint": "He likes lots of fruit for breakfast.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "d5b6de7e8516cc27b06a87a1",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Großeltern",
+            "language": "de"
+          },
+          "translation": {
+            "word": "grandparents",
+            "language": "en"
+          },
+          "hint": "My grandparents live in the country.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "05ec2736aa3111868768a3f5",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Mittagessen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "lunch",
+            "language": "en"
+          },
+          "hint": "We often have curry for lunch.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "07b86eafe7c1f7342bc4ee24",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "nie, niemals",
+            "language": "de"
+          },
+          "translation": {
+            "word": "never",
+            "language": "en"
+          },
+          "hint": "She never eats meat. She's a vegetarian.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "c485ac08d165619b99388d79",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "oft, haufig",
+            "language": "de"
+          },
+          "translation": {
+            "word": "often",
+            "language": "en"
+          },
+          "hint": "They often have bread for breakfast.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "b308c203958673ff5a2db092",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "setzen, legen, stellen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to put",
+            "language": "en"
+          },
+          "hint": "We put fish and vegetables on the rice paper.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "200465e41e45460a8a577b8b",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "manchmal",
+            "language": "de"
+          },
+          "translation": {
+            "word": "sometimes",
+            "language": "en"
+          },
+          "hint": "We sometimes have fish for lunch.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "865e65b98fc0ab625949d023",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Eintopf",
+            "language": "de"
+          },
+          "translation": {
+            "word": "stew",
+            "language": "en"
+          },
+          "hint": "When we have vegetables (and meat) at home, my mum cooks a stew.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "fcfe5a15197e1603af474b88",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "gewohnlich, normalerweise",
+            "language": "de"
+          },
+          "translation": {
+            "word": "usually",
+            "language": "en"
+          },
+          "hint": "She usually has bread for breakfast.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "d0d1feacb0087f8b27664546",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Gemüse",
+            "language": "de"
+          },
+          "translation": {
+            "word": "vegetables (veggies)",
+            "language": "en"
+          },
+          "hint": "I like veggies, I mean vegetables.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "e164c89de3686a17a59261db",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "bester Freund / beste Freundin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "best friend",
+            "language": "en"
+          },
+          "hint": "I like John best. He's my best friend.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "92a719b22697f406ed69bf12",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Tofu",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tofu",
+            "language": "en"
+          },
+          "hint": "I like meat, but sometimes I also eat tofu.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "6a9ede5922e7a79efca09236",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Rindfleisch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "beef",
+            "language": "en"
+          },
+          "hint": "I often eat chicken, but I really don't like beef.",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "64c5303258d03a1de4afea9b",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Ich weiß es nicht.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "I don't know.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "c13f5e751148fc0f3d6c0011",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Ich bin mir nicht sicher.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "I'm not sure.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "4c1c834d38ce322790c16826"
+        },
+        {
+          "id": "1556d45889bd1ee695a9e05c",
+          "date": "2024-01-17T11:01:16.139Z",
+          "word": {
+            "word": "Geschenk",
+            "language": "de"
+          },
+          "translation": {
+            "word": "present",
+            "language": "en"
+          },
+          "hint": "The vase is a good present for Mum.",
+          "groupId": "4c1c834d38ce322790c16826"
+        }
+      ]
+    }
+  ]
+}
