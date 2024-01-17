@@ -25,11 +25,11 @@ Help your child or yourself learn the vocabulary from this book quickly!
 ## Files
 | units | files |
 |-------|-------|
-| unit 1 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim) <br/>  [amazing flash cards](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit01.wordim) |
-| unit 2 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit02.wordim) <br/>  [amazing flash cards](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit02.wordim) |
-| unit 3 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit03.wordim) <br/>  [amazing flash cards](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit03.wordim) |
-| unit 4 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit04.wordim) <br/>  [amazing flash cards](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit04.wordim) |
-| unit 5 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit05.wordim) <br/>  [amazing flash cards](https://github.com/lemon3/vocabulary/blob/main/dist/wordim/more1-unit05.wordim) |
+| unit 1 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit01.csv) |
+| unit 2 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit02.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit02.csv) |
+| unit 3 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit03.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit03.csv) |
+| unit 4 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit04.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit04.csv) |
+| unit 5 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit05.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit05.csv) |
 
 ## Usage
 ### iOS "wordim" app
