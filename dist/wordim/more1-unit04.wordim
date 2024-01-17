@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "de37d25a9db05971ce9c98ff",
+      "id": "8e2c1324c1a22aa76fd56ffe",
       "name": "More! 1 - UNIT 4",
-      "date": "2024-01-17T10:18:57.023Z",
+      "date": "2024-01-17T10:39:26.863Z",
       "words": [
         {
-          "id": "c9ae09488563e4425e39c662",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "51439f5a927cbc37031d5cba",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "nach",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "After school I meet my friends.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "b8b0019d1239c8ad9a2a9420",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "3dd9d286c10be899c1cffc8e",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Tag",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "On the big day, Mike is nervous.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "905167628dd43cfbb8bbfd63",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "4fe88b43077684ed7cc21c50",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Ende",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "At the end of the play, Mike is very happy.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "8d3c20c593301afc570e61b7",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "af822e9fea3a671c5f8a059f",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Spaß",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "It's great fun.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "43f9e9653f56437132c16e3e",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "85403a83f2dc08561bf37c27",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Geh weg!",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "3470675210364015b62fec66",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "782baa7dade90f845f3ff5ec",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "helfen",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "Let me help you.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "ec0dd640c1e2a58655801729",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "486254dd57362ed684220462",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "zu/nach Hause; Zuhause",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "Mike is at home.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "6e42818dfb1d2e0ab583cc56",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "7a2faf10231de3c4c16895cd",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Es hat keinen Zweck.",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "28f900830085237eaffff124",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "16998a548e893f66f7421dc4",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Mama, Mutti",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "She is his mum.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "43de6f537f50513693b5fbd6",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "369121d1590db93ecd1ff193",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "nächster/nächste/nächstes",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "The next day.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "750e8c8fa6a918d80958d019",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "4de26895b9ee6567b2f34bfd",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "immer noch (nicht)",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "Miss Baker still isn't happy.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "81018a9d8b8b513c91b3e6f7",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "601b30344e0a497f99d6a696",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "ein Tag im Leben von",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "The story is about a day in the life of Richard.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "052a67a087e07968898983b8",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "16345caf89ec1a43ebd739f1",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "schlafen",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "He's in bed and he's asleep.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "be25824ec1145308796ff321",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "75ce097bd2c424facd8ec75f",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "früh",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "It's early. He's still in bed.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "8e160db93b8a87704e399299",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "4c97940ad4c8fe7a1aa64e70",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Leben",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "Elephants have a long life.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "6778b937cfd10f854116ee22",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "e8f0ad7fd69a74b0678f37d6",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Mittagspause",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "It's lunchtime. He's hungry.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "818e0d7f2b5557006002d710",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "c7d15398060878a11670b522",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Sonne",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "The sun is out.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "fe1ecd665b08857b0ee1bf29",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "ea1caab24d57630f0fdfe631",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Geht's dir/euch/Ihnen gut?",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "bb621d582c7a5d68dc1ac45e",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "18cfeecdf0dd42396a99d6fe",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Hausaufgaben",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "We have got a lot of homework today.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "01d886cfb0ec110b3bbaff04",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "3c35332c52f21304feea328d",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "in (... hinein)",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Go into the classroom!",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "cce7cbd0d9306a49f4c6e410",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "8b5fb3ae10c08c400b2698ce",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Du meine Güte!",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "c18fa2e917875070f5901d29",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "f3bdc23e879ea56245a20b26",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Zimmer, Raum",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "There's a rat in our room.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "902479dc76b12367b93d1c8a",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "3a8360e1e225de50dd9ed0b5",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "warum",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "Why are you tired?",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "64ec2bb95a74891779e39d48",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "a1335cac3ac6285b9b3d406e",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "schlecht, böse",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Thursday and Friday aren't bad.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "5c1aa2c84b10bfe13bee242f",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "69af0eae587a1f76c282cbc0",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Komm(t) nicht zu spät., Sei(d) pünktlich.",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "33c040161ddf8ae7eb476659",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "80898e5f9c0d52fd9fc833b9",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "morgen",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "Tomorrow is Monday.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "f1ccc7866104581a8e57d202",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "efdcdd4070d2c387ad2b432c",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Geburtstag",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "Happy birthday, David!",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "8b6013a86e9ab4c047fe9f0a",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "d18bbc1e9d9207ce585f6b00",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Freund/Freundin",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "Tom is his friend.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "780c19c05d08bc598077c577",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "656289f341b3655c6924caf2",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Sei du selbst.",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "0ddc248b80fba5bfa56c7d20",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "751b078f74cc443f6cb961b6",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "niemand anders",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "Be yourself and no one else.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "ca1624da547e1a30678bfa1e",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "b05db71c904da6c2752216cd",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Flasche",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "The feelings are in the bottle.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "42ab70dcd7ece4406f8154a2",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "ab5bad22b46beb0e03095d2a",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "zurückholen, zurückbekommen",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "I will get the feelings back.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "687ff9ed590d178613707d4c",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "a41ab3c7b2b617e6dd5df03e",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "wütend, zornig",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "I am nice, Bob is mad.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "fc55ad170264b8e0fdc89ac9",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "a238fa87484dd9bfeef495b7",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "magisch",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "This is a magic bottle.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "46f9cd4fbef2ddc14ea473ea",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "414828cf5277e89638fdea5e",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "stehlen; ausrauben",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "I'm a monster and I rob feelings.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "69fcd3001289897a16d4f374",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "bc16ecf56ea6c391f5de8e54",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "(zer-)brechen",
             "language": "de"
@@ -507,11 +507,11 @@
             "language": "en"
           },
           "hint": "I must break the bottle.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "82107dd0364df16e434d8699",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "ede7d70bfc2877b632d547f3",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "schlafen gehen",
             "language": "de"
@@ -521,11 +521,11 @@
             "language": "en"
           },
           "hint": "Go back to sleep.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "f801a788ef7faa38712d9bdf",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "dfa74a5c40713b8b07df7bba",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "weil",
             "language": "de"
@@ -535,11 +535,11 @@
             "language": "en"
           },
           "hint": "I'm happy because it's the weekend.",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "07fa53ea580a7f60b2fa59bd",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "022becf1607b30a2ff16e8a6",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Ich bin's.",
             "language": "de"
@@ -549,11 +549,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "0bdc383dae0d9e91d1006145",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "e1e9e1a6a472cc07543b4883",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Versuch es!",
             "language": "de"
@@ -563,11 +563,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "c66ce68c6e911ffc96b42af9",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "94c5e18b9b46ca96a646f488",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Lass(t) los!",
             "language": "de"
@@ -577,11 +577,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         },
         {
-          "id": "054d8ab4a26062e9adce9933",
-          "date": "2024-01-17T10:18:57.023Z",
+          "id": "3b10c9535cb2e3df2cde464c",
+          "date": "2024-01-17T10:39:26.863Z",
           "word": {
             "word": "Was ist (hier) los?",
             "language": "de"
@@ -591,7 +591,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "11ba775a81087e280614e2ab"
+          "groupId": "32f734357ae3a7296b96a35f"
         }
       ]
     }

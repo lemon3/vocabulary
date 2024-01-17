@@ -30,6 +30,7 @@ Help your child or yourself learn the vocabulary from this book quickly!
 | unit 3 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit03.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit03.csv) |
 | unit 4 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit04.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit04.csv) |
 | unit 5 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit05.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit05.csv) |
+| unit 6 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit06.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit06.csv) |
 
 ## Usage
 ### iOS "wordim" app

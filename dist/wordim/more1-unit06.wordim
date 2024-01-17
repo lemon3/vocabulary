@@ -1,0 +1,543 @@
+{
+  "groups": [
+    {
+      "id": "000d41c899ad58e2a6ab1859",
+      "name": "More! 1 - UNIT 6",
+      "date": "2024-01-17T10:39:26.864Z",
+      "words": [
+        {
+          "id": "85cdc0829be65cd882caa582",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "klettern",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to climb",
+            "language": "en"
+          },
+          "hint": "Sherlock Groans climbs up a tree.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "b5c6f13e44091c116e28d9c5",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "hüpfen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to jump",
+            "language": "en"
+          },
+          "hint": "A bird jumps on Sherlock Groans' head.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "76f9c38c942d581fd4a1c726",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "verlassen, weggehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to leave",
+            "language": "en"
+          },
+          "hint": "Doctor Grey leaves the office.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "2a0d385e6cd42bccf4396d0b",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Spiegel",
+            "language": "de"
+          },
+          "translation": {
+            "word": "mirror",
+            "language": "en"
+          },
+          "hint": "There is a mirror on a wall.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "4760cde264de138274218124",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "aufsetzen, anziehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to put on",
+            "language": "en"
+          },
+          "hint": "Sherlock puts his hat on.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "2253e85b0a025f746ceabab2",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "lächeln",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to smile",
+            "language": "en"
+          },
+          "hint": "He smiles in the mirror.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "ac4fc9723337281780d0e01c",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "abnehmen, ausziehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to take off",
+            "language": "en"
+          },
+          "hint": "He takes off his hat.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "770b8b45340d008018cef4f4",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "weg",
+            "language": "de"
+          },
+          "translation": {
+            "word": "away",
+            "language": "en"
+          },
+          "hint": "Go away!",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "59f5eaa7bb7002e1a12b19da",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "(welt-)bester/beste/bestes",
+            "language": "de"
+          },
+          "translation": {
+            "word": "(world's) best",
+            "language": "en"
+          },
+          "hint": "Sherlock Groans is the world's best detective!",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "c62b7d5bc4f6b4c1aa7d0dd5",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Detektiv/Detektivin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "detective",
+            "language": "en"
+          },
+          "hint": "He's the world's best detective.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "9074b769a1ac81d229a58124",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Hilf mir!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Help me!",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "a1d7ff4316f5886b1bd4925f",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "suchen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to look for",
+            "language": "en"
+          },
+          "hint": "He looks for his hat in the park.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "8847290046aa98fcffaf2e19",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "alt",
+            "language": "de"
+          },
+          "translation": {
+            "word": "old",
+            "language": "en"
+          },
+          "hint": "His skateboard isn't new. It's very old.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "c809e1aca834e10b59a23a47",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "aufheben",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to pick up",
+            "language": "en"
+          },
+          "hint": "He picks up the hat.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "c16c249451bc155585ceff8a",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "hinausrennen (aus)",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to run out (of)",
+            "language": "en"
+          },
+          "hint": "Sherlock runs out of the office.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "4f6771b1260af722dfc9011b",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "(die StraRe) hinunterlaufen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to run down (the street)",
+            "language": "en"
+          },
+          "hint": "Sherlock runs down the street.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "341bec24af0763331212f538",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "finden",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to find",
+            "language": "en"
+          },
+          "hint": "The dog finds Sherlock Groans.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "cf386fbd2eac05113f4feb3f",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "ziehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to pull",
+            "language": "en"
+          },
+          "hint": "The dog pulls Sherlock Groans out of the river.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "420f6dc4f86317f756f15cc2",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "fangen; erwischen; festnehmen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to catch",
+            "language": "en"
+          },
+          "hint": "He always catches the bad people.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "7c1b11a81025aec9e49a23d0",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "klug, schlau",
+            "language": "de"
+          },
+          "translation": {
+            "word": "clever",
+            "language": "en"
+          },
+          "hint": "Sherlock is really clever.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "4ee220b83c904412bb498882",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "(zu etwas) hinkommen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to come to",
+            "language": "en"
+          },
+          "hint": "He comes to a park.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "7e888220e56dc581d8dc958e",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "leben, wohnen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to live",
+            "language": "en"
+          },
+          "hint": "Peter lives in London.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "749bbe1b999a1a5c902e4c9e",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Pfeife",
+            "language": "de"
+          },
+          "translation": {
+            "word": "pipe",
+            "language": "en"
+          },
+          "hint": "Sherlock often has a pipe in his mouth.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "30620cd4329d8917eae81ae4",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "rauchen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to smoke",
+            "language": "en"
+          },
+          "hint": "Groans smokes a pipe.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "8d1a5b736e307562bef82afb",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Geige",
+            "language": "de"
+          },
+          "translation": {
+            "word": "violin",
+            "language": "en"
+          },
+          "hint": "He can play the violin.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "24fc1e59d50c6723ce4e1adc",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "tragen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to wear",
+            "language": "en"
+          },
+          "hint": "Trevor wears a black hat.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "be2968b84cd753065ea978c3",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "viel/e, jede Menge",
+            "language": "de"
+          },
+          "translation": {
+            "word": "a lot of / lots of",
+            "language": "en"
+          },
+          "hint": "There are lots of beautiful trees in the park.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "b4bbdc5932324d1dd76663a4",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "(an-)rufen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to call",
+            "language": "en"
+          },
+          "hint": "Sherlock Groans calls Doctor Grey.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "bdf92237f917d7bbd3751bbb",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Komm(t) jetzt!, Mach(t) schon!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Come on!",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "03b793b58a6661c11e3a19f3",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "lösen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to solve",
+            "language": "en"
+          },
+          "hint": "Detectives solve problems.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "ef1305a080b13037fb9020a3",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "warten",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to wait",
+            "language": "en"
+          },
+          "hint": "But ... wait ... what's that?",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "f423669dbb38b68bdf49c83f",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "beobachten, zuschauen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to watch",
+            "language": "en"
+          },
+          "hint": "He watches the people in the streets.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "79da2f4f2059b318cb55578e",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Straße",
+            "language": "de"
+          },
+          "translation": {
+            "word": "street",
+            "language": "en"
+          },
+          "hint": "Anna lives in York Street.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "e0982580c1d8ea1358685cb1",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "aufstehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to get up",
+            "language": "en"
+          },
+          "hint": "He gets up at 7 o'clock in the morning.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "48d1baad11dbb12228788b23",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "werden",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to become",
+            "language": "en"
+          },
+          "hint": "Emma becomes a tiger.",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "a2656b1866dc2287e5db5292",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Aber es stimmt!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "But it's true!",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "5828ea85d5c1ac3ca87dbe4f",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "weitermachen; Erzahl weiter!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Go on.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        },
+        {
+          "id": "58819b849cc12b29c7f42c2c",
+          "date": "2024-01-17T10:39:26.864Z",
+          "word": {
+            "word": "Gut gemacht.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Well done.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "f4bd3c63025310ddfea9e8e2"
+        }
+      ]
+    }
+  ]
+}

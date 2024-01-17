@@ -9,6 +9,7 @@ const units = [
   'more1-unit03',
   'more1-unit04',
   'more1-unit05',
+  'more1-unit06',
 ];
 
 const versions = [
