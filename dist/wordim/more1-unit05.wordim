@@ -1,0 +1,501 @@
+{
+  "groups": [
+    {
+      "id": "7ee0dc36c7a8f3f0e7d5cf5f",
+      "name": "More! 1 - UNIT 5",
+      "date": "2024-01-17T09:59:21.454Z",
+      "words": [
+        {
+          "id": "56714692ca88d9579de3add5",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "fester Freund",
+            "language": "de"
+          },
+          "translation": {
+            "word": "boyfriend",
+            "language": "en"
+          },
+          "hint": "Jack is her boyfriend.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "82f095a22ad25b88407aa306",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "sein/e; ihr/e",
+            "language": "de"
+          },
+          "translation": {
+            "word": "its",
+            "language": "en"
+          },
+          "hint": "This is my band. Its name is Project 11.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "9da0c64704f410d03c5b1821",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "spielen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to play",
+            "language": "en"
+          },
+          "hint": "They play the guitar.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "951475b5607fdd83f8fe1999",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Schwester",
+            "language": "de"
+          },
+          "translation": {
+            "word": "sister",
+            "language": "en"
+          },
+          "hint": "Jessica is my sister.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "231cb516980e2eda08e7497a",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "können; nicht können",
+            "language": "de"
+          },
+          "translation": {
+            "word": "can; cannot / can't",
+            "language": "en"
+          },
+          "hint": "She can play the drums. He can't sing.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "daffaaf1158ee4a916b20f7b",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Konzert",
+            "language": "de"
+          },
+          "translation": {
+            "word": "concert",
+            "language": "en"
+          },
+          "hint": "Let's go to the concert tomorrow.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "467e0b5381a38eaf5282bd6b",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "tanzen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to dance",
+            "language": "en"
+          },
+          "hint": "Let's dance to the music!",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "8aa2fd1bb39b477f58638758",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Keine Sorge.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Don't worry.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "0b5de4753806cf1e537c4751",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Arbeit; Aufgabe",
+            "language": "de"
+          },
+          "translation": {
+            "word": "job",
+            "language": "en"
+          },
+          "hint": "She has a good job.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "11c13b5b62b3a47764803fd1",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "perfekt",
+            "language": "de"
+          },
+          "translation": {
+            "word": "perfect",
+            "language": "en"
+          },
+          "hint": "The job is perfect for you.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "8bf7107bbcbf9b43b9e04be3",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "tragen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to carry",
+            "language": "en"
+          },
+          "hint": "Can you carry my guitar?",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "73c7781358bcfb7f49a0c68f",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "auf etwas stehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to stand on",
+            "language": "en"
+          },
+          "hint": "I can stand on my head.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "88474fcdc134bf5b0a4e883d",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Zunge",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tongue",
+            "language": "en"
+          },
+          "hint": "He can touch his nose with his tongue.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "1c4770f6a4235301ab1f7a5d",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "berühren",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to touch",
+            "language": "en"
+          },
+          "hint": "Please don't touch my guitar.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "744b4bfe2caae94cbd923962",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "auf etwas gehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to walk on",
+            "language": "en"
+          },
+          "hint": "Can you walk on your hands?",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "147bdb4630b41379de17d921",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "wackeln",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to wiggle",
+            "language": "en"
+          },
+          "hint": "He can wiggle his ears.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "6aa51c2a361017a26d893378",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Dose",
+            "language": "de"
+          },
+          "translation": {
+            "word": "can",
+            "language": "en"
+          },
+          "hint": "Look, he carries fifteen cans.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "2abe8e17e6f2bd39eb06433a",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "trinken",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to drink",
+            "language": "en"
+          },
+          "hint": "I can't drink fifteen cans.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "9616b59ac46f9e4155c12c1f",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "hundert",
+            "language": "de"
+          },
+          "translation": {
+            "word": "hundred",
+            "language": "en"
+          },
+          "hint": "Can you eat a hundred apples?",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "f9a1ffd5460e36b6f85e71c5",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "in einem Zug, auf einmal",
+            "language": "de"
+          },
+          "translation": {
+            "word": "in one go",
+            "language": "en"
+          },
+          "hint": "Can you drink five cans in one go?",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "b6919b9cd9ce795db0e7603b",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Ach wirklich?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Is that so?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "d253d2e3efe22e5930810310",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Das bin ich.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "This is me.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "57e1089704e4d1d7a8f283c4",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Wirtschaft",
+            "language": "de"
+          },
+          "translation": {
+            "word": "economy",
+            "language": "en"
+          },
+          "hint": "The economy is the world of money.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "99d48e7dd7e7826e655b44bc",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Krankenhaus",
+            "language": "de"
+          },
+          "translation": {
+            "word": "hospital",
+            "language": "en"
+          },
+          "hint": "The Clown Doctors go to hospitals and help children.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "24ec40b599e6af6d42a559c2",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "lachen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to laugh",
+            "language": "en"
+          },
+          "hint": "They make children laugh.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "c969d821526bc6705e0a11a5",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "(Taschen-)Geld",
+            "language": "de"
+          },
+          "translation": {
+            "word": "(pocket) money",
+            "language": "en"
+          },
+          "hint": "I get my pocket money from my mum and dad.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "512e3cf9a3ef874ce6f6a59a",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Pfund",
+            "language": "de"
+          },
+          "translation": {
+            "word": "pound",
+            "language": "en"
+          },
+          "hint": "A cup of apple juice is 2 pounds.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "e60bbcbc682e299dfe50e856",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Gewinn, Profit",
+            "language": "de"
+          },
+          "translation": {
+            "word": "profit",
+            "language": "en"
+          },
+          "hint": "It's 120 pounds. That's my profit.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "fc74036f6873227ac3a2ceca",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Schulkantine",
+            "language": "de"
+          },
+          "translation": {
+            "word": "school canteen",
+            "language": "en"
+          },
+          "hint": "We have apple juice in our school canteen.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "687f40983e7ab15d772d770c",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Tisch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "table",
+            "language": "en"
+          },
+          "hint": "I put a table in our playground.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "a5d31b790981e928f87b8598",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Lehrer/Lehrerin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "teacher",
+            "language": "en"
+          },
+          "hint": "Mr Davis is my teacher at school.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "6c3960a959da6cc7b376db38",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Onkel",
+            "language": "de"
+          },
+          "translation": {
+            "word": "uncle",
+            "language": "en"
+          },
+          "hint": "My uncle is my dad's brother.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "71fda3bbc7682eb850568f34",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "waschen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to wash",
+            "language": "en"
+          },
+          "hint": "I wash my mum's car.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "8a67c1979f633912efa7188d",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "nichts",
+            "language": "de"
+          },
+          "translation": {
+            "word": "nothing",
+            "language": "en"
+          },
+          "hint": "There's nothing in the garden.",
+          "groupId": "cb62ee905e7997098a26dd14"
+        },
+        {
+          "id": "94f848014a2a7ff72c88482a",
+          "date": "2024-01-17T09:59:21.454Z",
+          "word": {
+            "word": "Entschuldigung?, Wie bitte?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Sorry?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "cb62ee905e7997098a26dd14"
+        }
+      ]
+    }
+  ]
+}
