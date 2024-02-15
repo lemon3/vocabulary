@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "a1019ae94295866cb2046191",
+      "id": "de59c1466df99accb8c3c42e",
       "name": "More! 1 - UNIT 3",
-      "date": "2024-01-17T11:03:59.646Z",
+      "date": "2024-02-15T14:02:35.819Z",
       "words": [
         {
-          "id": "b8b2262f684860ebeb0d7376",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "0469c9cbb996790603ddef5e",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "auch",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "Tamara is also a pirate.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "2f36270b252ce7d97ff0a70f",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "effeaebbfe5f528a06e1b2de",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "berühmt",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "Greybeard is a famous pirate.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "e963d91e236643414a8ec93b",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "19899e71357eab242281cf2d",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "ihm/ihn",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "Peter is nice. We like him.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "b876f099b57dfa55ac098d94",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "a2bd7bd3b12c085c66b3e064",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "sein/e",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "His pirate name is Blackbeard.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "b997468657ab888dbe6f310a",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "d315880224d849971d9f9503",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Schiff",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "Greybeard has got a big ship.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "15150a57df11281e139a0b49",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "4fe9866bebe9a1b8e25e15cb",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Angst haben (vor)",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "The kids are scared of the ship.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "97094db22c4b2a04c9768b4d",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "164125630665786bc6210453",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "sehr",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "They are very scared.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "127e7872bcac35f5339eb885",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "8fac04bfb824bfde185e82c1",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "stark, kräftig",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "Greybeard hasn't got a strong left leg.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "8ea0ad58cadc3d7958f00ee6",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "c85cbb3c44b1f0b8cb785979",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Kapitän",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "The captain has got a blue ship.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "083adfed4fc8893ab57d8b67",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "95407796ecbfca9365dd34f5",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "haben",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "I have got brown hair.\nTamara has got red hair.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "91cef466801c217af00ff68c",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "f0a9f418f0824eb53ddc7e11",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "hübsch",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "Polly is a pretty pirate.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "c5895620348d37806c5a14a3",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "6b506e89ef861f7454165997",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "violett, lila",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "She has got purple hair.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "155290dd9209266d36dcdb31",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "9a20507621753a5aa3a72543",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "viel/e",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "She has got a lot of books about pirates.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "099bf1d0cff7633f53f2e4cd",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "60be12a481fcf0e36ab5bf0d",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Bett",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "Dana is in bed now.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "9989219636de491f55c07900",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "d13da6220eea580f8e37e1d2",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Traum",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "It's a dream!",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "96ba1337ce06318e6065dede",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "22e0fade54bb9b73b5cd1438",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "müde",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "Dana is in bed. She is tired.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "dc83a7222138ffd139ee9bbf",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "b67a9df145e92a9861777fdb",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "raten",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "Listen and guess the pirate.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "0c835c729c24c002ca3d263c",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "4ad04641e7ac17a2673a2526",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Du bist an der Reihe.",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "df01ab5ee529c33a81a26fe0",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "c69c3e2104def32c566a78ea",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Bruder",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "Fred is Frank's brother.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "9bc47ae166dbaa7546547382",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "f35dc6461077750609acde2a",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "blond",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "He has got blonde hair.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "3f01acfa4701fc1542bbc842",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "03e515a671cc19500f5a5bdf",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "echt; wirklich",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "His left leg isn't real. It's wooden.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "db3443674130db0e3552fe8b",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "1a1349fb87c157b2572eb95e",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "klein",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "Greybeard is short.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "77f6d14d52baec69b485b4f5",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "ba3a748e73eee8606302d25f",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "groß",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "Tamara is tall.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "0fd6ebada497169c186c7153",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "04cd53068ea58c5d59d0b6b2",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "falsch, nicht in Ordnung",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Say what's wrong.",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "af2ced0e4fbb746d16028f9d",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "ccfb5a5857ddba5f0c71cf20",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Gute Idee.",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         },
         {
-          "id": "1227b96b2865a46c519f27f2",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "09d085097dec56e76224c783",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "wahr",
             "language": "de"
@@ -367,7 +367,7 @@
             "language": "en"
           },
           "hint": "Is it true?",
-          "groupId": "662f5bb9532d740a802069cb"
+          "groupId": "847d510968216c3aaf04dba4"
         }
       ]
     }

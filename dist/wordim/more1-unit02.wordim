@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "46898d47fabe96a86dd5cbca",
+      "id": "4f2937585c038d6b53efc907",
       "name": "More! 1 - UNIT 2",
-      "date": "2024-01-17T11:03:59.646Z",
+      "date": "2024-02-15T14:02:35.819Z",
       "words": [
         {
-          "id": "b603138bd278ce15084e0cd2",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "c099dbc338f05da11a2125ff",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Zoo",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "There are many animals in the zoo.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "da6a0a5e5316ab4e075ab61e",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "ef79dab716297cdb266729dd",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "schön, hübsch",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "The parrot is blue and yellow. It's beautiful.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "66c73fa626593ea9444470cd",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "b4ee91bbacc56f03113331fe",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "hinter",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "The chair is behind the desk.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "b61411108daee550bfcb3cae",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "80de5a1e8bd92d2f31742051",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "groß",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "There's a big giraffe.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "f02ed4d127a168e1ec6da1a8",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "885e2b8b9de72d0ba7c2387e",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "vor",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "The tree is in front of you.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "1278b6fbe37ddaa96b93a710",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "bb1e2ec90cf063416a390c84",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "neben",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "The parrot is next to the monkeys.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "b550ef498160261f42552cb3",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "c4a87b33042f15b673b55228",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "jetzt",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "Where is it now?",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "0cb6675cfab5674faab5e3f5",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "d640b32aeb4ef1f0f1c4adc8",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "auf",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "Look! The parrot is on Buddy now.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "58d58a726a919fb5fc96da9c",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "3b7c34c26fc26311989d36af",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "es gibt, da ist",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "There's a book on my desk.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "1b360cad2d4c95f3d8eeeb3f",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "5c27477a2647ebc39f1e4542",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "es gibt, da sind",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "There are three books on my desk.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "0a7068b787a63a32148a4bd8",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "7ce025b078b5931ce4abe169",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Baum",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "The monkeys are behind the tree.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "2b0a8438207e1c3fc95a60bb",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "13d02d74ccfc207fe60274f5",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "unter",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "There's a book under my desk.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "b89b656dd3049914532ee4a6",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "26581c9f3d691f4d39f06c2b",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Was ist los?",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "3e17e08d07e84c0e9c1624af",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "6ae05d897049c49a17362678",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "wo",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "Where is it?",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "da997b7df237d3d2bdfdb8ee",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "e1eac4186571fb9a0225218b",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "klein",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "The monkey isn't big. It's small.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "8f8aaf9a888753e55727eb8d",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "2119de37c0a0fa6a7b2de788",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Erwachsene/r",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "Adults are £14.40.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "b1ce5b1e70f50123b9a7bece",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "8b3e6ec6e62924b56714a289",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "bei; an; hier: in",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "The children are at the zoo.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "bb5d99e2931387256323f1f4",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "b178caedb150a8fd9180c8f6",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "(mit-)bringen",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "Can I bring my dog, Buddy?",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "c5db59fd2567ec001d695067",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "026dcfb56872d86e336d824a",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "aber",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "Dogs are welcome. But they can't run around.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "1b7f41997217c171f653be96",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "55bfd0abeeebac2f28d691dd",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "füttern",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Let's go and feed the penguins.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "a0a035841bdc4221efbc9bc5",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "b53fb0327b44ed570014c2fc",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "(Reise-)Führer/in",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "Listen to the guide.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "e025e4e256bd5cc8ee951013",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "ad5f29e4255f057f2db21fc2",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "herumlaufen",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "Dogs are welcome, but they can't run around.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "d85cb3e66678295a8a7902e8",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "5624bcb32aa911c02053f423",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Zug",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "Let's go on a train",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "6aab895923d020e021b67a27",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "f22f24967997e42534df7899",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "zu; bis; vor; hier: in",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Welcome to the wildlife park!",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "326d5a6dc6f650881f6f48a1",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "b4db78a72494ca032e16d351",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "willkommen",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "Welcome to London.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "6028d2110500702c8e62ae10",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "5588837b600c3df969789176",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "aus",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "They are from California.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "ee4e048a44210e93469ee68a",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "ee10cbf7e829e4dcc3384a59",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Jahr; Jahrgangsstufe",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "I'm in Year 7.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "c1f053ea18b1c5644c8ae8a8",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "66aba68bec2a73fb122e2fde",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "er",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "He likes animals.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "bbeb8f768dd0dcfdb2545d5b",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "49c79002e2dae82a301e7a45",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "sie",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "She is from England.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "a485827d6756e6819fc90a5b",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "6f1f937e681aa400eb2833db",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "sprechen, sich unterhalten",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "Talk about the boys and girls.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "2c2888fd7af9348762a145e8",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "eddb578b5902e091d0cb7c28",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "sie",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "Rahim and Sue are 11. They are from Manchester.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "a9894c9ad27122231204c139",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "e3f9d75395cec00261558f36",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "wir",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "We're Sophie and John.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "656774a51801251b27c9057d",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "eaaed3fcfdb1691ed6a78ff3",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "für",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "Here's a chant for you.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "0c4b2d1998192d15cf1bc761",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "4f1db113e0d2fec2567e1d1b",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "glücklich, fröhlich; zufrieden",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "Buddy is happy.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "9c5910bede35792326449a7a",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "63f0edfcd40d18311a4decd7",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "jemanden herauslassen",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "Let us out!",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "6cea71a71694134c60483353",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "4478dd38d5d62603cb175ae7",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "uns",
             "language": "de"
@@ -507,11 +507,11 @@
             "language": "en"
           },
           "hint": "Can you see us?",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "5a1bc4805f69f81895743199",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "a25e0c9ebe8ef4d7b15fb09e",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Auto",
             "language": "de"
@@ -521,11 +521,11 @@
             "language": "en"
           },
           "hint": "The parrot is in the car.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "875057dbfd678109f9c85687",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "361b733a0cda31295910ace1",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Endlich.",
             "language": "de"
@@ -535,11 +535,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "a19b3c9aec6ccc7d2aed9116",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "3918e31825407ea2b7f0dd00",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Wie komisch!",
             "language": "de"
@@ -549,11 +549,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "182a445c0a323b7a31f71364",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "7ec37210364874e531e6643c",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Lass mich mal schauen.",
             "language": "de"
@@ -563,11 +563,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         },
         {
-          "id": "53213cf7058a46de53d49ff2",
-          "date": "2024-01-17T11:03:59.646Z",
+          "id": "04e345c6d487715a2698b56b",
+          "date": "2024-02-15T14:02:35.819Z",
           "word": {
             "word": "Stein",
             "language": "de"
@@ -577,7 +577,7 @@
             "language": "en"
           },
           "hint": "Colour your stone.",
-          "groupId": "5265c842184bd0664ba75f39"
+          "groupId": "640c4bcaea17a9845e731098"
         }
       ]
     }
