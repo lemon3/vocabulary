@@ -1,0 +1,224 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "ungewöhnlich, außergewöhnlich",
+      "backText": "unusual",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Maus",
+      "backText": "mouse (pl mice)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(...) am Tag",
+      "backText": "(...) a day",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "einmal",
+      "backText": "once",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zweimal",
+      "backText": "twice",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hier: in ganz (Großbritannien)",
+      "backText": "across (Britain)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "gefährlich",
+      "backText": "dangerous",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bauernhof",
+      "backText": "farm",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mann",
+      "backText": "man (pl men)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "in der Nähe von",
+      "backText": "near",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeitung",
+      "backText": "newspaper",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(...) in der Woche",
+      "backText": "(...) a week",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Korb",
+      "backText": "basket",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tochter",
+      "backText": "daughter",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "fahren",
+      "backText": "to drive",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "jede/r",
+      "backText": "everybody",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weit weg",
+      "backText": "far away",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Opa",
+      "backText": "grandpa",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mutter",
+      "backText": "mother",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geräusch",
+      "backText": "noise",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "bleiben",
+      "backText": "to stay",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Stofftier",
+      "backText": "cuddly toys.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "besuchen",
+      "backText": "to visit",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "an etw. interessiert sein",
+      "backText": "to be interested in",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Fell",
+      "backText": "fur",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "persönlich",
+      "backText": "personal",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Besitzer/Besitzerin",
+      "backText": "owner",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tante (Koseform)",
+      "backText": "aunty",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "liebe/r (Anrede)",
+      "backText": "dear",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Brief",
+      "backText": "letter",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "beißen",
+      "backText": "to bite",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Anfang",
+      "backText": "beginning",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "anfangen, beginnen",
+      "backText": "to begin",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "herzliche Grüße",
+      "backText": "best wishes",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ende, Schluss",
+      "backText": "ending",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "brauchen",
+      "backText": "to need",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 7"
+}

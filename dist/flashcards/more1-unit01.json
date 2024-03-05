@@ -1,0 +1,542 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "ein/e",
+      "backText": "a",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "über",
+      "backText": "about",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "geben",
+      "backText": "to give",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schule",
+      "backText": "school",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeit",
+      "backText": "time",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "verstehen",
+      "backText": "to understand",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schreiben",
+      "backText": "to write",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "und",
+      "backText": "and",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sind; bist; seid",
+      "backText": "are",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "genießen",
+      "backText": "to enjoy",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hallo!",
+      "backText": "Hello!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zuhören",
+      "backText": "to listen",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lieben",
+      "backText": "to love",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "mehr",
+      "backText": "more",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lesen",
+      "backText": "to read",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sagen",
+      "backText": "to say",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "singen",
+      "backText": "to sing",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "der/die/das",
+      "backText": "the",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ihr/e",
+      "backText": "their",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "fragen",
+      "backText": "to ask",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Junge / Mädchen",
+      "backText": "boy / girl",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(E-Mail-)Adresse",
+      "backText": "(email) address",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Wie geht es dir/Ihnen/euch?",
+      "backText": "How are you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ich bin; ich heiße",
+      "backText": "I am (= I'm)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Es geht mir gut.",
+      "backText": "I am (= I'm) fine.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Es tut mir leid.",
+      "backText": "I'm sorry.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "kennenlernen; sich treffen",
+      "backText": "to meet",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "mein/e",
+      "backText": "my",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "bitte",
+      "backText": "please",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Danke., Dankeschön.",
+      "backText": "Thanks., Thank you.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "dann, danach",
+      "backText": "then",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Wie heißt du?; Wie heißen Sie?",
+      "backText": "What's your name?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ja",
+      "backText": "yes",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "dein/e; Ihr/e; euer/eure",
+      "backText": "your",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "arbeiten",
+      "backText": "to work",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Apfel",
+      "backText": "apple",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ball",
+      "backText": "ball",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bär",
+      "backText": "bear",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Katze",
+      "backText": "cat",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hund",
+      "backText": "dog",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Fisch",
+      "backText": "fish",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Frosch",
+      "backText": "frog",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sehen, schauen; Schau mal.",
+      "backText": "to look",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "oder",
+      "backText": "or",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(auf) wiedersehen, tschau, tschüss",
+      "backText": "bye",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Krokodil",
+      "backText": "crocodile",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "essen; fressen",
+      "backText": "to eat",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "gehen",
+      "backText": "to go",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Gorilla",
+      "backText": "gorilla",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Honig",
+      "backText": "honey",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Insekt",
+      "backText": "insect",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "müssen",
+      "backText": "must",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Anmerkung, Notiz",
+      "backText": "note",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Breitmaulfrosch",
+      "backText": "wide-mouthed frog",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "du; Sie; ihr",
+      "backText": "you",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "wie viele",
+      "backText": "how many",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ist",
+      "backText": "is",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schultasche",
+      "backText": "school bag",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hassen, nicht ausstehen konnen",
+      "backText": "to hate",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hier",
+      "backText": "here",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "es",
+      "backText": "it",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lass(t) ...",
+      "backText": "Let's ...",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mitternacht",
+      "backText": "midnight",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "unser/e",
+      "backText": "our",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lieblings-",
+      "backText": "favourite",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "finden",
+      "backText": "to find",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Haarband",
+      "backText": "hairband",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hut",
+      "backText": "hat",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hell",
+      "backText": "light",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hemd",
+      "backText": "shirt",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schuh",
+      "backText": "shoe",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Rock",
+      "backText": "skirt",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Socke",
+      "backText": "sock",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Sonnenbrille",
+      "backText": "sunglasses",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pullover",
+      "backText": "sweater",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Krawatte",
+      "backText": "tie",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "T-shirt",
+      "backText": "T-shirt",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "nicht",
+      "backText": "not (...n't)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kind",
+      "backText": "child",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sauber machen, putzen",
+      "backText": "to clean",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schließen, zumachen",
+      "backText": "to close",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "öffnen, aufmachen",
+      "backText": "to open",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bild",
+      "backText": "picture",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sich (hin-)setzen",
+      "backText": "to sit down",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sprechen",
+      "backText": "to speak",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "aufstehen",
+      "backText": "to stand up",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "herausnehmen",
+      "backText": "to take out",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(Schul-)Klasse",
+      "backText": "class",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "eigener/eigene/eigenes",
+      "backText": "own",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 1"
+}

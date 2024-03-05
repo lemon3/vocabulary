@@ -23,18 +23,18 @@ English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For 
 Help your child or yourself learn the vocabulary from this book quickly!
 
 ## Files
-| units | files |
-|-------|-------|
-| unit 1 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit01.csv) |
-| unit 2 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit02.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit02.csv) |
-| unit 3 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit03.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit03.csv) |
-| unit 4 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit04.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit04.csv) |
-| unit 5 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit05.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit05.csv) |
-| unit 6 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit06.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit06.csv) |
-| unit 7 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit07.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit07.csv) |
-| unit 8 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit08.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit08.csv) |
-| unit 9 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit09.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit09.csv) |
-| unit 10 | [wordim format](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit10.wordim) <br/>  [amazing flash cards](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit10.csv) |
+| worddim<br>(json) | amazing flash cards<br>(csv) | flashcards<br>(json) |
+|-------|-------|-------|
+| [unit1](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim) | [unit1](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit01.csv) | [unit1](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit01.csv) |
+| [unit2](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit02.wordim) | [unit2](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit02.csv) | [unit2](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit02.csv) |
+| [unit3](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit03.wordim) | [unit3](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit03.csv) | [unit3](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit03.csv) |
+| [unit4](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit04.wordim) | [unit4](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit04.csv) | [unit4](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit04.csv) |
+| [unit5](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit05.wordim) | [unit5](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit05.csv) | [unit5](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit05.csv) |
+| [unit6](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit06.wordim) | [unit6](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit06.csv) | [unit6](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit06.csv) |
+| [unit7](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit07.wordim) | [unit7](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit07.csv) | [unit7](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit07.csv) |
+| [unit8](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit08.wordim) | [unit8](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit08.csv) | [unit8](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit08.csv) |
+| [unit9](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit09.wordim) | [unit9](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit09.csv) | [unit9](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit09.csv) |
+| [unit10](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit10.wordim) | [unit10](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit10.csv) | [unit10](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit10.csv) |
 
 ## Usage
 ### iOS (Apple)

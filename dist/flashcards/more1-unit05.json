@@ -1,0 +1,218 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "fester Freund",
+      "backText": "boyfriend",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sein/e; ihr/e",
+      "backText": "its",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "spielen",
+      "backText": "to play",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schwester",
+      "backText": "sister",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "können; nicht können",
+      "backText": "can; cannot / can't",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Konzert",
+      "backText": "concert",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "tanzen",
+      "backText": "to dance",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Keine Sorge.",
+      "backText": "Don't worry.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Arbeit; Aufgabe",
+      "backText": "job",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "perfekt",
+      "backText": "perfect",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "tragen",
+      "backText": "to carry",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "auf etwas stehen",
+      "backText": "to stand on",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zunge",
+      "backText": "tongue",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "berühren",
+      "backText": "to touch",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "auf etwas gehen",
+      "backText": "to walk on",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "wackeln",
+      "backText": "to wiggle",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Dose",
+      "backText": "can",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "trinken",
+      "backText": "to drink",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hundert",
+      "backText": "hundred",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "in einem Zug, auf einmal",
+      "backText": "in one go",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ach wirklich?",
+      "backText": "Is that so?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Das bin ich.",
+      "backText": "This is me.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Wirtschaft",
+      "backText": "economy",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Krankenhaus",
+      "backText": "hospital",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lachen",
+      "backText": "to laugh",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(Taschen-)Geld",
+      "backText": "(pocket) money",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pfund",
+      "backText": "pound",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Gewinn, Profit",
+      "backText": "profit",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schulkantine",
+      "backText": "school canteen",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tisch",
+      "backText": "table",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lehrer/Lehrerin",
+      "backText": "teacher",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Onkel",
+      "backText": "uncle",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "waschen",
+      "backText": "to wash",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "nichts",
+      "backText": "nothing",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Entschuldigung?, Wie bitte?",
+      "backText": "Sorry?",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 5"
+}

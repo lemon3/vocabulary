@@ -2,6 +2,7 @@
 const CopyPlugin = require('copy-webpack-plugin');
 const { wordim } = require('./wordim');
 const { amazingFlashCards } = require('./amazingFlashCards');
+const { flashCards } = require('./flashCards');
 
 const units = [
   'more1-unit01',
@@ -26,6 +27,11 @@ const versions = [
     name: 'amazing-flash-cards',
     extension: 'csv',
     transform: (content) => amazingFlashCards(content),
+  },
+  {
+    name: 'flashcards',
+    extension: 'json',
+    transform: (content) => flashCards(content),
   },
 ];
 

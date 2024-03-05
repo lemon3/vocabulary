@@ -1,0 +1,236 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "klettern",
+      "backText": "to climb",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hüpfen",
+      "backText": "to jump",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "verlassen, weggehen",
+      "backText": "to leave",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Spiegel",
+      "backText": "mirror",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "aufsetzen, anziehen",
+      "backText": "to put on",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lächeln",
+      "backText": "to smile",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "abnehmen, ausziehen",
+      "backText": "to take off",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weg",
+      "backText": "away",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(welt-)bester/beste/bestes",
+      "backText": "(world's) best",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Detektiv/Detektivin",
+      "backText": "detective",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hilf mir!",
+      "backText": "Help me!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "suchen",
+      "backText": "to look for",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "alt",
+      "backText": "old",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "aufheben",
+      "backText": "to pick up",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hinausrennen (aus)",
+      "backText": "to run out (of)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(die StraRe) hinunterlaufen",
+      "backText": "to run down (the street)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "finden",
+      "backText": "to find",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ziehen",
+      "backText": "to pull",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "fangen; erwischen; festnehmen",
+      "backText": "to catch",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "klug, schlau",
+      "backText": "clever",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(zu etwas) hinkommen",
+      "backText": "to come to",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "leben, wohnen",
+      "backText": "to live",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pfeife",
+      "backText": "pipe",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "rauchen",
+      "backText": "to smoke",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geige",
+      "backText": "violin",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "tragen",
+      "backText": "to wear",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "viel/e, jede Menge",
+      "backText": "a lot of / lots of",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(an-)rufen",
+      "backText": "to call",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Komm(t) jetzt!, Mach(t) schon!",
+      "backText": "Come on!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lösen",
+      "backText": "to solve",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "warten",
+      "backText": "to wait",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "beobachten, zuschauen",
+      "backText": "to watch",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Straße",
+      "backText": "street",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "aufstehen",
+      "backText": "to get up",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "werden",
+      "backText": "to become",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Aber es stimmt!",
+      "backText": "But it's true!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weitermachen; Erzahl weiter!",
+      "backText": "Go on.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Gut gemacht.",
+      "backText": "Well done.",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 6"
+}

@@ -1,0 +1,212 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "wie viel kostet/kosten ...",
+      "backText": "how much is/are ...",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Preis, Rechnungsbetrag",
+      "backText": "price",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "diese",
+      "backText": "these",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "jene",
+      "backText": "those",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Darf es noch etwas sein?",
+      "backText": "Anything else?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kann ich dir/Ihnen behilflich sein?",
+      "backText": "Can I help you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Computerspiel",
+      "backText": "computer game",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kopfhörer",
+      "backText": "headphones",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schlüsselanhänger",
+      "backText": "key ring",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeitschrift, Magazin",
+      "backText": "magazine",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mobiltelefon, Handy",
+      "backText": "mobile phone",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Roller",
+      "backText": "scooter",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Süßigkeiten",
+      "backText": "sweets (pl)",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Dose",
+      "backText": "tin",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Herzlichen Glückwunsch!",
+      "backText": "Congratulations!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Regel",
+      "backText": "rule",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kunde/Kundin",
+      "backText": "customer",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "alles",
+      "backText": "everything",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "teuer",
+      "backText": "expensive",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "einschlafen",
+      "backText": "to fall asleep",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Auf Wiedersehen., Tschüss.",
+      "backText": "Goodbye.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ich hätte gerne ... , Ich möchte ...",
+      "backText": "I'd like ...",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kein Wunder.",
+      "backText": "No wonder.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "plötzlich, auf einmal",
+      "backText": "suddenly",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Stadt",
+      "backText": "town",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weggehen, fortgehen",
+      "backText": "to walk away",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Umkleidekabine",
+      "backText": "changing room",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kein Problem.",
+      "backText": "No problem.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "da/dort drüben",
+      "backText": "over there",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schublade",
+      "backText": "drawer",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "So ist es besser.",
+      "backText": "That's better.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Was kann ich für dich/Sie tun?",
+      "backText": "What can I do for you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pass(t) auf.; Sei(d) vorsichtig.",
+      "backText": "Be careful.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Einen Augenblick bitte.; Moment mal.",
+      "backText": "Just a minute.",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 7"
+}
