@@ -1,5 +1,4 @@
 /* global module */
-
 module.exports = {
   flashCards: (buffer) => {
     // copy-webpack-plugin passes a buffer

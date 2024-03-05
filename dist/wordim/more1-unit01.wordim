@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "031b1a274dfdce427ed25c92",
+      "id": "dc614ee78a5f35b6bd0e6494",
       "name": "More! 1 - UNIT 1",
-      "date": "2024-03-05T19:45:47.253Z",
+      "date": "2024-03-05T20:41:28.539Z",
       "words": [
         {
-          "id": "cb9a7f4b73ecf8c6a98c1325",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "cc2f7aa02056882c783cc319",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "ein/e",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "Read a story.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "82ca67e70dcb23d38cb69fda",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "73fa8663d7d2724e08ad1da9",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "über",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "Talk about your class.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "e35433cbb297dd041106baf5",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "c058123ac1f523ff8c5d575d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "geben",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "Give me your school bag.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "7e40caf7f560a0929b13b336",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7f83098ce3e0fbcc5fcfc827",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Schule",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "I go to school in London.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "eddd15ac6869cece9a96049c",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "31201ad71a26d2e64b5d889d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Zeit",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "Its time for school.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "07952e4d989245a2c0da70ac",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "015a93b1ec60b367c6506972",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "verstehen",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "I understand the question.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "a4f51bb903e784e6fddaccf5",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "bc1f648162faa3a9e8282b75",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "schreiben",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "Write the numbers.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ea9043e6c4908e8c7fe586df",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "fb50b34f0e33d1453f2185a1",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "und",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "One and one are two.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "eaad920a91a98479bfeef0a6",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "a607fbd0f49b5085f3ea90b5",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sind; bist; seid",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "English words are really cool.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "bad076eadbce1e874191611e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "9f0f57f6a9b55510e3668b23",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "genießen",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "Enjoy the music.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ed001963ef6577f859a39cf7",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "0fb6fdfeb1627811a42588e9",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Hallo!",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "fc2c6f399a8cb44883f93218",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "814b4b9af1930f44b3ca5ad0",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "zuhören",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "Listen to the song.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "7f4fffbe4b2c112eeb4fa323",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "8d9731382357029e862108dd",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "lieben",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "I love blue. It's my favourite colour.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "0c311edf5dc58aeccc4f7c0f",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "3e5366cf9978efaf4f90706c",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "mehr",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "I want more!",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "baf2baec4416096d6d46b812",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "9584e38d71ac1e3bc45b3057",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "lesen",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "Read the text.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "33f749b353ee471c76192416",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "dae27a3b1781c29ee2b2928d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sagen",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "Say it in English.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "dc44c62163cc42d1965fa2d7",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "cbde75664805ea4223d0d6c9",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "singen",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "We sing a song.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "767edf99a5a480a7139e7ee2",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "61134545a46412a25cb2c6d6",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "der/die/das",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "The rubber is white.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "44faaaa4013b48e44f88bc05",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "98ae87516b4a62c75252b856",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "ihr/e",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "What's their address?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "89aade440aa51ffe6b2520f5",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7e29306a3d427e8df5dc5528",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "fragen",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Can I ask you a question?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "8293ff4e05ea9339df6207ae",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "2184e491c55894c950feb257",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Junge / Mädchen",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "Sam is a name for a boy or a girl.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "1d93df3047256f0a144c3976",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "cf630858876dd82c813023b3",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "(E-Mail-)Adresse",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "My email address is sara@linkways.com.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "30313c92006c33358f9b8723",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "824a9eb14999524d735d9209",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Wie geht es dir/Ihnen/euch?",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "5b7f2fb8cea2f32b4af70227",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "585a96ebff07db9ad1058a18",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "ich bin; ich heiße",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "I'm Joanna.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "a1761c7b4c785dbb35800137",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "9f103f8402ea7b4e0ce51cb5",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Es geht mir gut.",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "da1bfe95594bcf8151ce7029",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "f01cdbc823608e41ff0decd0",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Es tut mir leid.",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "269850868aecb81eff581c1b",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "66594935819e4859725a93f6",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "kennenlernen; sich treffen",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "Nice to meet you!",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "86e7a7d3e4ef9573f3743ccb",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "42293e0610c3871abf264a25",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "mein/e",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "My name is John.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "53ba6a8ae861894976e7e840",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1d4f98156f9e83d49db63998",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "bitte",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "Can you spell it, please?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ac35c6fffce7b606484fee50",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1326b522e6f9e8790d584ecf",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Danke., Dankeschön.",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "9a6ffc063dedc2d3b87f3fda",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "030d6478fb998702d73f5bc0",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "dann, danach",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "Listen to the dialogue. Then read it.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "985805a1b44ceab4e1ab42ba",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "38c87f37b4f15f1c05d350bd",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Wie heißt du?; Wie heißen Sie?",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ec6fed78da68baa300db878c",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "2a8b9c7289f6b0b89100e4d3",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "ja",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "Yes, I'm good, thanks.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "dbbf3082df8a65942ed288fa",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "09f0f4f54f780aa08c35d4ce",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "dein/e; Ihr/e; euer/eure",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "What's your email address?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "383977968ecebb2ba171efab",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "5b8dc122bd86888ee015ff0c",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "arbeiten",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "Work with a partner.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "2d87298392edb980ae592f2f",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "9344f6f40f5cce6043c567fb",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Apfel",
             "language": "de"
@@ -507,11 +507,11 @@
             "language": "en"
           },
           "hint": "I eat apples.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "8c37c56b52f4dc99e9cb3d30",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7261ecb7d5bb443188f345ce",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Ball",
             "language": "de"
@@ -521,11 +521,11 @@
             "language": "en"
           },
           "hint": "The children play with the ball.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "9c3df3204ca1b0de4bdfa33a",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "5bac1f2ec343ed6049a0c827",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Bär",
             "language": "de"
@@ -535,11 +535,11 @@
             "language": "en"
           },
           "hint": "The bear Betty eats honey.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "43d099a7e724869400c8f9bf",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "03d1f1c27d092bdd3382a1db",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Katze",
             "language": "de"
@@ -549,11 +549,11 @@
             "language": "en"
           },
           "hint": "I'have two cats.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "dcef9964888d2f41bf7aa9a4",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "cbd1ebe1ae6e5f86e3394fe1",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Hund",
             "language": "de"
@@ -563,11 +563,11 @@
             "language": "en"
           },
           "hint": "My dog is brown.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "c9461d582e05c4c16deeca10",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "f209148b0e70a696ecaee4a4",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Fisch",
             "language": "de"
@@ -577,11 +577,11 @@
             "language": "en"
           },
           "hint": "I eat fish.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "2349c0bc21917caa839e9d71",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "323ccfa4023b1429381b585e",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Frosch",
             "language": "de"
@@ -591,11 +591,11 @@
             "language": "en"
           },
           "hint": "The frog Freddy eats insects.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "c78b1b9724979ba376d00377",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "d75622d5043f150469824f7c",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sehen, schauen; Schau mal.",
             "language": "de"
@@ -605,11 +605,11 @@
             "language": "en"
           },
           "hint": "Look at the animals.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "853885800306dea5c5da4652",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "f642e1e5951ca500be821d76",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "oder",
             "language": "de"
@@ -619,11 +619,11 @@
             "language": "en"
           },
           "hint": "Tick or correct the numbers.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "b0993a093d1d2d5353c0acdb",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1c8fa05c6282ec59a39c4d20",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "(auf) wiedersehen, tschau, tschüss",
             "language": "de"
@@ -633,11 +633,11 @@
             "language": "en"
           },
           "hint": "Bye, Anna!",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "020ed3803dfd6a76a3191d11",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "d3d74e10a44c2bab90dc848b",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Krokodil",
             "language": "de"
@@ -647,11 +647,11 @@
             "language": "en"
           },
           "hint": "I'm a crocodile and I eat frogs.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "e2e8f7304cd149942edcdb3b",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "710dfa9f6424c0b19e123f04",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "essen; fressen",
             "language": "de"
@@ -661,11 +661,11 @@
             "language": "en"
           },
           "hint": "I eat insects.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "31dffc82ed0173e64fdaada5",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "f0e8f2c5364a9bb1181585bf",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "gehen",
             "language": "de"
@@ -675,11 +675,11 @@
             "language": "en"
           },
           "hint": "I must go. Bye.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "258e170d27c0d9b2204f4af8",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "c62f4c2a6abbb903eefc02ef",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Gorilla",
             "language": "de"
@@ -689,11 +689,11 @@
             "language": "en"
           },
           "hint": "I'm a gorilla and I eat bananas.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "26aa8a7b1e5b3b85e75ea4bb",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "99d368a103984f62439abea9",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Honig",
             "language": "de"
@@ -703,11 +703,11 @@
             "language": "en"
           },
           "hint": "I'm a bear and I eat honey.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "21ac8748a610444d743b21ad",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "95051bed1ccda58cde61c06d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Insekt",
             "language": "de"
@@ -717,11 +717,11 @@
             "language": "en"
           },
           "hint": "I'm a frog and I eat insects.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "b0e35dcd0dd7550153dd0356",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "01d22bb0a6523a2aa120a84e",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "müssen",
             "language": "de"
@@ -731,11 +731,11 @@
             "language": "en"
           },
           "hint": "I must go.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "e4e39504344eabaea42d42ca",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "196e31faf090dd24d24d9e35",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Anmerkung, Notiz",
             "language": "de"
@@ -745,11 +745,11 @@
             "language": "en"
           },
           "hint": "Look at the note on page 24.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "e2f3b196592d2d335d55a501",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1540a0663483d27a908e9423",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Breitmaulfrosch",
             "language": "de"
@@ -759,11 +759,11 @@
             "language": "en"
           },
           "hint": "I'm a wide-mouthed frog.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "39ba26e5841af81544407cab",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1e8387da74661fbf8c5ec027",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "du; Sie; ihr",
             "language": "de"
@@ -773,11 +773,11 @@
             "language": "en"
           },
           "hint": "I'm Freddy. And you?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "caee4a9f8acaaf543a90ceb3",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "0bda0a14f136498bb3bdfc7d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "wie viele",
             "language": "de"
@@ -787,11 +787,11 @@
             "language": "en"
           },
           "hint": "How many frogs can you see?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "50f04e1da41952e298444a33",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "77410e05e9fff8a89be4866a",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "ist",
             "language": "de"
@@ -801,11 +801,11 @@
             "language": "en"
           },
           "hint": "Freddy is a frog.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "d55a32e70e5b428b2c1d8ff9",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7370a5105f281e4a387b1ff5",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Schultasche",
             "language": "de"
@@ -815,11 +815,11 @@
             "language": "en"
           },
           "hint": "Your book is in your school bag.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "c0156c91d53a4e59eaf56e26",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "95f10be7b5046de9fe0b9927",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "hassen, nicht ausstehen konnen",
             "language": "de"
@@ -829,11 +829,11 @@
             "language": "en"
           },
           "hint": "I hate pink.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "75b3377b713f47c6d6b19c41",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "57c3b074c62f49ecd8d48840",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "hier",
             "language": "de"
@@ -843,11 +843,11 @@
             "language": "en"
           },
           "hint": "Here's your pencil case.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "0f3a6d6b74dc19fb7807cca1",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "58ec72019df2cdbaf0314414",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "es",
             "language": "de"
@@ -857,11 +857,11 @@
             "language": "en"
           },
           "hint": "It's yellow.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "f41015ad88ff277dd3e9de52",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "df7a9c5e83a9cd1b635e7e57",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Lass(t) ...",
             "language": "de"
@@ -871,11 +871,11 @@
             "language": "en"
           },
           "hint": "Let's sing a song!",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "92d96b89feeb06e8c47ea8fb",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "b4cf9c257cd6596194e4f17d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Mitternacht",
             "language": "de"
@@ -885,11 +885,11 @@
             "language": "en"
           },
           "hint": "It's twelve o'clock - midnight.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "7491a10eda1c1d279791de25",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "b13ceccb46f17a584ac96a1d",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "unser/e",
             "language": "de"
@@ -899,11 +899,11 @@
             "language": "en"
           },
           "hint": "This is our school.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "e35d356dbcda22126473ef2e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "2315a1004a15b0c93b03c3cf",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Lieblings-",
             "language": "de"
@@ -913,11 +913,11 @@
             "language": "en"
           },
           "hint": "Green is my favourite colour.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "22eb0d9a761ce209375d3fb7",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "c9982c8402031d0142b14ad8",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "finden",
             "language": "de"
@@ -927,11 +927,11 @@
             "language": "en"
           },
           "hint": "Can you find my school tie?",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ad65ef30469cc1b2b7c4e9aa",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "56c9e7982140990db42accf4",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Haarband",
             "language": "de"
@@ -941,11 +941,11 @@
             "language": "en"
           },
           "hint": "My hairband is red and yellow.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "5fea041434d13e8938e6be3c",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7cd9df960ccbdbaae8e1a3ab",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Hut",
             "language": "de"
@@ -955,11 +955,11 @@
             "language": "en"
           },
           "hint": "That's my favourite hat.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "a46f30642c4054e091fbeeaf",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "02b6a5e634106ca92bf59bf3",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "hell",
             "language": "de"
@@ -969,11 +969,11 @@
             "language": "en"
           },
           "hint": "My favourite colour is light blue.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "19974adf72f795d3f3c861b5",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "8b72a8f9ccdc3f8ed3e45637",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Hemd",
             "language": "de"
@@ -983,11 +983,11 @@
             "language": "en"
           },
           "hint": "The shirt is white.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "adaca8a214cf116958eec489",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "18cbd43a41ab59f2e498792a",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Schuh",
             "language": "de"
@@ -997,11 +997,11 @@
             "language": "en"
           },
           "hint": "My shoes are brown.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "ec42e9846123db7c9db7b505",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "686625b407b7122940b4701a",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Rock",
             "language": "de"
@@ -1011,11 +1011,11 @@
             "language": "en"
           },
           "hint": "My skirt is black.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "cb3608bae576cc93632b79a9",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "a79a08039bc35f7804f70248",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Socke",
             "language": "de"
@@ -1025,11 +1025,11 @@
             "language": "en"
           },
           "hint": "The socks are grey.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "bbc71f53a4665d36a0cc5aaa",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "5dac9ddae9e02554d51fe9cd",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Sonnenbrille",
             "language": "de"
@@ -1039,11 +1039,11 @@
             "language": "en"
           },
           "hint": "My sunglasses are cool.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "0f6a25f39519bb2f061ebc7e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "daf9003d4ce698efa3b13132",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Pullover",
             "language": "de"
@@ -1053,11 +1053,11 @@
             "language": "en"
           },
           "hint": "I wear a black sweater.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "c3091b6d256d1d5416e55bf6",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "7038533670c40aa34f845fb6",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Krawatte",
             "language": "de"
@@ -1067,11 +1067,11 @@
             "language": "en"
           },
           "hint": "My school tie is green and white.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "082ab7e16db9b7ac2334144e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "645f0761679174d29c13b0f4",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "T-shirt",
             "language": "de"
@@ -1081,11 +1081,11 @@
             "language": "en"
           },
           "hint": "My favourite T-shirt is black.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "2652d4c83c5da3e391f6dc15",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "db070ee5b51bea4f744394a7",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "nicht",
             "language": "de"
@@ -1095,11 +1095,11 @@
             "language": "en"
           },
           "hint": "It isn't pink.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "40f15b804b705029bd65c3e0",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "5c2039521b5c7924e252f318",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Kind",
             "language": "de"
@@ -1109,11 +1109,11 @@
             "language": "en"
           },
           "hint": "The child is in class 1A.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "8ab52d2a058e61520f917616",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "b335b631c20d39589c2584bf",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sauber machen, putzen",
             "language": "de"
@@ -1123,11 +1123,11 @@
             "language": "en"
           },
           "hint": "Clean the board.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "c66fe49656b9b45c7941ce58",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "ba3c83311f8737026624e2e4",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "schließen, zumachen",
             "language": "de"
@@ -1137,11 +1137,11 @@
             "language": "en"
           },
           "hint": "Close the door.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "a68212a06040fe5f7b6964d7",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "3c9395607c7df93761625d3e",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "öffnen, aufmachen",
             "language": "de"
@@ -1151,11 +1151,11 @@
             "language": "en"
           },
           "hint": "Open the window.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "90201e7e3791c111f038a6f0",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "5f5e93fbe4768d6670088de2",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "Bild",
             "language": "de"
@@ -1165,11 +1165,11 @@
             "language": "en"
           },
           "hint": "Look at the pictures.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "525a7bb18a33020c3736543e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "1a062d67cb14be190f846a27",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sich (hin-)setzen",
             "language": "de"
@@ -1179,11 +1179,11 @@
             "language": "en"
           },
           "hint": "Sit down, children.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "cc4287b4b0f0bb25661dfdd8",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "2b530abaea8f483a5d7a8c4f",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "sprechen",
             "language": "de"
@@ -1193,11 +1193,11 @@
             "language": "en"
           },
           "hint": "Don't speak. Listen.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "aebf51008f5042e8ad7ab9bf",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "ebd71b1657a7e133354601d9",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "aufstehen",
             "language": "de"
@@ -1207,11 +1207,11 @@
             "language": "en"
           },
           "hint": "Don't stand up. Sit down.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "b6d677e1c463a4cb515b8529",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "3b60b5520eba99b950b4ee9c",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "herausnehmen",
             "language": "de"
@@ -1221,11 +1221,11 @@
             "language": "en"
           },
           "hint": "Take out your books.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "3270d18f230c8856a1a88a62",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "f11ced6af9cf1806d861688f",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "(Schul-)Klasse",
             "language": "de"
@@ -1235,11 +1235,11 @@
             "language": "en"
           },
           "hint": "I'm in class 1A.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         },
         {
-          "id": "247035273e4c72799f5fb45e",
-          "date": "2024-03-05T19:45:47.253Z",
+          "id": "9d0d960319edf397e198bfb0",
+          "date": "2024-03-05T20:41:28.539Z",
           "word": {
             "word": "eigener/eigene/eigenes",
             "language": "de"
@@ -1249,7 +1249,7 @@
             "language": "en"
           },
           "hint": "Write your own text.",
-          "groupId": "b7822b20ce3771fb7b35f40b"
+          "groupId": "ff9208c49cdc760c7bbda338"
         }
       ]
     }

@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "4eaf619f78b2eed7515d12d2",
+      "id": "1072779d7c7aa36e69604bd9",
       "name": "More! 1 - UNIT 6",
-      "date": "2024-03-05T19:45:47.255Z",
+      "date": "2024-03-05T20:41:28.541Z",
       "words": [
         {
-          "id": "8d00f23cb2347dc7b820dd35",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "b38f2fc74b4173d186c4b6ba",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "klettern",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "Sherlock Groans climbs up a tree.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "ed473b53ffa46d352846738b",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "e04ca14f8d031c023084fc87",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "hüpfen",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "A bird jumps on Sherlock Groans' head.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "db9f51306d32bfd5e1a8c581",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "9ce14d0b39e6e266ef5b6c70",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "verlassen, weggehen",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "Doctor Grey leaves the office.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "d992ec4b66808aefbed6641d",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "546600fa279586bc080ad60e",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Spiegel",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "There is a mirror on a wall.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "9bdbbb19ea3fb17eedbaea52",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "59a3f9da8db97148e930e80e",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "aufsetzen, anziehen",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "Sherlock puts his hat on.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "ba7b99dc44d52271dc8237cb",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "c02e0b3620019de18890a415",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "lächeln",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "He smiles in the mirror.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "cd168c17a6eb76a38c9ff3cf",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "ed8ddd26a854ca53bc00d451",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "abnehmen, ausziehen",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "He takes off his hat.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "49ba97196f3928a5b59b4201",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "0ef31ffff6af28481eb11ee2",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "weg",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "Go away!",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "dee9e2f2c164c5f753f77549",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "8428e2dbe31dc4aad7f424bf",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "(welt-)bester/beste/bestes",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "Sherlock Groans is the world's best detective!",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "335460c481b93b31ef3e5105",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "bc56a19caa6a18d4552101a7",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Detektiv/Detektivin",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "He's the world's best detective.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "225607292d0d44c2f708f338",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "a506f4d856300b585efd6e66",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Hilf mir!",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "0752a23d6a639c5bc141bcb9",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "5b95a853016109a9d2bec125",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "suchen",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "He looks for his hat in the park.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "3e57f30e52550676e4e51bb9",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "cdeb3bbae7d564988ce7e7e9",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "alt",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "His skateboard isn't new. It's very old.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "5b98f5c5c5d65bbf361adc00",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "daecf2381b82e7616902b359",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "aufheben",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "He picks up the hat.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "10b4010cb883558c3de8a25d",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "911a1256259034cd9d94fe37",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "hinausrennen (aus)",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "Sherlock runs out of the office.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "31e55ca46347d4f500e4c51d",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "79c93e3b9c0ccd8fd28459d9",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "(die StraRe) hinunterlaufen",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "Sherlock runs down the street.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "1ab56f399700e52210b9de5d",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "4aad05a0b7e6704f74a86a7a",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "finden",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "The dog finds Sherlock Groans.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "ce8176d3b1d2fa8329f82e86",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "e012c7f3d54ad84810fc1342",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "ziehen",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "The dog pulls Sherlock Groans out of the river.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "315968d3449a6185bb88b240",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "e146f8560b7c237bd334f489",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "fangen; erwischen; festnehmen",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "He always catches the bad people.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "57152255a1503ec4ebefbbb5",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "e4c04c9deedff093301938c6",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "klug, schlau",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Sherlock is really clever.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "7b18cd69c80be19b6d24938e",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "18821f679350219b1056c95c",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "(zu etwas) hinkommen",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "He comes to a park.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "5b6b00b09f6f8a8b259942ca",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "b7e97ed6c6cd9bd197649c16",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "leben, wohnen",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "Peter lives in London.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "cc93828c937bc472a5806499",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "f07db944e38c8ea126aed574",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Pfeife",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "Sherlock often has a pipe in his mouth.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "17ed67e940b3c80d065a0e74",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "cc4d12ac86be05b15016a352",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "rauchen",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Groans smokes a pipe.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "a5edbcdd2ec90f3916fba349",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "37816b2ccaf8c95df277e421",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Geige",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "He can play the violin.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "e6f77e2b470c100a112dd8bb",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "f9ca851126606fa2e2dcf9d1",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "tragen",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "Trevor wears a black hat.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "f28073c56d7e2d4e332a18e5",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "8ce402acce2b4e2773a4019e",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "viel/e, jede Menge",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "There are lots of beautiful trees in the park.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "7cc4e57983a106ab23ccddc9",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "3b099f0ceb26965ca6850ff1",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "(an-)rufen",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "Sherlock Groans calls Doctor Grey.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "97f1fec438075eb12243bbae",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "80a220ad9b2e345402cf0822",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Komm(t) jetzt!, Mach(t) schon!",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "7becc33f3011e0a9e12d40e0",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "7eb6be3e4be0ecf9b93915ff",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "lösen",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "Detectives solve problems.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "b2cdda2b0e80226fa4dfd9c2",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "4db6d612049914c74743cba5",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "warten",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "But ... wait ... what's that?",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "1114427bcd4219093ebf4327",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "3d25b7a664a612a3af314405",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "beobachten, zuschauen",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "He watches the people in the streets.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "674a394a382d8d9c77c8ef65",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "c3793c63afed999f65cdb151",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Straße",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "Anna lives in York Street.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "0dc242046e8c9d7373ffc268",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "768932e7b970043cdc647627",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "aufstehen",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "He gets up at 7 o'clock in the morning.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "2b0b6800f2ae747a8f82641b",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "ab498f2d3c34a7cb140f4b3f",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "werden",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "Emma becomes a tiger.",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "a9438070326125628312efd9",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "f21dd81e0d52258ea491ded4",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Aber es stimmt!",
             "language": "de"
@@ -507,11 +507,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "b3702563f95aed95eaa4ed55",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "1533e851948a3855f752bdfe",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "weitermachen; Erzahl weiter!",
             "language": "de"
@@ -521,11 +521,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         },
         {
-          "id": "28cc6ec52c76f3719d52f347",
-          "date": "2024-03-05T19:45:47.255Z",
+          "id": "8194aed0f17ce6be1cf1e516",
+          "date": "2024-03-05T20:41:28.541Z",
           "word": {
             "word": "Gut gemacht.",
             "language": "de"
@@ -535,7 +535,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dd62af2af537cd044951aa4f"
+          "groupId": "f094424f9e237b788ac19691"
         }
       ]
     }

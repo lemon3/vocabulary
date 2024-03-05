@@ -1,5 +1,8 @@
 /* global require, module */
 const CopyPlugin = require('copy-webpack-plugin');
+const AdmZip = require('adm-zip');
+const fs = require('fs');
+
 const { wordim } = require('./wordim');
 const { amazingFlashCards } = require('./amazingFlashCards');
 const { flashCards } = require('./flashCards');
@@ -21,17 +24,22 @@ const versions = [
   {
     name: 'wordim',
     extension: 'wordim',
-    transform: (content) => wordim(content),
+    transform: (content, file) => wordim(content),
   },
   {
     name: 'amazing-flash-cards',
     extension: 'csv',
-    transform: (content) => amazingFlashCards(content),
+    transform: (content, file) => amazingFlashCards(content),
   },
   {
     name: 'flashcards',
-    extension: 'json',
-    transform: (content) => flashCards(content),
+    extension: 'zip',
+    transform: (content, file) => {
+      const json = flashCards(content);
+      const zip = new AdmZip();
+      zip.addFile(`${file}.json`, Buffer.from(json, 'utf8'));
+      return zip.toBuffer();
+    },
   },
 ];
 
@@ -41,7 +49,7 @@ units.forEach((file) => {
     patterns.push({
       from: './src/' + file + '.json',
       to: './' + version.name + '/' + file + '.' + version.extension,
-      transform: version.transform,
+      transform: (content) => version.transform(content, file)
     });
   });
 });
