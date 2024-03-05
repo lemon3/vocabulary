@@ -57,7 +57,7 @@ all other units [can be found her](https://github.com/lemon3/vocabulary/tree/mai
 2) download e.g. [unit1 vocabulary](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit01.zip).
 3) import this zip file into the app
 
-all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/amazing-flash-cards).
+all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/flashcards).
 
 ### Android os (Google)
 
