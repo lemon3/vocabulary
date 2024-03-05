@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "4a19a35f1ab2ea8cade22a89",
-      "name": "More! 1 - UNIT 7",
-      "date": "2024-03-05T20:41:28.543Z",
+      "id": "8748bad84edd9d38fd354c35",
+      "name": "More! 1 - UNIT 9",
+      "date": "2024-03-05T20:47:01.394Z",
       "words": [
         {
-          "id": "84e09d4fee2fa3e78606f0cc",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "cc3b206b48a768f8813ecf80",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "ungewöhnlich, außergewöhnlich",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "A snake is a very unusual pet.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "32bdedeb2060d3229d72f0e9",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "051a8bee34d0b161738f9c52",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Maus",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "I have a mouse and a dog and my friend has four mice.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "3e0a099eb2b8521706f25f54",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "e01ca4ad8a1ceb0742e088a5",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "(...) am Tag",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "She walks her dog three times a day.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "6b6176fb98d2f03cd2888266",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "59459a468f8617dddfb8f2ba",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "einmal",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "He feeds his hamster once a day.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "a5c6d2bcdf7f54c09db083c2",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "0118e52221c4be469253bf22",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "zweimal",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "I only feed my spider twice a week.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "e3b21403a0aa4b5729d55918",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "474fe2167388d57f7e29da18",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "hier: in ganz (Großbritannien)",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "There are lots of pets in homes across Britain.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "2918bcdddeaf5ccbeaf307cb",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "643570b26e38b29947edb5fb",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "gefährlich",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "Crocodiles are dangerous animals.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "31bc51b968ccebada3a839fa",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "f3c3b281a8f72c09f26566e4",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Bauernhof",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "She lives on a farm with horses and pigs.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "f1a7ed43af2b73aa2f822b19",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "8d6a410e48e7f0257022af40",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Mann",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "The man's name is John.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "bfb73aafa409d816717fd147",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "7c966380c0f58a04da815ee4",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "in der Nähe von",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "The Smith family lives near London.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "fa688e35c395206d5f0cb987",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "4d5e28990bdfdafd98ad65ea",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Zeitung",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "My dad always reads the newspaper in the morning.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "bdec4befb075c84b576f49ea",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "83a1abb0d22b1f5b637ba7a6",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "(...) in der Woche",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "He feeds his spider once a week.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "ce45b8914cc0be8f4ed6ce8a",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "b97858a5551d174da7c6dacf",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Korb",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "Grandpa gives her two baskets of apples and plums.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "e4a09637ef7945208eda37bd",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "955d2f73125d3ef53c9d9066",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Tochter",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "Clare is her daughter.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "3d0697fbf3ff6965836f543c",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "5fa657cd33d08101cf94737f",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "fahren",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "On Sunday, they drive to Grandpa's house.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "a7a6af3eeed72e4b8de6c8e6",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "587d8c4deb7d8f785b5317f4",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "jede/r",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "Everybody in class is sad today.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "7aa05b21a2827595d2ac33a2",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "31281094471012e890205fdd",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "weit weg",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "Grandpa's house is far away.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "1445cc855c6efb18e213fe28",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "7cbc8437bb7d19a73fd5b2f5",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Opa",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "My grandpa lives on a farm.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "dd4854c958979ee789540422",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "63d54b90a78312b43ea4722a",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Mutter",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "She lives at home with her mother.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "1cfb4a6571b83ae7bbe28807",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "4fe3b2e992566fd464157972",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Geräusch",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Clare hears a noise in the apartment.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "0d15f74a9dce644b04a3ae29",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "6fbebfc095bb59752f95b2a6",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "bleiben",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "We can't stay here.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "6cf9411099bc609ae53196a9",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "8c06a62077e1645fc5582555",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Stofftier",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "All day long he plays with his cuddly toys.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "ecb63a58c236b9da9a70ae0e",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "93eb36a4a918b10c105cb3b3",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "besuchen",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "On Sunday, they visit Grandpa.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "f80c2ead43b4deddf46f5c79",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "09c52d4bc9003cb50666c111",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "an etw. interessiert sein",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Tell me about the things you are interested in.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "142db5ddf74271ea486f1ec9",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "9e4ed06537b626bac2146fa8",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Fell",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "My pet has fur — lots of it.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "121e4dfcf92b7280c57cbe5f",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "a47709bd29d230443604863f",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "persönlich",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "Don't put personal information on your blog.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "f6c9e1950e9cdb5873cbfc64",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "469514d2647f24cab2febd25",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Besitzer/Besitzerin",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "Jamie is the owner of an unusual pet.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "b2107af51d4a3cf52f386369",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "d40cd7fed0e704fd9ab2b4da",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Tante (Koseform)",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "Aunty Jane is Mum's sister.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "0a66c88366c2aed338712033",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "12b79e66f58a5e7aff2472eb",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "liebe/r (Anrede)",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "Dear Aunty Olivia, ...",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "eeac75cbe5b0936ca379c4ea",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "45191135e45ffbf05e79031c",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Brief",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "Thank you for your letter.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "5c2c4f0e52ed19a8fa51777e",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "0238cee2351d343d56875e81",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "beißen",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "I don't like that dog. It bites!",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "e24daa7a6093dd68d033f1ae",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "17c9e933a8e550d7bca91255",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Anfang",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "The beginning of the film is fantastic.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "d96e22630cd323e042e0f8d3",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "eaa2047626c4593b2606c088",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "anfangen, beginnen",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "He always begins his emails with “Hi!”.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "9a4883c98be81aa490290b86",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "547dd7544fab67e51ee0dab2",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "herzliche Grüße",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "Best wishes to your mum and dad, Peter.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "fc7449383c8dbf6a82d8b000",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "80d9985bf29e1ead34016d1e",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "Ende, Schluss",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "The ending of the book is very strange.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         },
         {
-          "id": "83e0402e1a5a0450c10a0e01",
-          "date": "2024-03-05T20:41:28.543Z",
+          "id": "2283a08bfae2eaecf4f3d635",
+          "date": "2024-03-05T20:47:01.394Z",
           "word": {
             "word": "brauchen",
             "language": "de"
@@ -507,7 +507,7 @@
             "language": "en"
           },
           "hint": "I really need your help.",
-          "groupId": "346e6864576f3a2bb7d6ac26"
+          "groupId": "b66b97ed6f98955bb4fcdc21"
         }
       ]
     }
