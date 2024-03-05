@@ -52,6 +52,13 @@ all other units [can be found her](https://github.com/lemon3/vocabulary/tree/mai
 
 all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/amazing-flash-cards).
 
+#### iOS "plain flashcards" app
+1) download [plain flashcards](https://apps.apple.com/at/app/plain-flashcards/id971833934) from the app-store (apple).
+2) download e.g. [unit1 vocabulary](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/flashcards/more1-unit01.zip).
+3) import this zip file into the app
+
+all other units [can be found her](https://github.com/lemon3/vocabulary/tree/main/dist/amazing-flash-cards).
+
 ### Android os (Google)
 
 tdb
