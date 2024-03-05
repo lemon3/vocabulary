@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "a55d747552420527d9261f87",
+      "id": "51f460be12dd60d1aec838f4",
       "name": "More! 1 - UNIT 7",
-      "date": "2024-02-15T14:02:35.820Z",
+      "date": "2024-03-05T17:48:02.046Z",
       "words": [
         {
-          "id": "3a2e727ab72dea419748df10",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "0febd4ddc51b920b776cd6d4",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Fleisch",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "I am vegetarian: I never eat meat.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "a7b5b75bfdf4903ad5733601",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "b5519dbfe7c3b886064b1854",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Schinken",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "On the weekend, I sometimes have ham and eggs for breakfast.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "9e498f149b1eab2e962f713c",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "7f1495098d46d89335f13d1d",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "gesund",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "A lot of junk food isn't healthy.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "d490d05b0de9b7e19fc586b3",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "8e3cacae84f02a0f44e3e100",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "mögen",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "I like orange juice.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "96d0a8fdcf3ef1fb45cf5815",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "e49000d22f66a0a2603d4c42",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Das ist nett.",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "6bdb0905c33c7728f449f4f6",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "433f8e28edf08ac33c72f7e5",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "immer",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "They always have pizza for dinner.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "1850306429555abd2d4854a5",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "49c1545df037f4ef30e34997",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Frühstück",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "We have eggs for breakfast.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "10de2fa1e9d44ce25f53ec55",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "f19039cf6a36fa8c7a2f4512",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Land",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "My grandparents live in the country, but I live in the city.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "7cd5514a899ab89563d6d44c",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "10e37b6d542713b9e016c09b",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Nachtisch",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "For dessert, I like rice pudding.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "92d2e32da0dfb58f0e062b6f",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "c0a84c65c0c4af9cd6448d16",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Familie",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "My family and I live in Austria.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "c966a1efa5541587ec0059e4",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "592091534d67662c1a77315f",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Obst; Frucht",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "He likes lots of fruit for breakfast.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "4f127d8768e688ded6715e9f",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "b1a59d6049a367355b5d2f94",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Großeltern",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "My grandparents live in the country.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "eea2d90e1c5e3f105366d9eb",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "15403dcfc36df64dd46668c7",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Mittagessen",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "We often have curry for lunch.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "62797339c50435e9afecfe21",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "c1f5e901111a9b39b345c5cb",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "nie, niemals",
             "language": "de"
@@ -199,13 +199,13 @@
             "language": "en"
           },
           "hint": "She never eats meat. She's a vegetarian.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "0b96a8c2e74fd9bff26cb2f8",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "e34d00be087d146678a1d03c",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
-            "word": "oft, haufig",
+            "word": "oft, häufig",
             "language": "de"
           },
           "translation": {
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "They often have bread for breakfast.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "506c6a2cf44ef2835a44279b",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "f25ebd074ec9d1bd158f3e32",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "setzen, legen, stellen",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "We put fish and vegetables on the rice paper.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "fa1002b60afab85713107ffe",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "89b1d2a6a5dae1560149508b",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "manchmal",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "We sometimes have fish for lunch.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "dde31fcc04235c89fff04210",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "678dcb81f0c43271638a12b8",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Eintopf",
             "language": "de"
@@ -255,13 +255,13 @@
             "language": "en"
           },
           "hint": "When we have vegetables (and meat) at home, my mum cooks a stew.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "8fd3ac4d57db63e1b8c9be0e",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "2d2555e06657589c11ea8021",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
-            "word": "gewohnlich, normalerweise",
+            "word": "gewöhnlich, normalerweise",
             "language": "de"
           },
           "translation": {
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "She usually has bread for breakfast.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "fcf63fb2cb9292350d31b797",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "45e0bb6601232db31d50c8b3",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Gemüse",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "I like veggies, I mean vegetables.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "0e464d447a73294298a1e16a",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "98a602ac6bd18b328a258c13",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "bester Freund / beste Freundin",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "I like John best. He's my best friend.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "675da6417e8941bb3760fc20",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "22022d91a9fc2c1b65d80200",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Tofu",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "I like meat, but sometimes I also eat tofu.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "e2b420a9710c0385895d891a",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "5d397927c4788797ab9ea687",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Rindfleisch",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "I often eat chicken, but I really don't like beef.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "ef10e903f4a2b316e8496d91",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "9152220ab6ed45f2b9d4b388",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Ich weiß es nicht.",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "4836e7576a8f45fb14c4fdd1",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "79fddf60d53e56030c9d534f",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Ich bin mir nicht sicher.",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         },
         {
-          "id": "a7dca92a5209471e11c136e4",
-          "date": "2024-02-15T14:02:35.820Z",
+          "id": "d0aaf94031ed094cdae583d7",
+          "date": "2024-03-05T17:48:02.046Z",
           "word": {
             "word": "Geschenk",
             "language": "de"
@@ -367,7 +367,7 @@
             "language": "en"
           },
           "hint": "The vase is a good present for Mum.",
-          "groupId": "226ad189d38a6f64b6434d9f"
+          "groupId": "04b83a98102c234b1da1205d"
         }
       ]
     }

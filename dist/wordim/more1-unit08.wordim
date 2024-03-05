@@ -1,0 +1,221 @@
+{
+  "groups": [
+    {
+      "id": "7eee38ef5c397893dcc457fa",
+      "name": "More! 1 - UNIT 7",
+      "date": "2024-03-05T17:48:02.046Z",
+      "words": [
+        {
+          "id": "2e62664b0220268d10a0dd20",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "Loch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "hole",
+            "language": "en"
+          },
+          "hint": "Have your jeans got holes in them?",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "800a42477cf0f91aa4d0ccd6",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "(irgend-)etwas",
+            "language": "de"
+          },
+          "translation": {
+            "word": "anything",
+            "language": "en"
+          },
+          "hint": "Is there anything in the box?",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "d8a730e39468f1459554dfa9",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "(sich) ausleihen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to borrow",
+            "language": "en"
+          },
+          "hint": "Can I borrow your sweater tomorrow?",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "70b4b2362beb7235d3ef0a00",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "passen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to fit",
+            "language": "en"
+          },
+          "hint": "These jeans don't fit.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "b1b9d89f8d934bf829b3a510",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "anprobieren",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to try on",
+            "language": "en"
+          },
+          "hint": "Can I try these trousers on?",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "00d1e3e28e5b445df3eef223",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "wehtun, schmerzen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to hurt",
+            "language": "en"
+          },
+          "hint": "My head hurts!",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "1204d1c0143f1eb9f8e6f644",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "Gedicht",
+            "language": "de"
+          },
+          "translation": {
+            "word": "poem",
+            "language": "en"
+          },
+          "hint": "He likes to write poems.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "8e07ecc08d1d963d9d817eeb",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "kitzeln",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to tickle",
+            "language": "en"
+          },
+          "hint": "Please don't tickle me!",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "b3eaeb5004558d0094182d83",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "jemand",
+            "language": "de"
+          },
+          "translation": {
+            "word": "somebody",
+            "language": "en"
+          },
+          "hint": "There's somebody behind the bushes.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "6ae8f5c67429854133785b5f",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "rückwärts",
+            "language": "de"
+          },
+          "translation": {
+            "word": "backwards",
+            "language": "en"
+          },
+          "hint": "I can spell the word backwards too.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "8890a70e575dec54d5a73508",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "aufregend",
+            "language": "de"
+          },
+          "translation": {
+            "word": "exciting",
+            "language": "en"
+          },
+          "hint": "It's a very exciting costume.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "b95c0a883c3e10d802648a9e",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "heute Abend",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tonight",
+            "language": "en"
+          },
+          "hint": "They all want to win the big prize tonight.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "555d32816e5d109660c60947",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "Pferd",
+            "language": "de"
+          },
+          "translation": {
+            "word": "horse",
+            "language": "en"
+          },
+          "hint": "She rides her horse at weekends.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "395ea7e9cbb8a556c88b6e24",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "Gebäude",
+            "language": "de"
+          },
+          "translation": {
+            "word": "building",
+            "language": "en"
+          },
+          "hint": "The children go into the building.",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        },
+        {
+          "id": "c9fb1488815aac5a68061674",
+          "date": "2024-03-05T17:48:02.046Z",
+          "word": {
+            "word": "Lass(t) uns verschwinden.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Let's get out of here.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "a348e0ce2dbcac6cb30e8a7a"
+        }
+      ]
+    }
+  ]
+}

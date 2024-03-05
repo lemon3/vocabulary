@@ -1,0 +1,515 @@
+{
+  "groups": [
+    {
+      "id": "40496f66791e5d5f0753c5cb",
+      "name": "More! 1 - UNIT 7",
+      "date": "2024-03-05T17:48:02.047Z",
+      "words": [
+        {
+          "id": "467d396c7d9ef949f65cd995",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "ungewöhnlich, außergewöhnlich",
+            "language": "de"
+          },
+          "translation": {
+            "word": "unusual",
+            "language": "en"
+          },
+          "hint": "A snake is a very unusual pet.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "bea17ea5fa82fbbc92614eed",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Maus",
+            "language": "de"
+          },
+          "translation": {
+            "word": "mouse (pl mice)",
+            "language": "en"
+          },
+          "hint": "I have a mouse and a dog and my friend has four mice.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "1674a0ad8c564d9f9629a5c2",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "(...) am Tag",
+            "language": "de"
+          },
+          "translation": {
+            "word": "(...) a day",
+            "language": "en"
+          },
+          "hint": "She walks her dog three times a day.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "346a336eb09b0f5a600e2339",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "einmal",
+            "language": "de"
+          },
+          "translation": {
+            "word": "once",
+            "language": "en"
+          },
+          "hint": "He feeds his hamster once a day.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "2c2696683eccb24596b2b2ce",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "zweimal",
+            "language": "de"
+          },
+          "translation": {
+            "word": "twice",
+            "language": "en"
+          },
+          "hint": "I only feed my spider twice a week.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "28edac7055f533c78be4998c",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "hier: in ganz (Großbritannien)",
+            "language": "de"
+          },
+          "translation": {
+            "word": "across (Britain)",
+            "language": "en"
+          },
+          "hint": "There are lots of pets in homes across Britain.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "e60d7c128677acb5924fde83",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "gefährlich",
+            "language": "de"
+          },
+          "translation": {
+            "word": "dangerous",
+            "language": "en"
+          },
+          "hint": "Crocodiles are dangerous animals.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "2b1e7e7de4c2ed049f471716",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Bauernhof",
+            "language": "de"
+          },
+          "translation": {
+            "word": "farm",
+            "language": "en"
+          },
+          "hint": "She lives on a farm with horses and pigs.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "24d37268e259d8439ac5e768",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Mann",
+            "language": "de"
+          },
+          "translation": {
+            "word": "man (pl men)",
+            "language": "en"
+          },
+          "hint": "The man's name is John.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "97b317474f651d663e9f04a7",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "in der Nähe von",
+            "language": "de"
+          },
+          "translation": {
+            "word": "near",
+            "language": "en"
+          },
+          "hint": "The Smith family lives near London.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "a692a4ae1865599bf4d2362e",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Zeitung",
+            "language": "de"
+          },
+          "translation": {
+            "word": "newspaper",
+            "language": "en"
+          },
+          "hint": "My dad always reads the newspaper in the morning.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "cd198350383ad437a18281c2",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "(...) in der Woche",
+            "language": "de"
+          },
+          "translation": {
+            "word": "(...) a week",
+            "language": "en"
+          },
+          "hint": "He feeds his spider once a week.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "ab9d001d34efb30b58e04871",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Korb",
+            "language": "de"
+          },
+          "translation": {
+            "word": "basket",
+            "language": "en"
+          },
+          "hint": "Grandpa gives her two baskets of apples and plums.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "550db971c713406c8cb65cd2",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Tochter",
+            "language": "de"
+          },
+          "translation": {
+            "word": "daughter",
+            "language": "en"
+          },
+          "hint": "Clare is her daughter.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "1caf583e275402d485690beb",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "fahren",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to drive",
+            "language": "en"
+          },
+          "hint": "On Sunday, they drive to Grandpa's house.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "8f11ea1411bd26f5c41e788e",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "jede/r",
+            "language": "de"
+          },
+          "translation": {
+            "word": "everybody",
+            "language": "en"
+          },
+          "hint": "Everybody in class is sad today.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "80d712da3a36e9e4d8dbe383",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "weit weg",
+            "language": "de"
+          },
+          "translation": {
+            "word": "far away",
+            "language": "en"
+          },
+          "hint": "Grandpa's house is far away.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "acd4ed40a8499079f8bfe583",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Opa",
+            "language": "de"
+          },
+          "translation": {
+            "word": "grandpa",
+            "language": "en"
+          },
+          "hint": "My grandpa lives on a farm.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "621413f069483a9ad2194a92",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Mutter",
+            "language": "de"
+          },
+          "translation": {
+            "word": "mother",
+            "language": "en"
+          },
+          "hint": "She lives at home with her mother.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "71aa7d962fc88fbd15487056",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Geräusch",
+            "language": "de"
+          },
+          "translation": {
+            "word": "noise",
+            "language": "en"
+          },
+          "hint": "Clare hears a noise in the apartment.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "9476aeeb0280bc8a49ae32fb",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "bleiben",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to stay",
+            "language": "en"
+          },
+          "hint": "We can't stay here.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "74ca69ca87eed6aeafbdc9ca",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Stofftier",
+            "language": "de"
+          },
+          "translation": {
+            "word": "cuddly toys.",
+            "language": "en"
+          },
+          "hint": "All day long he plays with his cuddly toys.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "e87ec32cac7cf162346c123b",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "besuchen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to visit",
+            "language": "en"
+          },
+          "hint": "On Sunday, they visit Grandpa.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "62a82a3b29eb952d79cc46d5",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "an etw. interessiert sein",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to be interested in",
+            "language": "en"
+          },
+          "hint": "Tell me about the things you are interested in.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "36a524bfdd5c2aaf4e39c1ee",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Fell",
+            "language": "de"
+          },
+          "translation": {
+            "word": "fur",
+            "language": "en"
+          },
+          "hint": "My pet has fur — lots of it.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "264a301e1d86f42719512994",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "persönlich",
+            "language": "de"
+          },
+          "translation": {
+            "word": "personal",
+            "language": "en"
+          },
+          "hint": "Don't put personal information on your blog.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "2410fa72f94e531b7c27b404",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Besitzer/Besitzerin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "owner",
+            "language": "en"
+          },
+          "hint": "Jamie is the owner of an unusual pet.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "6baa8c854ea2a0215d79b411",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Tante (Koseform)",
+            "language": "de"
+          },
+          "translation": {
+            "word": "aunty",
+            "language": "en"
+          },
+          "hint": "Aunty Jane is Mum's sister.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "7d356e6470570eba05c2358e",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "liebe/r (Anrede)",
+            "language": "de"
+          },
+          "translation": {
+            "word": "dear",
+            "language": "en"
+          },
+          "hint": "Dear Aunty Olivia, ...",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "a20fc8228e6568e70a3e8449",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Brief",
+            "language": "de"
+          },
+          "translation": {
+            "word": "letter",
+            "language": "en"
+          },
+          "hint": "Thank you for your letter.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "f29e99d36c6a95787f2a423f",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "beißen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to bite",
+            "language": "en"
+          },
+          "hint": "I don't like that dog. It bites!",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "022027cf41397b9c7451a999",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Anfang",
+            "language": "de"
+          },
+          "translation": {
+            "word": "beginning",
+            "language": "en"
+          },
+          "hint": "The beginning of the film is fantastic.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "fed264508e66c290eaca9127",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "anfangen, beginnen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to begin",
+            "language": "en"
+          },
+          "hint": "He always begins his emails with “Hi!”.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "2f500d44942d54fde66787b3",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "herzliche Grüße",
+            "language": "de"
+          },
+          "translation": {
+            "word": "best wishes",
+            "language": "en"
+          },
+          "hint": "Best wishes to your mum and dad, Peter.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "a7a604bead79f4e4c42a4a3c",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Ende, Schluss",
+            "language": "de"
+          },
+          "translation": {
+            "word": "ending",
+            "language": "en"
+          },
+          "hint": "The ending of the book is very strange.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        },
+        {
+          "id": "6c8fbe5358f94aa1317886fc",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "brauchen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to need",
+            "language": "en"
+          },
+          "hint": "I really need your help.",
+          "groupId": "ca95b45b063775c51d3ce7bb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "groups": [
+    {
+      "id": "7524a156ce33fb2f3bf57be2",
+      "name": "More! 1 - UNIT 7",
+      "date": "2024-03-05T17:48:02.047Z",
+      "words": [
+        {
+          "id": "5d715f97928483e3190c6da0",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "wie viel kostet/kosten ...",
+            "language": "de"
+          },
+          "translation": {
+            "word": "how much is/are ...",
+            "language": "en"
+          },
+          "hint": "How much are the trainers?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "4e41df59cad248f342554c36",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Preis, Rechnungsbetrag",
+            "language": "de"
+          },
+          "translation": {
+            "word": "price",
+            "language": "en"
+          },
+          "hint": "The price is six pounds ninety-nine.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "d9c8d081f64ec8a7c7a74348",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "diese",
+            "language": "de"
+          },
+          "translation": {
+            "word": "these",
+            "language": "en"
+          },
+          "hint": "I'd like these shoes here.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "32031dc4d4385a8db9bf1546",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "jene",
+            "language": "de"
+          },
+          "translation": {
+            "word": "those",
+            "language": "en"
+          },
+          "hint": "I'd like those trainers over there.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "f91eaca2ac9b1bf28db58ec3",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Darf es noch etwas sein?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Anything else?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "6ec6f6821bd1987245ff1efb",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Kann ich dir/Ihnen behilflich sein?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Can I help you?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "cc4e1bec26b4babd9ff591db",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Computerspiel",
+            "language": "de"
+          },
+          "translation": {
+            "word": "computer game",
+            "language": "en"
+          },
+          "hint": "How much is the computer game?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "ea9be01b7c781d72e2359436",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Kopfhörer",
+            "language": "de"
+          },
+          "translation": {
+            "word": "headphones",
+            "language": "en"
+          },
+          "hint": "She can't hear you. She has headphones on.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "bc7a51d501ccd5d54290b6f2",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Schlüsselanhänger",
+            "language": "de"
+          },
+          "translation": {
+            "word": "key ring",
+            "language": "en"
+          },
+          "hint": "I put my key on a key ring.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "dec8776b7600eb82030e17bd",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Zeitschrift, Magazin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "magazine",
+            "language": "en"
+          },
+          "hint": "Can I buy this magazine?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "13742957a33e31acc7497fa2",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Mobiltelefon, Handy",
+            "language": "de"
+          },
+          "translation": {
+            "word": "mobile phone",
+            "language": "en"
+          },
+          "hint": "Can I have a new mobile phone?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "248eb54b7782969a2f33a002",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Roller",
+            "language": "de"
+          },
+          "translation": {
+            "word": "scooter",
+            "language": "en"
+          },
+          "hint": "I ride my scooter to school.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "94fb0903a9e61ecdc5df1e17",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Süßigkeiten",
+            "language": "de"
+          },
+          "translation": {
+            "word": "sweets (pl)",
+            "language": "en"
+          },
+          "hint": "The sweets are one ninety-nine.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "7f5b42c199b6249d67c323db",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Dose",
+            "language": "de"
+          },
+          "translation": {
+            "word": "tin",
+            "language": "en"
+          },
+          "hint": "A tin of chicken soup, please.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "3bd3f2d862e588d009b605a0",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Herzlichen Glückwunsch!",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Congratulations!",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "9b5feefd6069728d3047ae4b",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Regel",
+            "language": "de"
+          },
+          "translation": {
+            "word": "rule",
+            "language": "en"
+          },
+          "hint": "You know the rules.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "cebd852264f14f991755d868",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Kunde/Kundin",
+            "language": "de"
+          },
+          "translation": {
+            "word": "customer",
+            "language": "en"
+          },
+          "hint": "His customers like to come to the shop.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "8f334cc934de9da979d27b33",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "alles",
+            "language": "de"
+          },
+          "translation": {
+            "word": "everything",
+            "language": "en"
+          },
+          "hint": "Have you got everything?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "b2355420c5384bd2854fcaae",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "teuer",
+            "language": "de"
+          },
+          "translation": {
+            "word": "expensive",
+            "language": "en"
+          },
+          "hint": "The things in this shop are very expensive.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "c316d0e3c101df4bf68e2910",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "einschlafen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to fall asleep",
+            "language": "en"
+          },
+          "hint": "Mr Anderson sits on his chair and falls asleep.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "39981bde784e88b7d941006e",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Auf Wiedersehen., Tschüss.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Goodbye.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "da6e9c164935c4ab065c3648",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Ich hätte gerne ... , Ich möchte ...",
+            "language": "de"
+          },
+          "translation": {
+            "word": "I'd like ...",
+            "language": "en"
+          },
+          "hint": "I'd like 20 kilos of rice.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "3a59a05ba9341fd2cd1ff867",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Kein Wunder.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "No wonder.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "3d73d0e42c95d8f3823166ba",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "plötzlich, auf einmal",
+            "language": "de"
+          },
+          "translation": {
+            "word": "suddenly",
+            "language": "en"
+          },
+          "hint": "Suddenly, he hears the doorbell.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "993f142ad4b3019a295b73dd",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Stadt",
+            "language": "de"
+          },
+          "translation": {
+            "word": "town",
+            "language": "en"
+          },
+          "hint": "There's an old shop in the town.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "04e6eeb79af2d31ee53ae1fd",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "weggehen, fortgehen",
+            "language": "de"
+          },
+          "translation": {
+            "word": "to walk away",
+            "language": "en"
+          },
+          "hint": "The horse picks up the food and walks away.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "521af7ddbba646f617c54603",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Umkleidekabine",
+            "language": "de"
+          },
+          "translation": {
+            "word": "changing room",
+            "language": "en"
+          },
+          "hint": "You can try them on in the changing room.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "b681ec52912161b4cdb20c1a",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Kein Problem.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "No problem.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "f744cb28a4e7ab713d7c7e3f",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "da/dort drüben",
+            "language": "de"
+          },
+          "translation": {
+            "word": "over there",
+            "language": "en"
+          },
+          "hint": "How much are those socks over there in the window?",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "f25ad8fe10e50e8a2b46a04e",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Schublade",
+            "language": "de"
+          },
+          "translation": {
+            "word": "drawer",
+            "language": "en"
+          },
+          "hint": "All my socks are in the drawer.",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "7bd34f77576b33ff0098aa73",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "So ist es besser.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "That's better.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "b8e77441968d035c301725b3",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Was kann ich für dich/Sie tun?",
+            "language": "de"
+          },
+          "translation": {
+            "word": "What can I do for you?",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "c29b105ad3076170b0839f3a",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Pass(t) auf.; Sei(d) vorsichtig.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Be careful.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        },
+        {
+          "id": "916248902f6c4afa5bb5cf6d",
+          "date": "2024-03-05T17:48:02.047Z",
+          "word": {
+            "word": "Einen Augenblick bitte.; Moment mal.",
+            "language": "de"
+          },
+          "translation": {
+            "word": "Just a minute.",
+            "language": "en"
+          },
+          "hint": "",
+          "groupId": "96a63679040a63d66aebb8b7"
+        }
+      ]
+    }
+  ]
+}
