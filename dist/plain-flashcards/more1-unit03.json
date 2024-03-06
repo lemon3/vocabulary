@@ -1,0 +1,164 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "auch",
+      "backText": "also\r\n\r\n- Tamara is also a pirate.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "berühmt",
+      "backText": "famous\r\n\r\n- Greybeard is a famous pirate.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ihm/ihn",
+      "backText": "him\r\n\r\n- Peter is nice. We like him.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sein/e",
+      "backText": "his\r\n\r\n- His pirate name is Blackbeard.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schiff",
+      "backText": "ship\r\n\r\n- Greybeard has got a big ship.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Angst haben (vor)",
+      "backText": "to be scared (of)\r\n\r\n- The kids are scared of the ship.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sehr",
+      "backText": "very\r\n\r\n- They are very scared.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "stark, kräftig",
+      "backText": "strong\r\n\r\n- Greybeard hasn't got a strong left leg.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kapitän",
+      "backText": "captain\r\n\r\n- The captain has got a blue ship.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "haben",
+      "backText": "have got / has got\r\n\r\n- I have got brown hair.\nTamara has got red hair.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hübsch",
+      "backText": "pretty\r\n\r\n- Polly is a pretty pirate.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "violett, lila",
+      "backText": "purple\r\n\r\n- She has got purple hair.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "viel/e",
+      "backText": "a lot of / lots of\r\n\r\n- She has got a lot of books about pirates.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bett",
+      "backText": "bed\r\n\r\n- Dana is in bed now.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Traum",
+      "backText": "dream\r\n\r\n- It's a dream!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "müde",
+      "backText": "tired\r\n\r\n- Dana is in bed. She is tired.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "raten",
+      "backText": "to guess\r\n\r\n- Listen and guess the pirate.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Du bist an der Reihe.",
+      "backText": "It's your turn.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bruder",
+      "backText": "brother\r\n\r\n- Fred is Frank's brother.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "blond",
+      "backText": "blonde\r\n\r\n- He has got blonde hair.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "echt; wirklich",
+      "backText": "real\r\n\r\n- His left leg isn't real. It's wooden.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "klein",
+      "backText": "short\r\n\r\n- Greybeard is short.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "groß",
+      "backText": "tall\r\n\r\n- Tamara is tall.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "falsch, nicht in Ordnung",
+      "backText": "wrong\r\n\r\n- Say what's wrong.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Gute Idee.",
+      "backText": "Good idea.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "wahr",
+      "backText": "true\r\n\r\n- Is it true?",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 3"
+}

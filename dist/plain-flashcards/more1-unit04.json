@@ -1,0 +1,260 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "nach",
+      "backText": "after\r\n\r\n- After school I meet my friends.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tag",
+      "backText": "day\r\n\r\n- On the big day, Mike is nervous.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ende",
+      "backText": "end\r\n\r\n- At the end of the play, Mike is very happy.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Spaß",
+      "backText": "fun\r\n\r\n- It's great fun.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geh weg!",
+      "backText": "Go away!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "helfen",
+      "backText": "to help\r\n\r\n- Let me help you.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zu/nach Hause; Zuhause",
+      "backText": "home\r\n\r\n- Mike is at home.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Es hat keinen Zweck.",
+      "backText": "It's no good.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mama, Mutti",
+      "backText": "mum\r\n\r\n- She is his mum.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "nächster/nächste/nächstes",
+      "backText": "next\r\n\r\n- The next day.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "immer noch (nicht)",
+      "backText": "still (not)\r\n\r\n- Miss Baker still isn't happy.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ein Tag im Leben von",
+      "backText": "a day in the life of\r\n\r\n- The story is about a day in the life of Richard.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schlafen",
+      "backText": "to be asleep\r\n\r\n- He's in bed and he's asleep.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "früh",
+      "backText": "early\r\n\r\n- It's early. He's still in bed.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Leben",
+      "backText": "life (pl lives)\r\n\r\n- Elephants have a long life.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mittagspause",
+      "backText": "lunchtime\r\n\r\n- It's lunchtime. He's hungry.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Sonne",
+      "backText": "sun\r\n\r\n- The sun is out.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geht's dir/euch/Ihnen gut?",
+      "backText": "Are you OK?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hausaufgaben",
+      "backText": "homework (no pl)\r\n\r\n- We have got a lot of homework today.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "in (... hinein)",
+      "backText": "into\r\n\r\n- Go into the classroom!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Du meine Güte!",
+      "backText": "Oh dear!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zimmer, Raum",
+      "backText": "room\r\n\r\n- There's a rat in our room.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "warum",
+      "backText": "why\r\n\r\n- Why are you tired?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schlecht, böse",
+      "backText": "bad\r\n\r\n- Thursday and Friday aren't bad.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Komm(t) nicht zu spät., Sei(d) pünktlich.",
+      "backText": "Don't be late.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "morgen",
+      "backText": "tomorrow\r\n\r\n- Tomorrow is Monday.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geburtstag",
+      "backText": "birthday\r\n\r\n- Happy birthday, David!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Freund/Freundin",
+      "backText": "friend\r\n\r\n- Tom is his friend.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Sei du selbst.",
+      "backText": "Be yourself.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "niemand anders",
+      "backText": "no one else\r\n\r\n- Be yourself and no one else.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Flasche",
+      "backText": "bottle\r\n\r\n- The feelings are in the bottle.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zurückholen, zurückbekommen",
+      "backText": "to get back\r\n\r\n- I will get the feelings back.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "wütend, zornig",
+      "backText": "mad\r\n\r\n- I am nice, Bob is mad.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "magisch",
+      "backText": "magic\r\n\r\n- This is a magic bottle.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "stehlen; ausrauben",
+      "backText": "to rob\r\n\r\n- I'm a monster and I rob feelings.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(zer-)brechen",
+      "backText": "to break\r\n\r\n- I must break the bottle.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schlafen gehen",
+      "backText": "to go to sleep\r\n\r\n- Go back to sleep.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weil",
+      "backText": "because\r\n\r\n- I'm happy because it's the weekend.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ich bin's.",
+      "backText": "It's me.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Versuch es!",
+      "backText": "Try it!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lass(t) los!",
+      "backText": "Let go!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Was ist (hier) los?",
+      "backText": "What's happening?",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 4"
+}

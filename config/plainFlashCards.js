@@ -18,7 +18,9 @@ module.exports = {
       const newWord = {
         level: 0,
         frontText: word.de,
-        backText: word.en,
+        // backText: word.en,
+        backText: word.en +
+          ('' !== word.example ? `\r\n\r\n- ${word.example}` : ''),
         completed: false,
       };
       fc.cards.push(newWord);
@@ -26,6 +28,8 @@ module.exports = {
 
     // pretty print to JSON with two spaces
     const jsonData = JSON.stringify(fc, null, 2);
+
+    return jsonData;
 
     // create zip
     const zip = new AdmZip();

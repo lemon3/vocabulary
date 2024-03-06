@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "eedf0a90d6694cbb13d7cdd8",
+      "id": "4b59d6dfc65e4b6982147536",
       "name": "More! 1 - UNIT 2",
-      "date": "2024-03-06T09:26:41.752Z",
+      "date": "2024-03-06T09:54:39.261Z",
       "words": [
         {
-          "id": "2aabcd87d746ff5f1a1562c0",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "fbaf10153cf28624847d8eb5",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Zoo",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "ab87058409730e42bca391d8",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "76d87fb95b56ea05b21e2f3f",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "schön, hübsch",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "1839ba9d0759ddd2800918d8",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "8c51d9ffd064429604166f11",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "hinter",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "6fb5ba5b4ff3732b437cc17a",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "2c4004c3c2aaa9ebe7733a35",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "groß",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "5902885fe06cd6ff70128911",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "16a67e2b7f7caa757119f06f",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "vor",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "86cd388b5fea923699ad2d16",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "cca79fc1d10710156be426a9",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "neben",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "c6f782809b2defd2b00fabb1",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "fd40deb4dab96fcbd6d7e51e",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "jetzt",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "2f47da38b2a1ae09346271c8",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "16248b0647d50acab970036f",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "auf",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "c9b32c11936996428fca3332",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "d4c97dcf104f7c73bd032bb5",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "es gibt, da ist",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "2467b1e1573cd9be9533e2e2",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "c22707c3be4f891ccd6c6892",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "es gibt, da sind",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "18e24224f82122098d8afcb4",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "a8a2cda4fe33d6b66d88e919",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Baum",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "cfd47a1d648a83e98472a412",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "dd4c8a30352b1f8e4d52a83d",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "unter",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "212b78c7cf9a7e5f10012bb2",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "e2386fc25639cc1a1ae8ceef",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Was ist los?",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "bf3f3448ade3e9b185b9de11",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "4f8583a087c7bbadeb6a1ca8",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "wo",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "5d8f419741ab56d3839c4dcd",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "24d7f6859d5427e87c818708",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "klein",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "e3e2d7ce929f0608c8e5446b",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "c80db6cbb1b8bb71a5623d14",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Erwachsene/r",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "b3d27820e148a19b13ad7a57",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "cfe4f47bf0eeac7f12931de9",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "bei; an; hier: in",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "2854d4049222ea3381d1a837",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "7301b0dbafe24d4f208ec8be",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "(mit-)bringen",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "1f2c89ae09f732d1a65acc14",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "10bd5729f6b24c2e35ba78be",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "aber",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "a0f29ca8fdfdc5f8dcf7bddb",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "276b5e0e95610782f0818168",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "füttern",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "4cfe0e8e0de7b889debe25ef",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "e490f6e8f4fd18d1509949ec",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "(Reise-)Führer/in",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "39b6a3837813d36d562ee506",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "8ced71db0a4510ea19fc7c91",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "herumlaufen",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "f78e36dc0dbaa54ff2d5db9d",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "6f2cd8ffd4c5cba403294c46",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Zug",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "5d45615cc4375f3c4d21cbfc",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "00646eb24981093747c6c049",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "zu; bis; vor; hier: in",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "12db03c663d1502a9743c209",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "46132888034d579fc3ceb06c",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "willkommen",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "cba1aeae680950e660a78227",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "e3fe856259c777cb67e32ff5",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "aus",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "9f536d264ba25064ebce3e15",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "b44211ecc1854e0f61b4eab6",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Jahr; Jahrgangsstufe",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "a9166562c30c48b6b8209db7",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "b3495fb15a75f1853441c847",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "er",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "ec75000177da8692875fffaf",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "bdfced48aad513a6423f680b",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "sie",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "c2bd05d6e15e2fe6cd5b18ef",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "cceeda1c8b539b8359fbe304",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "sprechen, sich unterhalten",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "500556cd9dd9baa4cd386e68",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "a8647fb27a2667c05842e61c",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "sie",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "8f103f7083b977549fff6999",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "93fbc1d40c3abeaa45ea8b69",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "wir",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "4fce938174ba724e1ebf058a",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "93ff9c7e6863d24f1ff31779",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "für",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "5f4d2efc3cf6e1344a289315",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "44dedac5095e43ec719b9e09",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "glücklich, fröhlich; zufrieden",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "177737934707cd717e6dd4c8",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "a5ba3759f44a0a257390a4ad",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "jemanden herauslassen",
             "language": "de"
@@ -493,11 +493,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "09ccdc9f037f5c8ff2dc950e",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "c2fdc906ba847507a1678b46",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "uns",
             "language": "de"
@@ -507,11 +507,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "a0e8b8003aaad1f9bb6e16c7",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "7e83c71c7a8638231f25af25",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Auto",
             "language": "de"
@@ -521,11 +521,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "c6dc0155d60bd2efb96a93f3",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "bb089ac69d312defb9aea706",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Endlich.",
             "language": "de"
@@ -535,11 +535,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "62b86e866b1edcee2faaa649",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "085e88ca2b96707718930859",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Wie komisch!",
             "language": "de"
@@ -549,11 +549,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "0449caae8500606c1c2324bf",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "cfc296d9121ff292279176f7",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Lass mich mal schauen.",
             "language": "de"
@@ -563,11 +563,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         },
         {
-          "id": "12abfc8e7e9a1d0b42d83b31",
-          "date": "2024-03-06T09:26:41.752Z",
+          "id": "354bb6e46f007a6fc628a113",
+          "date": "2024-03-06T09:54:39.261Z",
           "word": {
             "word": "Stein",
             "language": "de"
@@ -577,7 +577,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "dc751b5964825b0542252704"
+          "groupId": "e5282c000746a77a505037d8"
         }
       ]
     }

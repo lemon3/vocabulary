@@ -18,9 +18,9 @@ Book info:
 
 ## About The Project
 
-English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For import into various iOs apps.
+English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For import into various iOs and Android apps.
 
-Help your child or yourself learn the vocabulary from this book quickly!
+Help your child or yourself to learn the vocabulary from this book quickly!
 
 ## Files
 | amazing flash cards<br>(csv) | worddim<br>(json) | plain-flashcards<br>(zipped json) | smart repetition<br>(txt) | simple anki<br>(csv) |

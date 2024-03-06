@@ -1,0 +1,542 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "ein/e",
+      "backText": "a\r\n\r\n- Read a story.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "über",
+      "backText": "about\r\n\r\n- Talk about your class.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "geben",
+      "backText": "to give\r\n\r\n- Give me your school bag.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schule",
+      "backText": "school\r\n\r\n- I go to school in London.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeit",
+      "backText": "time\r\n\r\n- Its time for school.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "verstehen",
+      "backText": "to understand\r\n\r\n- I understand the question.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schreiben",
+      "backText": "to write\r\n\r\n- Write the numbers.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "und",
+      "backText": "and\r\n\r\n- One and one are two.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sind; bist; seid",
+      "backText": "are\r\n\r\n- English words are really cool.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "genießen",
+      "backText": "to enjoy\r\n\r\n- Enjoy the music.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hallo!",
+      "backText": "Hello!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zuhören",
+      "backText": "to listen\r\n\r\n- Listen to the song.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lieben",
+      "backText": "to love\r\n\r\n- I love blue. It's my favourite colour.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "mehr",
+      "backText": "more\r\n\r\n- I want more!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "lesen",
+      "backText": "to read\r\n\r\n- Read the text.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sagen",
+      "backText": "to say\r\n\r\n- Say it in English.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "singen",
+      "backText": "to sing\r\n\r\n- We sing a song.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "der/die/das",
+      "backText": "the\r\n\r\n- The rubber is white.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ihr/e",
+      "backText": "their\r\n\r\n- What's their address?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "fragen",
+      "backText": "to ask\r\n\r\n- Can I ask you a question?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Junge / Mädchen",
+      "backText": "boy / girl\r\n\r\n- Sam is a name for a boy or a girl.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(E-Mail-)Adresse",
+      "backText": "(email) address\r\n\r\n- My email address is sara@linkways.com.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Wie geht es dir/Ihnen/euch?",
+      "backText": "How are you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ich bin; ich heiße",
+      "backText": "I am (= I'm)\r\n\r\n- I'm Joanna.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Es geht mir gut.",
+      "backText": "I am (= I'm) fine.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Es tut mir leid.",
+      "backText": "I'm sorry.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "kennenlernen; sich treffen",
+      "backText": "to meet\r\n\r\n- Nice to meet you!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "mein/e",
+      "backText": "my\r\n\r\n- My name is John.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "bitte",
+      "backText": "please\r\n\r\n- Can you spell it, please?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Danke., Dankeschön.",
+      "backText": "Thanks., Thank you.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "dann, danach",
+      "backText": "then\r\n\r\n- Listen to the dialogue. Then read it.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Wie heißt du?; Wie heißen Sie?",
+      "backText": "What's your name?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ja",
+      "backText": "yes\r\n\r\n- Yes, I'm good, thanks.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "dein/e; Ihr/e; euer/eure",
+      "backText": "your\r\n\r\n- What's your email address?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "arbeiten",
+      "backText": "to work\r\n\r\n- Work with a partner.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Apfel",
+      "backText": "apple\r\n\r\n- I eat apples.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ball",
+      "backText": "ball\r\n\r\n- The children play with the ball.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bär",
+      "backText": "bear\r\n\r\n- The bear Betty eats honey.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Katze",
+      "backText": "cat\r\n\r\n- I'have two cats.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hund",
+      "backText": "dog\r\n\r\n- My dog is brown.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Fisch",
+      "backText": "fish\r\n\r\n- I eat fish.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Frosch",
+      "backText": "frog\r\n\r\n- The frog Freddy eats insects.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sehen, schauen; Schau mal.",
+      "backText": "to look\r\n\r\n- Look at the animals.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "oder",
+      "backText": "or\r\n\r\n- Tick or correct the numbers.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(auf) wiedersehen, tschau, tschüss",
+      "backText": "bye\r\n\r\n- Bye, Anna!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Krokodil",
+      "backText": "crocodile\r\n\r\n- I'm a crocodile and I eat frogs.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "essen; fressen",
+      "backText": "to eat\r\n\r\n- I eat insects.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "gehen",
+      "backText": "to go\r\n\r\n- I must go. Bye.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Gorilla",
+      "backText": "gorilla\r\n\r\n- I'm a gorilla and I eat bananas.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Honig",
+      "backText": "honey\r\n\r\n- I'm a bear and I eat honey.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Insekt",
+      "backText": "insect\r\n\r\n- I'm a frog and I eat insects.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "müssen",
+      "backText": "must\r\n\r\n- I must go.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Anmerkung, Notiz",
+      "backText": "note\r\n\r\n- Look at the note on page 24.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Breitmaulfrosch",
+      "backText": "wide-mouthed frog\r\n\r\n- I'm a wide-mouthed frog.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "du; Sie; ihr",
+      "backText": "you\r\n\r\n- I'm Freddy. And you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "wie viele",
+      "backText": "how many\r\n\r\n- How many frogs can you see?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "ist",
+      "backText": "is\r\n\r\n- Freddy is a frog.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schultasche",
+      "backText": "school bag\r\n\r\n- Your book is in your school bag.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hassen, nicht ausstehen konnen",
+      "backText": "to hate\r\n\r\n- I hate pink.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hier",
+      "backText": "here\r\n\r\n- Here's your pencil case.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "es",
+      "backText": "it\r\n\r\n- It's yellow.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lass(t) ...",
+      "backText": "Let's ...\r\n\r\n- Let's sing a song!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mitternacht",
+      "backText": "midnight\r\n\r\n- It's twelve o'clock - midnight.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "unser/e",
+      "backText": "our\r\n\r\n- This is our school.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Lieblings-",
+      "backText": "favourite\r\n\r\n- Green is my favourite colour.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "finden",
+      "backText": "to find\r\n\r\n- Can you find my school tie?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Haarband",
+      "backText": "hairband\r\n\r\n- My hairband is red and yellow.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hut",
+      "backText": "hat\r\n\r\n- That's my favourite hat.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hell",
+      "backText": "light\r\n\r\n- My favourite colour is light blue.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Hemd",
+      "backText": "shirt\r\n\r\n- The shirt is white.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schuh",
+      "backText": "shoe\r\n\r\n- My shoes are brown.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Rock",
+      "backText": "skirt\r\n\r\n- My skirt is black.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Socke",
+      "backText": "sock\r\n\r\n- The socks are grey.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Sonnenbrille",
+      "backText": "sunglasses\r\n\r\n- My sunglasses are cool.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pullover",
+      "backText": "sweater\r\n\r\n- I wear a black sweater.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Krawatte",
+      "backText": "tie\r\n\r\n- My school tie is green and white.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "T-shirt",
+      "backText": "T-shirt\r\n\r\n- My favourite T-shirt is black.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "nicht",
+      "backText": "not (...n't)\r\n\r\n- It isn't pink.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kind",
+      "backText": "child\r\n\r\n- The child is in class 1A.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sauber machen, putzen",
+      "backText": "to clean\r\n\r\n- Clean the board.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "schließen, zumachen",
+      "backText": "to close\r\n\r\n- Close the door.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "öffnen, aufmachen",
+      "backText": "to open\r\n\r\n- Open the window.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bild",
+      "backText": "picture\r\n\r\n- Look at the pictures.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sich (hin-)setzen",
+      "backText": "to sit down\r\n\r\n- Sit down, children.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "sprechen",
+      "backText": "to speak\r\n\r\n- Don't speak. Listen.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "aufstehen",
+      "backText": "to stand up\r\n\r\n- Don't stand up. Sit down.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "herausnehmen",
+      "backText": "to take out\r\n\r\n- Take out your books.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(Schul-)Klasse",
+      "backText": "class\r\n\r\n- I'm in class 1A.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "eigener/eigene/eigenes",
+      "backText": "own\r\n\r\n- Write your own text.",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 1"
+}

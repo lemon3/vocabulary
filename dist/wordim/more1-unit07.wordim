@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "70cb0ff83d0eebd9d79263ec",
+      "id": "60672ee2a81a2e22d0f86db4",
       "name": "More! 1 - UNIT 7",
-      "date": "2024-03-06T09:26:41.753Z",
+      "date": "2024-03-06T09:54:39.262Z",
       "words": [
         {
-          "id": "4d111dea16103caf87a69f32",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "0a60fb94966919746d97c0a4",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Fleisch",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "46167e0286751cf752aca176",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "dc2a3c75323a6c2f1304e906",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Schinken",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "39b07ff64c53669bf51c0842",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "acb772ff50db65d19fb16269",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "gesund",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "8dca054f56f3061f1458689b",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "aac1a67c8312bf752344bced",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "mögen",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "c04358cbe0dc74ad45229eaf",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "dbb606bc733c61a0ec6fbe05",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Das ist nett.",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "b3a3bc4ef40e7afee9385c09",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "d640da9b1b72c1bf3d89bc48",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "immer",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "993705701548a39a54c04c9c",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "233f8f418758dee6dfc683d3",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Frühstück",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "b0138fa72c2c2bc58a16410f",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "088188558d456c576c5ba2bf",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Land",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "9108aef18f6eba251ed04a85",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "ea335b424c492fb1a4aa46ca",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Nachtisch",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "8b383463891fdce68a7ceed2",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "768e7aeae16adfc6b6151e0f",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Familie",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "e6cc70d1f7ca37f526808f4c",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "173a80ee227cde8b82216c5f",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Obst; Frucht",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "1ce5238a723762f07e24a249",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "9b93343d179f97f3386b9894",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Großeltern",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "73b2da32e19974658fda5a3a",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "426f96eab68cfffe04bf8f37",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Mittagessen",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "e109badb1255b8f3c6b5d7e5",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "69b50a6eeccc3d8f42e8b026",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "nie, niemals",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "e2379db8b58a08df0ee9be56",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "7b2dfad18d8bd1c895181e50",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "oft, häufig",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "05e08d6cc09866c9aa0c94c3",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "64b473b5fb5678b8e60d6aa9",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "setzen, legen, stellen",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "dc56222f12ed6fef6ea6274f",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "76e85a7d6f3ecdb8836f0fc3",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "manchmal",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "ebed16881ab4d6a2f440b8dc",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "3d9509c61f6b831e46725837",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Eintopf",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "4ea5cb20bb3c23f558294611",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "0f74d26f4adcc27429e4aadd",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "gewöhnlich, normalerweise",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "ebe4d1b78cce00f7cb3ad6b4",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "444493113e4d6ae160a59dfa",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Gemüse",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "e9242244928eaf17f7efa930",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "3aa08ed663925d779acc8945",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "bester Freund / beste Freundin",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "8e5132443618f5ac16c1923e",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "c21ae8158449a92eba8d2bfd",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Tofu",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "2c0462b123cd52f3da1f9844",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "6d26549f1941b61eb83402a3",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Rindfleisch",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "d9db787959faf2b0d0416b15",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "38164d32a76c13ecfc2e2399",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Ich weiß es nicht.",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "40117600c2dd8020bc5b7973",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "915dca9f5989645ccc385650",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Ich bin mir nicht sicher.",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         },
         {
-          "id": "e9676b6edfaf77622dd07876",
-          "date": "2024-03-06T09:26:41.753Z",
+          "id": "d4baeec69ea8e1ab4e9c502f",
+          "date": "2024-03-06T09:54:39.262Z",
           "word": {
             "word": "Geschenk",
             "language": "de"
@@ -367,7 +367,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "2ada0d743bbaada8b5c7e554"
+          "groupId": "eacfae3d3cf45fae09998566"
         }
       ]
     }

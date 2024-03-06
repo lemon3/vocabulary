@@ -1,0 +1,224 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "ungewöhnlich, außergewöhnlich",
+      "backText": "unusual\r\n\r\n- A snake is a very unusual pet.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Maus",
+      "backText": "mouse (pl mice)\r\n\r\n- I have a mouse and a dog and my friend has four mice.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(...) am Tag",
+      "backText": "(...) a day\r\n\r\n- She walks her dog three times a day.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "einmal",
+      "backText": "once\r\n\r\n- He feeds his hamster once a day.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "zweimal",
+      "backText": "twice\r\n\r\n- I only feed my spider twice a week.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "hier: in ganz (Großbritannien)",
+      "backText": "across (Britain)\r\n\r\n- There are lots of pets in homes across Britain.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "gefährlich",
+      "backText": "dangerous\r\n\r\n- Crocodiles are dangerous animals.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Bauernhof",
+      "backText": "farm\r\n\r\n- She lives on a farm with horses and pigs.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mann",
+      "backText": "man (pl men)\r\n\r\n- The man's name is John.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "in der Nähe von",
+      "backText": "near\r\n\r\n- The Smith family lives near London.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeitung",
+      "backText": "newspaper\r\n\r\n- My dad always reads the newspaper in the morning.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "(...) in der Woche",
+      "backText": "(...) a week\r\n\r\n- He feeds his spider once a week.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Korb",
+      "backText": "basket\r\n\r\n- Grandpa gives her two baskets of apples and plums.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tochter",
+      "backText": "daughter\r\n\r\n- Clare is her daughter.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "fahren",
+      "backText": "to drive\r\n\r\n- On Sunday, they drive to Grandpa's house.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "jede/r",
+      "backText": "everybody\r\n\r\n- Everybody in class is sad today.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weit weg",
+      "backText": "far away\r\n\r\n- Grandpa's house is far away.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Opa",
+      "backText": "grandpa\r\n\r\n- My grandpa lives on a farm.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mutter",
+      "backText": "mother\r\n\r\n- She lives at home with her mother.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Geräusch",
+      "backText": "noise\r\n\r\n- Clare hears a noise in the apartment.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "bleiben",
+      "backText": "to stay\r\n\r\n- We can't stay here.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Stofftier",
+      "backText": "cuddly toys.\r\n\r\n- All day long he plays with his cuddly toys.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "besuchen",
+      "backText": "to visit\r\n\r\n- On Sunday, they visit Grandpa.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "an etw. interessiert sein",
+      "backText": "to be interested in\r\n\r\n- Tell me about the things you are interested in.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Fell",
+      "backText": "fur\r\n\r\n- My pet has fur — lots of it.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "persönlich",
+      "backText": "personal\r\n\r\n- Don't put personal information on your blog.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Besitzer/Besitzerin",
+      "backText": "owner\r\n\r\n- Jamie is the owner of an unusual pet.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Tante (Koseform)",
+      "backText": "aunty\r\n\r\n- Aunty Jane is Mum's sister.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "liebe/r (Anrede)",
+      "backText": "dear\r\n\r\n- Dear Aunty Olivia, ...",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Brief",
+      "backText": "letter\r\n\r\n- Thank you for your letter.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "beißen",
+      "backText": "to bite\r\n\r\n- I don't like that dog. It bites!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Anfang",
+      "backText": "beginning\r\n\r\n- The beginning of the film is fantastic.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "anfangen, beginnen",
+      "backText": "to begin\r\n\r\n- He always begins his emails with “Hi!”.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "herzliche Grüße",
+      "backText": "best wishes\r\n\r\n- Best wishes to your mum and dad, Peter.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ende, Schluss",
+      "backText": "ending\r\n\r\n- The ending of the book is very strange.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "brauchen",
+      "backText": "to need\r\n\r\n- I really need your help.",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 9"
+}

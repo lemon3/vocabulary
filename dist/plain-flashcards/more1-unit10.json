@@ -1,0 +1,212 @@
+{
+  "cards": [
+    {
+      "level": 0,
+      "frontText": "wie viel kostet/kosten ...",
+      "backText": "how much is/are ...\r\n\r\n- How much are the trainers?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Preis, Rechnungsbetrag",
+      "backText": "price\r\n\r\n- The price is six pounds ninety-nine.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "diese",
+      "backText": "these\r\n\r\n- I'd like these shoes here.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "jene",
+      "backText": "those\r\n\r\n- I'd like those trainers over there.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Darf es noch etwas sein?",
+      "backText": "Anything else?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kann ich dir/Ihnen behilflich sein?",
+      "backText": "Can I help you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Computerspiel",
+      "backText": "computer game\r\n\r\n- How much is the computer game?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kopfhörer",
+      "backText": "headphones\r\n\r\n- She can't hear you. She has headphones on.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schlüsselanhänger",
+      "backText": "key ring\r\n\r\n- I put my key on a key ring.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Zeitschrift, Magazin",
+      "backText": "magazine\r\n\r\n- Can I buy this magazine?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Mobiltelefon, Handy",
+      "backText": "mobile phone\r\n\r\n- Can I have a new mobile phone?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Roller",
+      "backText": "scooter\r\n\r\n- I ride my scooter to school.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Süßigkeiten",
+      "backText": "sweets (pl)\r\n\r\n- The sweets are one ninety-nine.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Dose",
+      "backText": "tin\r\n\r\n- A tin of chicken soup, please.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Herzlichen Glückwunsch!",
+      "backText": "Congratulations!",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Regel",
+      "backText": "rule\r\n\r\n- You know the rules.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kunde/Kundin",
+      "backText": "customer\r\n\r\n- His customers like to come to the shop.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "alles",
+      "backText": "everything\r\n\r\n- Have you got everything?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "teuer",
+      "backText": "expensive\r\n\r\n- The things in this shop are very expensive.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "einschlafen",
+      "backText": "to fall asleep\r\n\r\n- Mr Anderson sits on his chair and falls asleep.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Auf Wiedersehen., Tschüss.",
+      "backText": "Goodbye.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Ich hätte gerne ... , Ich möchte ...",
+      "backText": "I'd like ...\r\n\r\n- I'd like 20 kilos of rice.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kein Wunder.",
+      "backText": "No wonder.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "plötzlich, auf einmal",
+      "backText": "suddenly\r\n\r\n- Suddenly, he hears the doorbell.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Stadt",
+      "backText": "town\r\n\r\n- There's an old shop in the town.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "weggehen, fortgehen",
+      "backText": "to walk away\r\n\r\n- The horse picks up the food and walks away.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Umkleidekabine",
+      "backText": "changing room\r\n\r\n- You can try them on in the changing room.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Kein Problem.",
+      "backText": "No problem.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "da/dort drüben",
+      "backText": "over there\r\n\r\n- How much are those socks over there in the window?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Schublade",
+      "backText": "drawer\r\n\r\n- All my socks are in the drawer.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "So ist es besser.",
+      "backText": "That's better.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Was kann ich für dich/Sie tun?",
+      "backText": "What can I do for you?",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Pass(t) auf.; Sei(d) vorsichtig.",
+      "backText": "Be careful.",
+      "completed": false
+    },
+    {
+      "level": 0,
+      "frontText": "Einen Augenblick bitte.; Moment mal.",
+      "backText": "Just a minute.",
+      "completed": false
+    }
+  ],
+  "isSpacedRepetition": true,
+  "isTranslationEnabled": true,
+  "isTutorial": false,
+  "name": "More! 1 - UNIT 10"
+}
