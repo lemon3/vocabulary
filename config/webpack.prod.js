@@ -31,7 +31,7 @@ const versions = [
   },
   {
     name: 'plain-flashcards',
-    extension: 'json',
+    extension: 'zip',
     transform: (content, file) => plainFlashCards(content, file),
   },
   {

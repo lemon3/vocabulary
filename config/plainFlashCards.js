@@ -29,8 +29,6 @@ module.exports = {
     // pretty print to JSON with two spaces
     const jsonData = JSON.stringify(fc, null, 2);
 
-    return jsonData;
-
     // create zip
     const zip = new AdmZip();
     zip.addFile(`${file}.json`, Buffer.from(jsonData, 'utf8'));
