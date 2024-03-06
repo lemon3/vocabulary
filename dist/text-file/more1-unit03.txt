@@ -15,7 +15,7 @@ Bett;bed
 Traum;dream
 müde;tired
 raten;to guess
-Du bist an der Reihe.;It's your turn.
+Du bist an der Reihe.;It’s your turn.
 Bruder;brother
 blond;blonde
 echt, wirklich;real

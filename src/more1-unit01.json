@@ -64,7 +64,7 @@
     {
       "de": "lieben",
       "en": "to love",
-      "example": "I love blue. It's my favourite colour."
+      "example": "I love blue. It’s my favourite colour."
     },
     {
       "de": "mehr",
@@ -94,7 +94,7 @@
     {
       "de": "ihr/e",
       "en": "their",
-      "example": "What's their address?"
+      "example": "What’s their address?"
     },
     {
       "de": "fragen",
@@ -118,17 +118,17 @@
     },
     {
       "de": "ich bin; ich heiße",
-      "en": "I am (= I'm)",
-      "example": "I'm Joanna."
+      "en": "I am (= I’m)",
+      "example": "I’m Joanna."
     },
     {
       "de": "Es geht mir gut.",
-      "en": "I am (= I'm) fine.",
+      "en": "I am (= I’m) fine.",
       "example": ""
     },
     {
       "de": "Es tut mir leid.",
-      "en": "I'm sorry.",
+      "en": "I’m sorry.",
       "example": ""
     },
     {
@@ -158,18 +158,18 @@
     },
     {
       "de": "Wie heißt du?; Wie heißen Sie?",
-      "en": "What's your name?",
+      "en": "What’s your name?",
       "example": ""
     },
     {
       "de": "ja",
       "en": "yes",
-      "example": "Yes, I'm good, thanks."
+      "example": "Yes, I’m good, thanks."
     },
     {
       "de": "dein/e; Ihr/e; euer/eure",
       "en": "your",
-      "example": "What's your email address?"
+      "example": "What’s your email address?"
     },
     {
       "de": "arbeiten",
@@ -194,7 +194,7 @@
     {
       "de": "Katze",
       "en": "cat",
-      "example": "I'have two cats."
+      "example": "I’have two cats."
     },
     {
       "de": "Hund",
@@ -229,7 +229,7 @@
     {
       "de": "Krokodil",
       "en": "crocodile",
-      "example": "I'm a crocodile and I eat frogs."
+      "example": "I’m a crocodile and I eat frogs."
     },
     {
       "de": "essen; fressen",
@@ -244,17 +244,17 @@
     {
       "de": "Gorilla",
       "en": "gorilla",
-      "example": "I'm a gorilla and I eat bananas."
+      "example": "I’m a gorilla and I eat bananas."
     },
     {
       "de": "Honig",
       "en": "honey",
-      "example": "I'm a bear and I eat honey."
+      "example": "I’m a bear and I eat honey."
     },
     {
       "de": "Insekt",
       "en": "insect",
-      "example": "I'm a frog and I eat insects."
+      "example": "I’m a frog and I eat insects."
     },
     {
       "de": "müssen",
@@ -269,12 +269,12 @@
     {
       "de": "Breitmaulfrosch",
       "en": "wide-mouthed frog",
-      "example": "I'm a wide-mouthed frog."
+      "example": "I’m a wide-mouthed frog."
     },
     {
       "de": "du; Sie; ihr",
       "en": "you",
-      "example": "I'm Freddy. And you?"
+      "example": "I’m Freddy. And you?"
     },
     {
       "de": "wie viele",
@@ -299,22 +299,22 @@
     {
       "de": "hier",
       "en": "here",
-      "example": "Here's your pencil case."
+      "example": "Here’s your pencil case."
     },
     {
       "de": "es",
       "en": "it",
-      "example": "It's yellow."
+      "example": "It’s yellow."
     },
     {
       "de": "Lass(t) ...",
-      "en": "Let's ...",
-      "example": "Let's sing a song!"
+      "en": "Let’s ...",
+      "example": "Let’s sing a song!"
     },
     {
       "de": "Mitternacht",
       "en": "midnight",
-      "example": "It's twelve o'clock - midnight."
+      "example": "It’s twelve o’clock - midnight."
     },
     {
       "de": "unser/e",
@@ -339,7 +339,7 @@
     {
       "de": "Hut",
       "en": "hat",
-      "example": "That's my favourite hat."
+      "example": "That’s my favourite hat."
     },
     {
       "de": "hell",
@@ -388,8 +388,8 @@
     },
     {
       "de": "nicht",
-      "en": "not (...n't)",
-      "example": "It isn't pink."
+      "en": "not (...n’t)",
+      "example": "It isn’t pink."
     },
     {
       "de": "Kind",
@@ -424,12 +424,12 @@
     {
       "de": "sprechen",
       "en": "to speak",
-      "example": "Don't speak. Listen."
+      "example": "Don’t speak. Listen."
     },
     {
       "de": "aufstehen",
       "en": "to stand up",
-      "example": "Don't stand up. Sit down."
+      "example": "Don’t stand up. Sit down."
     },
     {
       "de": "herausnehmen",
@@ -439,7 +439,7 @@
     {
       "de": "(Schul-)Klasse",
       "en": "class",
-      "example": "I'm in class 1A."
+      "example": "I’m in class 1A."
     },
     {
       "de": "eigener/eigene/eigenes",

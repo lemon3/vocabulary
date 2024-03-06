@@ -12,4 +12,4 @@ aufregend;exciting
 heute Abend;tonight
 Pferd;horse
 Gebäude;building
-Lass(t) uns verschwinden.;Let's get out of here.
+Lass(t) uns verschwinden.;Let’s get out of here.

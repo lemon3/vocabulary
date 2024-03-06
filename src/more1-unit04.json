@@ -19,7 +19,7 @@
     {
       "de": "Spaß",
       "en": "fun",
-      "example": "It's great fun."
+      "example": "It’s great fun."
     },
     {
       "de": "Geh weg!",
@@ -38,7 +38,7 @@
     },
     {
       "de": "Es hat keinen Zweck.",
-      "en": "It's no good.",
+      "en": "It’s no good.",
       "example": ""
     },
     {
@@ -54,7 +54,7 @@
     {
       "de": "immer noch (nicht)",
       "en": "still (not)",
-      "example": "Miss Baker still isn't happy."
+      "example": "Miss Baker still isn’t happy."
     },
     {
       "de": "ein Tag im Leben von",
@@ -64,12 +64,12 @@
     {
       "de": "schlafen",
       "en": "to be asleep",
-      "example": "He's in bed and he's asleep."
+      "example": "He’s in bed and he’s asleep."
     },
     {
       "de": "früh",
       "en": "early",
-      "example": "It's early. He's still in bed."
+      "example": "It’s early. He’s still in bed."
     },
     {
       "de": "Leben",
@@ -79,7 +79,7 @@
     {
       "de": "Mittagspause",
       "en": "lunchtime",
-      "example": "It's lunchtime. He's hungry."
+      "example": "It’s lunchtime. He’s hungry."
     },
     {
       "de": "Sonne",
@@ -87,7 +87,7 @@
       "example": "The sun is out."
     },
     {
-      "de": "Geht's dir/euch/Ihnen gut?",
+      "de": "Geht’s dir/euch/Ihnen gut?",
       "en": "Are you OK?",
       "example": ""
     },
@@ -109,7 +109,7 @@
     {
       "de": "Zimmer, Raum",
       "en": "room",
-      "example": "There's a rat in our room."
+      "example": "There’s a rat in our room."
     },
     {
       "de": "warum",
@@ -119,11 +119,11 @@
     {
       "de": "schlecht, böse",
       "en": "bad",
-      "example": "Thursday and Friday aren't bad."
+      "example": "Thursday and Friday aren’t bad."
     },
     {
       "de": "Komm(t) nicht zu spät., Sei(d) pünktlich.",
-      "en": "Don't be late.",
+      "en": "Don’t be late.",
       "example": ""
     },
     {
@@ -174,7 +174,7 @@
     {
       "de": "stehlen; ausrauben",
       "en": "to rob",
-      "example": "I'm a monster and I rob feelings."
+      "example": "I’m a monster and I rob feelings."
     },
     {
       "de": "(zer-)brechen",
@@ -189,11 +189,11 @@
     {
       "de": "weil",
       "en": "because",
-      "example": "I'm happy because it's the weekend."
+      "example": "I’m happy because it’s the weekend."
     },
     {
-      "de": "Ich bin's.",
-      "en": "It's me.",
+      "de": "Ich bin’s.",
+      "en": "It’s me.",
       "example": ""
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "de": "Was ist (hier) los?",
-      "en": "What's happening?",
+      "en": "What’s happening?",
       "example": ""
     }
   ]

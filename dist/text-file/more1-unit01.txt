@@ -21,15 +21,15 @@ fragen;to ask
 Junge / Mädchen;boy / girl
 (E-Mail-)Adresse;(email) address
 Wie geht es dir/Ihnen/euch?;How are you?
-ich bin, ich heiße;I am (= I'm)
-Es geht mir gut.;I am (= I'm) fine.
-Es tut mir leid.;I'm sorry.
+ich bin, ich heiße;I am (= I’m)
+Es geht mir gut.;I am (= I’m) fine.
+Es tut mir leid.;I’m sorry.
 kennenlernen, sich treffen;to meet
 mein/e;my
 bitte;please
 Danke., Dankeschön.;Thanks., Thank you.
 dann, danach;then
-Wie heißt du?, Wie heißen Sie?;What's your name?
+Wie heißt du?, Wie heißen Sie?;What’s your name?
 ja;yes
 dein/e, Ihr/e, euer/eure;your
 arbeiten;to work
@@ -59,7 +59,7 @@ Schultasche;school bag
 hassen, nicht ausstehen konnen;to hate
 hier;here
 es;it
-Lass(t) ...;Let's ...
+Lass(t) ...;Let’s ...
 Mitternacht;midnight
 unser/e;our
 Lieblings-;favourite
@@ -75,7 +75,7 @@ Sonnenbrille;sunglasses
 Pullover;sweater
 Krawatte;tie
 T-shirt;T-shirt
-nicht;not (...n't)
+nicht;not (...n’t)
 Kind;child
 sauber machen, putzen;to clean
 schließen, zumachen;to close

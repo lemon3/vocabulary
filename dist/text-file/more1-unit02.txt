@@ -6,7 +6,7 @@ vor;in front of
 neben;next to
 jetzt;now
 auf;on
-es gibt, da ist;there is (there's)
+es gibt, da ist;there is (there’s)
 es gibt, da sind;there are
 Baum;tree
 unter;under

@@ -19,7 +19,7 @@ alles;everything
 teuer;expensive
 einschlafen;to fall asleep
 Auf Wiedersehen., Tschüss.;Goodbye.
-Ich hätte gerne ... , Ich möchte ...;I'd like ...
+Ich hätte gerne ... , Ich möchte ...;I’d like ...
 Kein Wunder.;No wonder.
 plötzlich, auf einmal;suddenly
 Stadt;town
@@ -28,7 +28,7 @@ Umkleidekabine;changing room
 Kein Problem.;No problem.
 da/dort drüben;over there
 Schublade;drawer
-So ist es besser.;That's better.
+So ist es besser.;That’s better.
 Was kann ich für dich/Sie tun?;What can I do for you?
 Pass(t) auf., Sei(d) vorsichtig.;Be careful.
 Einen Augenblick bitte., Moment mal.;Just a minute.

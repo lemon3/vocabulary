@@ -6,7 +6,7 @@ aufsetzen, anziehen;to put on
 lächeln;to smile
 abnehmen, ausziehen;to take off
 weg;away
-(welt-)bester/beste/bestes;(world's) best
+(welt-)bester/beste/bestes;(world’s) best
 Detektiv/Detektivin;detective
 Hilf mir!;Help me!
 suchen;to look for
@@ -33,6 +33,6 @@ beobachten, zuschauen;to watch
 Straße;street
 aufstehen;to get up
 werden;to become
-Aber es stimmt!;But it's true!
+Aber es stimmt!;But it’s true!
 weitermachen, Erzahl weiter!;Go on.
 Gut gemacht.;Well done.
