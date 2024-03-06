@@ -25,7 +25,7 @@ const versions = [
     transform: (content, file) => wordim(content),
   },
   {
-    name: 'amazing-flash-cards',
+    name: 'csv-file-example',
     extension: 'csv',
     transform: (content, file) => toCSV(content, true),
   },

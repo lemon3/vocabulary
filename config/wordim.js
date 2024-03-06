@@ -43,7 +43,7 @@ module.exports = {
           word: word.en,
           language: 'en',
         },
-        hint: word.example,
+        hint: '', // word.example, //
         groupId: groupId,
       };
       wordIm.groups[0].words.push(newWord);
