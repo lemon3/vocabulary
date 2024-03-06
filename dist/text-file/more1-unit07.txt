@@ -1,1 +1,26 @@
-"Fleisch";"meat""Schinken";"ham""gesund";"healthy""mögen";"to like""Das ist nett.";"That's nice.""immer";"always""Frühstück";"breakfast""Land";"country""Nachtisch";"dessert""Familie";"family""Obst; Frucht";"fruit""Großeltern";"grandparents""Mittagessen";"lunch""nie, niemals";"never""oft, häufig";"often""setzen, legen, stellen";"to put""manchmal";"sometimes""Eintopf";"stew""gewöhnlich, normalerweise";"usually""Gemüse";"vegetables (veggies)""bester Freund / beste Freundin";"best friend""Tofu";"tofu""Rindfleisch";"beef""Ich weiß es nicht.";"I don't know.""Ich bin mir nicht sicher.";"I'm not sure.""Geschenk";"present"
+Fleisch;meat
+Schinken;ham
+gesund;healthy
+mögen;to like
+Das ist nett.;That's nice.
+immer;always
+Frühstück;breakfast
+Land;country
+Nachtisch;dessert
+Familie;family
+Obst, Frucht;fruit
+Großeltern;grandparents
+Mittagessen;lunch
+nie, niemals;never
+oft, häufig;often
+setzen, legen, stellen;to put
+manchmal;sometimes
+Eintopf;stew
+gewöhnlich, normalerweise;usually
+Gemüse;vegetables (veggies)
+bester Freund / beste Freundin;best friend
+Tofu;tofu
+Rindfleisch;beef
+Ich weiß es nicht.;I don't know.
+Ich bin mir nicht sicher.;I'm not sure.
+Geschenk;present

@@ -1,1 +1,35 @@
-"fester Freund";"boyfriend""sein/e; ihr/e";"its""spielen";"to play""Schwester";"sister""können; nicht können";"can; cannot / can't""Konzert";"concert""tanzen";"to dance""Keine Sorge.";"Don't worry.""Arbeit; Aufgabe";"job""perfekt";"perfect""tragen";"to carry""auf etwas stehen";"to stand on""Zunge";"tongue""berühren";"to touch""auf etwas gehen";"to walk on""wackeln";"to wiggle""Dose";"can""trinken";"to drink""hundert";"hundred""in einem Zug, auf einmal";"in one go""Ach wirklich?";"Is that so?""Das bin ich.";"This is me.""Wirtschaft";"economy""Krankenhaus";"hospital""lachen";"to laugh""(Taschen-)Geld";"(pocket) money""Pfund";"pound""Gewinn, Profit";"profit""Schulkantine";"school canteen""Tisch";"table""Lehrer/Lehrerin";"teacher""Onkel";"uncle""waschen";"to wash""nichts";"nothing""Entschuldigung?, Wie bitte?";"Sorry?"
+fester Freund;boyfriend
+sein/e, ihr/e;its
+spielen;to play
+Schwester;sister
+können, nicht können;can, cannot / can't
+Konzert;concert
+tanzen;to dance
+Keine Sorge.;Don't worry.
+Arbeit, Aufgabe;job
+perfekt;perfect
+tragen;to carry
+auf etwas stehen;to stand on
+Zunge;tongue
+berühren;to touch
+auf etwas gehen;to walk on
+wackeln;to wiggle
+Dose;can
+trinken;to drink
+hundert;hundred
+in einem Zug, auf einmal;in one go
+Ach wirklich?;Is that so?
+Das bin ich.;This is me.
+Wirtschaft;economy
+Krankenhaus;hospital
+lachen;to laugh
+(Taschen-)Geld;(pocket) money
+Pfund;pound
+Gewinn, Profit;profit
+Schulkantine;school canteen
+Tisch;table
+Lehrer/Lehrerin;teacher
+Onkel;uncle
+waschen;to wash
+nichts;nothing
+Entschuldigung?, Wie bitte?;Sorry?

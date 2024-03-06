@@ -10,7 +10,7 @@ module.exports = {
     if (withExample) {
       fun = (word) => {
         csv +=
-          `"${word.de}","${word.en}` +
+          `"${word.de}";"${word.en}` +
           ('' !== word.example ? `\r\n\r\n- ${word.example}` : '') +
           '"\r\n';
       };

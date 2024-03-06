@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "73463723938f0b01c9f3d4c9",
+      "id": "e88a794972e5be494a94dccb",
       "name": "More! 1 - UNIT 8",
-      "date": "2024-03-06T10:02:18.471Z",
+      "date": "2024-03-06T11:06:18.661Z",
       "words": [
         {
-          "id": "dc1403c2ae7360d8f1ee3144",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "3c715bd7fa673b9d3b58d982",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "Loch",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "8d6b3118223150fc836be8f3",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "1fa802f3770361950e9cc271",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "(irgend-)etwas",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "81c2695784bd219cb47b8745",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "736e80d990cd5a2aecd9479a",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "(sich) ausleihen",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "80dd25ead99238d04cf15c12",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "8cc8481d89ea338fa3667089",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "passen",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "994a540e3b1136e50d795e1d",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "79080df8ed6d04696adb580b",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "anprobieren",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "1c1b324b5bd0434b566d511b",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "81d29a2a78b0fe754283dc19",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "wehtun, schmerzen",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "7524b70717618c483bf05172",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "c90553c0652c139fc1e6baee",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "Gedicht",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "2f84e9a11db6eacc2820124f",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "65752501c6cdc71c74cc762e",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "kitzeln",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "7027e3794ec9df91a1b01ca9",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "8e8cc9c33bdc5eb2d372f134",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "jemand",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "99770e37de888cae5ef0874d",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "7dbf9747c8933118492b410f",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "rückwärts",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "44e0ef0b71636e8e9ea5803f",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "3d671bcac64a03ee1708824f",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "aufregend",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "f9c54e68daa30aaf8c49148e",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "34eb2ff9afdc1c2dede231cd",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "heute Abend",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "c26d4d3ae073c856e28ce303",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "02dabfda7f583db76f68fa8f",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "Pferd",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "f4d08ec40d33d08756bad132",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "102d775a1cbc8eb41052a579",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "Gebäude",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         },
         {
-          "id": "b177ec911f55f2c0676a08e4",
-          "date": "2024-03-06T10:02:18.471Z",
+          "id": "c1ef09007cb1f5afd787a03e",
+          "date": "2024-03-06T11:06:18.661Z",
           "word": {
             "word": "Lass(t) uns verschwinden.",
             "language": "de"
@@ -213,7 +213,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "4611128448144a09aa18977d"
+          "groupId": "ca8e6f98d288924e569deaee"
         }
       ]
     }

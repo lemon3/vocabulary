@@ -1,1 +1,41 @@
-"Zoo";"Zoo""schön, hübsch";"beautiful""hinter";"behind""groß";"big""vor";"in front of""neben";"next to""jetzt";"now""auf";"on""es gibt, da ist";"there is (there's)""es gibt, da sind";"there are""Baum";"tree""unter";"under""Was ist los?";"What is it?""wo";"where""klein";"small""Erwachsene/r";"adult""bei; an; hier: in";"at""(mit-)bringen";"to bring""aber";"but""füttern";"to feed""(Reise-)Führer/in";"guide""herumlaufen";"to run around""Zug";"train""zu; bis; vor; hier: in";"to""willkommen";"welcome""aus";"from""Jahr; Jahrgangsstufe";"year""er";"he""sie";"she""sprechen, sich unterhalten";"to talk""sie";"they""wir";"we""für";"for""glücklich, fröhlich; zufrieden";"happy""jemanden herauslassen";"to let somebody out""uns";"us""Auto";"car""Endlich.";"At last.""Wie komisch!";"How strange!""Lass mich mal schauen.";"Let me see.""Stein";"stone"
+Zoo;Zoo
+schön, hübsch;beautiful
+hinter;behind
+groß;big
+vor;in front of
+neben;next to
+jetzt;now
+auf;on
+es gibt, da ist;there is (there's)
+es gibt, da sind;there are
+Baum;tree
+unter;under
+Was ist los?;What is it?
+wo;where
+klein;small
+Erwachsene/r;adult
+bei, an, hier: in;at
+(mit-)bringen;to bring
+aber;but
+füttern;to feed
+(Reise-)Führer/in;guide
+herumlaufen;to run around
+Zug;train
+zu, bis, vor, hier: in;to
+willkommen;welcome
+aus;from
+Jahr, Jahrgangsstufe;year
+er;he
+sie;she
+sprechen, sich unterhalten;to talk
+sie;they
+wir;we
+für;for
+glücklich, fröhlich, zufrieden;happy
+jemanden herauslassen;to let somebody out
+uns;us
+Auto;car
+Endlich.;At last.
+Wie komisch!;How strange!
+Lass mich mal schauen.;Let me see.
+Stein;stone

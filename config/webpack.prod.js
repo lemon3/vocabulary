@@ -4,6 +4,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 const { wordim } = require('./wordim');
 const { plainFlashCards } = require('./plainFlashCards');
 const { toCSV } = require('./toCSV');
+const { toTXT } = require('./toTXT');
 
 const units = [
   'more1-unit01',
@@ -42,7 +43,7 @@ const versions = [
   {
     name: 'text-file',
     extension: 'txt',
-    transform: (content, file) => toCSV(content),
+    transform: (content, file) => toTXT(content),
   },
 ];
 

@@ -1,1 +1,89 @@
-"ein/e";"a""über";"about""geben";"to give""Schule";"school""Zeit";"time""verstehen";"to understand""schreiben";"to write""und";"and""sind; bist; seid";"are""genießen";"to enjoy""Hallo!";"Hello!""zuhören";"to listen""lieben";"to love""mehr";"more""lesen";"to read""sagen";"to say""singen";"to sing""der/die/das";"the""ihr/e";"their""fragen";"to ask""Junge / Mädchen";"boy / girl""(E-Mail-)Adresse";"(email) address""Wie geht es dir/Ihnen/euch?";"How are you?""ich bin; ich heiße";"I am (= I'm)""Es geht mir gut.";"I am (= I'm) fine.""Es tut mir leid.";"I'm sorry.""kennenlernen; sich treffen";"to meet""mein/e";"my""bitte";"please""Danke., Dankeschön.";"Thanks., Thank you.""dann, danach";"then""Wie heißt du?; Wie heißen Sie?";"What's your name?""ja";"yes""dein/e; Ihr/e; euer/eure";"your""arbeiten";"to work""Apfel";"apple""Ball";"ball""Bär";"bear""Katze";"cat""Hund";"dog""Fisch";"fish""Frosch";"frog""sehen, schauen; Schau mal.";"to look""oder";"or""(auf) wiedersehen, tschau, tschüss";"bye""Krokodil";"crocodile""essen; fressen";"to eat""gehen";"to go""Gorilla";"gorilla""Honig";"honey""Insekt";"insect""müssen";"must""Anmerkung, Notiz";"note""Breitmaulfrosch";"wide-mouthed frog""du; Sie; ihr";"you""wie viele";"how many""ist";"is""Schultasche";"school bag""hassen, nicht ausstehen konnen";"to hate""hier";"here""es";"it""Lass(t) ...";"Let's ...""Mitternacht";"midnight""unser/e";"our""Lieblings-";"favourite""finden";"to find""Haarband";"hairband""Hut";"hat""hell";"light""Hemd";"shirt""Schuh";"shoe""Rock";"skirt""Socke";"sock""Sonnenbrille";"sunglasses""Pullover";"sweater""Krawatte";"tie""T-shirt";"T-shirt""nicht";"not (...n't)""Kind";"child""sauber machen, putzen";"to clean""schließen, zumachen";"to close""öffnen, aufmachen";"to open""Bild";"picture""sich (hin-)setzen";"to sit down""sprechen";"to speak""aufstehen";"to stand up""herausnehmen";"to take out""(Schul-)Klasse";"class""eigener/eigene/eigenes";"own"
+ein/e;a
+über;about
+geben;to give
+Schule;school
+Zeit;time
+verstehen;to understand
+schreiben;to write
+und;and
+sind, bist, seid;are
+genießen;to enjoy
+Hallo!;Hello!
+zuhören;to listen
+lieben;to love
+mehr;more
+lesen;to read
+sagen;to say
+singen;to sing
+der/die/das;the
+ihr/e;their
+fragen;to ask
+Junge / Mädchen;boy / girl
+(E-Mail-)Adresse;(email) address
+Wie geht es dir/Ihnen/euch?;How are you?
+ich bin, ich heiße;I am (= I'm)
+Es geht mir gut.;I am (= I'm) fine.
+Es tut mir leid.;I'm sorry.
+kennenlernen, sich treffen;to meet
+mein/e;my
+bitte;please
+Danke., Dankeschön.;Thanks., Thank you.
+dann, danach;then
+Wie heißt du?, Wie heißen Sie?;What's your name?
+ja;yes
+dein/e, Ihr/e, euer/eure;your
+arbeiten;to work
+Apfel;apple
+Ball;ball
+Bär;bear
+Katze;cat
+Hund;dog
+Fisch;fish
+Frosch;frog
+sehen, schauen, Schau mal.;to look
+oder;or
+(auf) wiedersehen, tschau, tschüss;bye
+Krokodil;crocodile
+essen, fressen;to eat
+gehen;to go
+Gorilla;gorilla
+Honig;honey
+Insekt;insect
+müssen;must
+Anmerkung, Notiz;note
+Breitmaulfrosch;wide-mouthed frog
+du, Sie, ihr;you
+wie viele;how many
+ist;is
+Schultasche;school bag
+hassen, nicht ausstehen konnen;to hate
+hier;here
+es;it
+Lass(t) ...;Let's ...
+Mitternacht;midnight
+unser/e;our
+Lieblings-;favourite
+finden;to find
+Haarband;hairband
+Hut;hat
+hell;light
+Hemd;shirt
+Schuh;shoe
+Rock;skirt
+Socke;sock
+Sonnenbrille;sunglasses
+Pullover;sweater
+Krawatte;tie
+T-shirt;T-shirt
+nicht;not (...n't)
+Kind;child
+sauber machen, putzen;to clean
+schließen, zumachen;to close
+öffnen, aufmachen;to open
+Bild;picture
+sich (hin-)setzen;to sit down
+sprechen;to speak
+aufstehen;to stand up
+herausnehmen;to take out
+(Schul-)Klasse;class
+eigener/eigene/eigenes;own

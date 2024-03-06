@@ -1,1 +1,15 @@
-"Loch";"hole""(irgend-)etwas";"anything""(sich) ausleihen";"to borrow""passen";"to fit""anprobieren";"to try on""wehtun, schmerzen";"to hurt""Gedicht";"poem""kitzeln";"to tickle""jemand";"somebody""rückwärts";"backwards""aufregend";"exciting""heute Abend";"tonight""Pferd";"horse""Gebäude";"building""Lass(t) uns verschwinden.";"Let's get out of here."
+Loch;hole
+(irgend-)etwas;anything
+(sich) ausleihen;to borrow
+passen;to fit
+anprobieren;to try on
+wehtun, schmerzen;to hurt
+Gedicht;poem
+kitzeln;to tickle
+jemand;somebody
+rückwärts;backwards
+aufregend;exciting
+heute Abend;tonight
+Pferd;horse
+Gebäude;building
+Lass(t) uns verschwinden.;Let's get out of here.
