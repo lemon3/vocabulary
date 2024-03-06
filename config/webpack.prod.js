@@ -6,6 +6,7 @@ const fs = require('fs');
 const { wordim } = require('./wordim');
 const { amazingFlashCards } = require('./amazingFlashCards');
 const { flashCards } = require('./flashCards');
+const { simpleAnki } = require('./simpleAnki');
 
 const units = [
   'more1-unit01',
@@ -32,7 +33,7 @@ const versions = [
     transform: (content, file) => amazingFlashCards(content),
   },
   {
-    name: 'flashcards',
+    name: 'plain-flashcards',
     extension: 'zip',
     transform: (content, file) => {
       const json = flashCards(content);
@@ -40,6 +41,11 @@ const versions = [
       zip.addFile(`${file}.json`, Buffer.from(json, 'utf8'));
       return zip.toBuffer();
     },
+  },
+  {
+    name: 'simple-anki',
+    extension: 'csv',
+    transform: (content, file) => simpleAnki(content),
   },
 ];
 
