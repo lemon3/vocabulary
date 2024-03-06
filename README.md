@@ -66,7 +66,7 @@ Help your child or yourself learn the vocabulary from this book quickly!
 
 ### Android os (Google)
 #### "smart repetition / memorycard" app
-1) download [smart repetition](https://play.google.com/store/apps/details?id=com.kuraeva.memorycard) from the Goole Play store.
+1) download [smart repetition / memorycard](https://play.google.com/store/apps/details?id=com.kuraeva.memorycard) from the Goole Play store.
 2) download e.g. [unit1 vocabulary](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/text-file/more1-unit01.txt).
 3) import this file into the app
 
