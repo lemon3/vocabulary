@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "4ec7e8b28d0ccfb8b634e703",
+      "id": "fd2bb34d1380aa6a49c77056",
       "name": "More! 1 - UNIT 8",
-      "date": "2024-03-06T08:32:01.626Z",
+      "date": "2024-03-06T09:24:37.643Z",
       "words": [
         {
-          "id": "a97e9c6401ab3330a5f4254a",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "c072430e41e7c80bea47431c",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "Loch",
             "language": "de"
@@ -16,12 +16,12 @@
             "word": "hole",
             "language": "en"
           },
-          "hint": "Have your jeans got holes in them?",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "bd7028eeaa69b1dea1621afd",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "a8f7fa83c3ee1317449e745b",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "(irgend-)etwas",
             "language": "de"
@@ -30,12 +30,12 @@
             "word": "anything",
             "language": "en"
           },
-          "hint": "Is there anything in the box?",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "6f0afc1eaad8e3b444b44c23",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "cd18da345759bc8ad3ecf564",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "(sich) ausleihen",
             "language": "de"
@@ -44,12 +44,12 @@
             "word": "to borrow",
             "language": "en"
           },
-          "hint": "Can I borrow your sweater tomorrow?",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "1fa8c8c6630ec7f915760875",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "a35d523419e9b38392af631a",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "passen",
             "language": "de"
@@ -58,12 +58,12 @@
             "word": "to fit",
             "language": "en"
           },
-          "hint": "These jeans don't fit.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "e329f9af4f47c7c1768c4d35",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "906c82832b8867b0d564772a",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "anprobieren",
             "language": "de"
@@ -72,12 +72,12 @@
             "word": "to try on",
             "language": "en"
           },
-          "hint": "Can I try these trousers on?",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "6d74a6e2edd17b5da0178a9e",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "9f96c0044a13dd5d133523dd",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "wehtun, schmerzen",
             "language": "de"
@@ -86,12 +86,12 @@
             "word": "to hurt",
             "language": "en"
           },
-          "hint": "My head hurts!",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "a137877b6ab1113828e69821",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "fc86a222fa1682d086aee246",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "Gedicht",
             "language": "de"
@@ -100,12 +100,12 @@
             "word": "poem",
             "language": "en"
           },
-          "hint": "He likes to write poems.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "b50f2fafe1f96a760e1e7cd6",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "d0f1fbf0e9bdd8caeb86ebd3",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "kitzeln",
             "language": "de"
@@ -114,12 +114,12 @@
             "word": "to tickle",
             "language": "en"
           },
-          "hint": "Please don't tickle me!",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "ba8db3e1065f18a42bfd2ffc",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "f94256276ac4f82d9185032d",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "jemand",
             "language": "de"
@@ -128,12 +128,12 @@
             "word": "somebody",
             "language": "en"
           },
-          "hint": "There's somebody behind the bushes.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "41d5aa1a312b26ef35f65609",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "3476ae137aa3dc6b75230e41",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "rückwärts",
             "language": "de"
@@ -142,12 +142,12 @@
             "word": "backwards",
             "language": "en"
           },
-          "hint": "I can spell the word backwards too.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "539a18c8a37e0db2b49b9be6",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "1a90e5144bc9f3935074d2bd",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "aufregend",
             "language": "de"
@@ -156,12 +156,12 @@
             "word": "exciting",
             "language": "en"
           },
-          "hint": "It's a very exciting costume.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "c0246a0f5f0128e47bebce76",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "e093d5b225bb90599f248c85",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "heute Abend",
             "language": "de"
@@ -170,12 +170,12 @@
             "word": "tonight",
             "language": "en"
           },
-          "hint": "They all want to win the big prize tonight.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "22ad330be4f0db0866a67e0b",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "0f8aa8beb61b19884f45168d",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "Pferd",
             "language": "de"
@@ -184,12 +184,12 @@
             "word": "horse",
             "language": "en"
           },
-          "hint": "She rides her horse at weekends.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "2c482af55304a260d207197e",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "977d4a42f34e39ce65857a32",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "Gebäude",
             "language": "de"
@@ -198,12 +198,12 @@
             "word": "building",
             "language": "en"
           },
-          "hint": "The children go into the building.",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "hint": "",
+          "groupId": "61efd92d0a52026d42b2f2af"
         },
         {
-          "id": "fbfec7c812a1767d51764b0f",
-          "date": "2024-03-06T08:32:01.626Z",
+          "id": "8a3d1c697103f7052e047b1b",
+          "date": "2024-03-06T09:24:37.643Z",
           "word": {
             "word": "Lass(t) uns verschwinden.",
             "language": "de"
@@ -213,7 +213,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "fc2490daf4823e396c11e5ec"
+          "groupId": "61efd92d0a52026d42b2f2af"
         }
       ]
     }
