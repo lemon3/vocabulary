@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "35c736cfd118120ef6a3fbd7",
+      "id": "06fd01d97d4e0f77f02243ea",
       "name": "More! 1 - UNIT 10",
-      "date": "2024-03-06T07:35:05.397Z",
+      "date": "2024-03-06T08:32:01.626Z",
       "words": [
         {
-          "id": "471a071e9f5beea89b188c1b",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "047ec5b0160ed9c5908d32d5",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "wie viel kostet/kosten ...",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "How much are the trainers?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "44bd4e1151000a695d16b564",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "7f48facf1a548ce86609db27",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Preis, Rechnungsbetrag",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "The price is six pounds ninety-nine.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "027335b56defa3db0feaa742",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "51e0db925ff5045b90fb5d0d",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "diese",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "I'd like these shoes here.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "0bee6bd555fd1672016a4e6c",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "c79ddbdc08438e329cb43dde",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "jene",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "I'd like those trainers over there.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "0ceb4e04b7194457143a39ef",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "20e369cdf9a4881074030280",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Darf es noch etwas sein?",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "401c2792f499dca2dda149ec",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "49db40d2c79f2f0906d92e0f",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Kann ich dir/Ihnen behilflich sein?",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "af8d586a521fffe8b1810af3",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "de0e5e13522468a4694ce6fd",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Computerspiel",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "How much is the computer game?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "714ad2345589cf3c26deabcf",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "1b0594d73ab03d1a0483fc5b",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Kopfhörer",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "She can't hear you. She has headphones on.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "a68fecac1795f7fc97277d38",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "55c1318327c4376bff2bf2b3",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Schlüsselanhänger",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "I put my key on a key ring.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "7d74c56bb42e74786aca5f4f",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "7400b5d9f8990b27ce6fba5b",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Zeitschrift, Magazin",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "Can I buy this magazine?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "eb9a3864396fc051e61431e0",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "ae500c47ba1c046c76ab4a88",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Mobiltelefon, Handy",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "Can I have a new mobile phone?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "1e8888e6c3be9fb9cf1b3641",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "7ebfaecf3bd3bd715a81727f",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Roller",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "I ride my scooter to school.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "6de8fa98a501f93307c483be",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "58c790d7f8cb6a89a17a5fdb",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Süßigkeiten",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "The sweets are one ninety-nine.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "f8d3dab1cbb2b9144f716039",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "221d831ff7869b45a3627ebe",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Dose",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "A tin of chicken soup, please.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "e34af3f5edafd74757905307",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "76e77ef9871041733fb594f4",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Herzlichen Glückwunsch!",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "b813eb53f5fc159bb55b325d",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "616cf3d8d41333304b8f3898",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Regel",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "You know the rules.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "ee4938e1837fac2ce6645cdf",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "510ccb7d22e8c8618c6fe6b3",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Kunde/Kundin",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "His customers like to come to the shop.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "099215898c83e7389c17c4e2",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "ee063c59826991fef9fff78b",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "alles",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "Have you got everything?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "afdf7e47ed19f609f1f1cd37",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "8e86aeb7daf2826ebfaebc56",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "teuer",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "The things in this shop are very expensive.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "e45a6849cd565835b2a88523",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "24e017b3f531d993d6fa66d8",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "einschlafen",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Mr Anderson sits on his chair and falls asleep.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "ff5cadee74b3f8916c0771eb",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "a034fb284a4ea062f5afb4f2",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Auf Wiedersehen., Tschüss.",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "c17742159738b3393b162c99",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "7ee756a451de675ff31d5686",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Ich hätte gerne ... , Ich möchte ...",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "I'd like 20 kilos of rice.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "b337bd065ea868ffbfd2dd31",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "d3b5ba2f413041c15a4b45da",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Kein Wunder.",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "2ec71564daafbff28d9ee332",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "ecf274e292142642238ca008",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "plötzlich, auf einmal",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "Suddenly, he hears the doorbell.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "e090015c0d36b535f355ad1b",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "2c5b6b1a7f19b33dcd3251fa",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Stadt",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "There's an old shop in the town.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "33f5c9c2012437c2d4c3097b",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "b56d196bfb8d6850f0db5a83",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "weggehen, fortgehen",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "The horse picks up the food and walks away.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "0748aa652bff9db751b3696a",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "8c1ef4f25f90771625d23b6a",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Umkleidekabine",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "You can try them on in the changing room.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "b436fc81f0348ada4a637e96",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "400010f0b0763babf2aa5e8a",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Kein Problem.",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "05c4e7440e1015d09664fe89",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "5d3b39bc32cc6e4a3fd6604b",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "da/dort drüben",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "How much are those socks over there in the window?",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "c8f464fe678644b91be666b3",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "b2f4429cb2e16eca527db767",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Schublade",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "All my socks are in the drawer.",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "6e06a13fe06e640fcef8dfe6",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "4cfa35424e1a7079cb917f78",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "So ist es besser.",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "d1badc06d7d274a9b7d36dcb",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "868372f8a2cb01f083038d79",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Was kann ich für dich/Sie tun?",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "c0e728d637357fbe9029cb40",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "076e83b310def552ff959e41",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Pass(t) auf.; Sei(d) vorsichtig.",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         },
         {
-          "id": "edc9cd5017e1a40ff157237e",
-          "date": "2024-03-06T07:35:05.397Z",
+          "id": "bd754db4693b65f89534f052",
+          "date": "2024-03-06T08:32:01.626Z",
           "word": {
             "word": "Einen Augenblick bitte.; Moment mal.",
             "language": "de"
@@ -479,7 +479,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "b1f3c99901540cbd79c12c48"
+          "groupId": "cd7b5fe462745dbefe54c9a9"
         }
       ]
     }

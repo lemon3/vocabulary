@@ -1,12 +1,9 @@
 /* global require, module */
 const CopyPlugin = require('copy-webpack-plugin');
-const AdmZip = require('adm-zip');
-const fs = require('fs');
 
 const { wordim } = require('./wordim');
-const { amazingFlashCards } = require('./amazingFlashCards');
-const { flashCards } = require('./flashCards');
-const { simpleAnki } = require('./simpleAnki');
+const { plainFlashCards } = require('./plainFlashCards');
+const { toCSV } = require('./toCSV');
 
 const units = [
   'more1-unit01',
@@ -30,22 +27,22 @@ const versions = [
   {
     name: 'amazing-flash-cards',
     extension: 'csv',
-    transform: (content, file) => amazingFlashCards(content),
+    transform: (content, file) => toCSV(content, true),
   },
   {
     name: 'plain-flashcards',
     extension: 'zip',
-    transform: (content, file) => {
-      const json = flashCards(content);
-      const zip = new AdmZip();
-      zip.addFile(`${file}.json`, Buffer.from(json, 'utf8'));
-      return zip.toBuffer();
-    },
+    transform: (content, file) => plainFlashCards(content, file),
   },
   {
-    name: 'simple-anki',
+    name: 'csv-file',
     extension: 'csv',
-    transform: (content, file) => simpleAnki(content),
+    transform: (content, file) => toCSV(content),
+  },
+  {
+    name: 'text-file',
+    extension: 'txt',
+    transform: (content, file) => toCSV(content),
   },
 ];
 

@@ -1,6 +1,8 @@
 /* global module */
+const AdmZip = require('adm-zip');
+
 module.exports = {
-  flashCards: (buffer) => {
+  plainFlashCards: (buffer, file) => {
     // copy-webpack-plugin passes a buffer
     const data = JSON.parse(buffer.toString());
     let fc = {
@@ -24,6 +26,10 @@ module.exports = {
 
     // pretty print to JSON with two spaces
     const jsonData = JSON.stringify(fc, null, 2);
-    return jsonData;
+
+    // create zip
+    const zip = new AdmZip();
+    zip.addFile(`${file}.json`, Buffer.from(jsonData, 'utf8'));
+    return zip.toBuffer();
   },
 };

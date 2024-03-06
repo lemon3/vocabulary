@@ -1,13 +1,13 @@
 {
   "groups": [
     {
-      "id": "676e59ac370438bb4ac5bfde",
+      "id": "f2f6bbb1679d57e921be580f",
       "name": "More! 1 - UNIT 5",
-      "date": "2024-03-06T07:35:05.393Z",
+      "date": "2024-03-06T08:32:01.625Z",
       "words": [
         {
-          "id": "4888d8d98fa700294d4bcea4",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "91878f7627b49194eae9b4ca",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "fester Freund",
             "language": "de"
@@ -17,11 +17,11 @@
             "language": "en"
           },
           "hint": "Jack is her boyfriend.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "7844ec924d14208057931248",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "79d2a1d50a0e35bea2957c19",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "sein/e; ihr/e",
             "language": "de"
@@ -31,11 +31,11 @@
             "language": "en"
           },
           "hint": "This is my band. Its name is Project 11.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "089bfca4421dc8d64465fd10",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "473d490a138782a3a2eb3de2",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "spielen",
             "language": "de"
@@ -45,11 +45,11 @@
             "language": "en"
           },
           "hint": "They play the guitar.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "f5e250839ab06379288c43c8",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "8af84e81b5e11ec549400464",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Schwester",
             "language": "de"
@@ -59,11 +59,11 @@
             "language": "en"
           },
           "hint": "Jessica is my sister.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "b568e498e351bed1bb48c39a",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "43426a712817b1c2ab4f825b",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "können; nicht können",
             "language": "de"
@@ -73,11 +73,11 @@
             "language": "en"
           },
           "hint": "She can play the drums. He can't sing.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "99af515cd6fce89a9f246bdf",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "4f01ec031b0ef94c8b9f7fd9",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Konzert",
             "language": "de"
@@ -87,11 +87,11 @@
             "language": "en"
           },
           "hint": "Let's go to the concert tomorrow.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "87aef7698799d7ab545414c5",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "9968e64c5d0d7000932735a1",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "tanzen",
             "language": "de"
@@ -101,11 +101,11 @@
             "language": "en"
           },
           "hint": "Let's dance to the music!",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "bff6ed73a97cffcee4538032",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "809efd52cb31f11fa5134025",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Keine Sorge.",
             "language": "de"
@@ -115,11 +115,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "843c4f47260f78ceea81bba3",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "4ce26335610ad820d5cbfbcc",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Arbeit; Aufgabe",
             "language": "de"
@@ -129,11 +129,11 @@
             "language": "en"
           },
           "hint": "She has a good job.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "efe36c14425f7b213020611b",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "b0255e17d916680f55095004",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "perfekt",
             "language": "de"
@@ -143,11 +143,11 @@
             "language": "en"
           },
           "hint": "The job is perfect for you.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "6067b0ae0ede8f831f3de505",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "4ef83d584df721b7a3f5825c",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "tragen",
             "language": "de"
@@ -157,11 +157,11 @@
             "language": "en"
           },
           "hint": "Can you carry my guitar?",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "e15ae990ec7907eea22ba2bc",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "4452c81b38f68613b07f8d11",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "auf etwas stehen",
             "language": "de"
@@ -171,11 +171,11 @@
             "language": "en"
           },
           "hint": "I can stand on my head.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "47b8eb5cf411f6ef79397ca3",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "21b0c2f6078dae59681de4d8",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Zunge",
             "language": "de"
@@ -185,11 +185,11 @@
             "language": "en"
           },
           "hint": "He can touch his nose with his tongue.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "a32cb913c7ae326bd3605025",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "0a09517543e8fd3d263db03d",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "berühren",
             "language": "de"
@@ -199,11 +199,11 @@
             "language": "en"
           },
           "hint": "Please don't touch my guitar.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "107740200b6bb90907c2a3cb",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "2a52d6d3efa5651bc175601c",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "auf etwas gehen",
             "language": "de"
@@ -213,11 +213,11 @@
             "language": "en"
           },
           "hint": "Can you walk on your hands?",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "1132da4616da51b299f1bb22",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "b99bc0b663def3ee14cc3426",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "wackeln",
             "language": "de"
@@ -227,11 +227,11 @@
             "language": "en"
           },
           "hint": "He can wiggle his ears.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "31f838e0e403b10c32e2e12e",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "d868e7f74ecb8138a8fd94a7",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Dose",
             "language": "de"
@@ -241,11 +241,11 @@
             "language": "en"
           },
           "hint": "Look, he carries fifteen cans.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "59c454686cc19412b6344533",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "cd7d6bc4d0874747a211b0ae",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "trinken",
             "language": "de"
@@ -255,11 +255,11 @@
             "language": "en"
           },
           "hint": "I can't drink fifteen cans.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "9ac4695f59e90db92c19854c",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "8a8c54e93fcbed0a550a0cc2",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "hundert",
             "language": "de"
@@ -269,11 +269,11 @@
             "language": "en"
           },
           "hint": "Can you eat a hundred apples?",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "3e8aca78740a0e3498db59c6",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "a012886a0a4f221c8fe9f71c",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "in einem Zug, auf einmal",
             "language": "de"
@@ -283,11 +283,11 @@
             "language": "en"
           },
           "hint": "Can you drink five cans in one go?",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "a16c8cd2dbc24b440fb4021c",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "3e71fedc77a0d7a59d87180f",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Ach wirklich?",
             "language": "de"
@@ -297,11 +297,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "8fe56e9801d063045120707e",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "ff295e64c504730d254b637c",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Das bin ich.",
             "language": "de"
@@ -311,11 +311,11 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "2058940e1148e5e0acf59ad7",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "04abd8397cf769354784f65b",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Wirtschaft",
             "language": "de"
@@ -325,11 +325,11 @@
             "language": "en"
           },
           "hint": "The economy is the world of money.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "8cf7cb702ea38d55ba35e6f4",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "37cd99a036dc893635a4b883",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Krankenhaus",
             "language": "de"
@@ -339,11 +339,11 @@
             "language": "en"
           },
           "hint": "The Clown Doctors go to hospitals and help children.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "45a1d756c9eedd75aa9de899",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "beafbf823be06649cfd4449b",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "lachen",
             "language": "de"
@@ -353,11 +353,11 @@
             "language": "en"
           },
           "hint": "They make children laugh.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "d56f5afbde764a8030280a9f",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "9a45015f88729426835840d8",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "(Taschen-)Geld",
             "language": "de"
@@ -367,11 +367,11 @@
             "language": "en"
           },
           "hint": "I get my pocket money from my mum and dad.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "043e355b58249eac2f48a62b",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "f95cea95eed052a072c4c001",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Pfund",
             "language": "de"
@@ -381,11 +381,11 @@
             "language": "en"
           },
           "hint": "A cup of apple juice is 2 pounds.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "92fefa8a68684f7627c16783",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "7c54780a63e1dcd8f1a14b84",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Gewinn, Profit",
             "language": "de"
@@ -395,11 +395,11 @@
             "language": "en"
           },
           "hint": "It's 120 pounds. That's my profit.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "276cc31693aba3f602645731",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "37d5e578cde80f774ebff45c",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Schulkantine",
             "language": "de"
@@ -409,11 +409,11 @@
             "language": "en"
           },
           "hint": "We have apple juice in our school canteen.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "b191f6617c6577a40766f5c8",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "c4bd80a1dd122e37c1eb24c4",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Tisch",
             "language": "de"
@@ -423,11 +423,11 @@
             "language": "en"
           },
           "hint": "I put a table in our playground.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "1350c2248ecbcc4b3aa78509",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "92ea022192e9f27917cf72b6",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Lehrer/Lehrerin",
             "language": "de"
@@ -437,11 +437,11 @@
             "language": "en"
           },
           "hint": "Mr Davis is my teacher at school.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "b9777c19a544e1b935197833",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "2f910ddb9ec7917c097fd401",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Onkel",
             "language": "de"
@@ -451,11 +451,11 @@
             "language": "en"
           },
           "hint": "My uncle is my dad's brother.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "b031e20fca94752987cef62f",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "f90136b33103580a0288e9ed",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "waschen",
             "language": "de"
@@ -465,11 +465,11 @@
             "language": "en"
           },
           "hint": "I wash my mum's car.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "08ff18944c1b56d10325314c",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "afb5b9ce2de71d69c6fbdc5e",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "nichts",
             "language": "de"
@@ -479,11 +479,11 @@
             "language": "en"
           },
           "hint": "There's nothing in the garden.",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         },
         {
-          "id": "991cf86c6b51bebb580ed70c",
-          "date": "2024-03-06T07:35:05.393Z",
+          "id": "8ec7c9f4c352655a54b4999d",
+          "date": "2024-03-06T08:32:01.625Z",
           "word": {
             "word": "Entschuldigung?, Wie bitte?",
             "language": "de"
@@ -493,7 +493,7 @@
             "language": "en"
           },
           "hint": "",
-          "groupId": "7ee4243a2be4a6213a9a4603"
+          "groupId": "97d7f9930833cec881e75f4c"
         }
       ]
     }
