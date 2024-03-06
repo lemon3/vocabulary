@@ -23,7 +23,7 @@ English - German vocabulary from the book "MORE! 1" sorted by chapter/unit. For 
 Help your child or yourself learn the vocabulary from this book quickly!
 
 ## Files
-| worddim<br>(json) | amazing flash cards<br>(csv) | plain-flashcards<br>(json) | smart repetition<br>(txt) | simple anki<br>(csv) |
+| worddim<br>(json) | amazing flash cards<br>(csv) | plain-flashcards<br>(zipped json) | smart repetition<br>(txt) | simple anki<br>(csv) |
 |-------|-------|-------|-------|-------|
 | [unit 01](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit01.wordim) | [unit 01](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit01.csv) | [unit 01](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/plain-flashcards/more1-unit01.zip) | [unit 01](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/smart-repetition/more1-unit01.txt) | [unit 01](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/csv-file/more1-unit01.csv) |
 | [unit 02](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/wordim/more1-unit02.wordim) | [unit 02](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/amazing-flash-cards/more1-unit02.csv) | [unit 02](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/plain-flashcards/more1-unit02.zip) | [unit 02](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/smart-repetition/more1-unit02.txt) | [unit 02](https://raw.githubusercontent.com/lemon3/vocabulary/main/dist/csv-file/more1-unit02.csv) |
