@@ -5,7 +5,7 @@ module.exports = {
     const data = JSON.parse(buffer.toString());
     let csv = '';
     const fun = (word) => {
-      // replace all ';' as it is uses for the seperator
+      // replace all ';' as it is uses for the separator
       const de = word.de.replaceAll(';', ',');
       const en = word.en.replaceAll(';', ',');
       csv +=
